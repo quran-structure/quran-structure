@@ -653,3 +653,132 @@ footer.site-footer {
   border-bottom: 1px solid var(--border-light);
   padding-bottom: 0.5rem;
 }
+
+/* Newbie Quick Guide */
+.newbie-guide-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-left: 4px solid var(--accent-emerald);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.newbie-guide-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.guide-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.newbie-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--border-light);
+}
+
+.step-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.step-num {
+  background: var(--accent-gold-soft);
+  color: #875708;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 0.8rem;
+  min-width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid #ebd7ab;
+}
+
+/* Cluster Storyline Card */
+.cluster-storyline-card {
+  background: linear-gradient(135deg, #fdfbf7 0%, #f6f3eb 100%);
+  border: 1px solid #ded8c8;
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+
+.storyline-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.storyline-title h4 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--accent-emerald);
+}
+
+.storyline-narrative {
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  line-height: 1.6;
+  margin-bottom: 0.6rem;
+}
+
+.storyline-takeaway {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  background: #ffffff;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+/* Layman Take Box in Inspector */
+.layman-take-box {
+  background: var(--accent-gold-soft);
+  border: 1px solid #ebd7ab;
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.25rem;
+}
+
+.layman-take-header {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #875708;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.layman-take-text {
+  font-size: 0.95rem;
+  color: #2b2315;
+  line-height: 1.6;
+}

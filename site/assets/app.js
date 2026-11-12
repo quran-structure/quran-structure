@@ -172,16 +172,23 @@ document.addEventListener('DOMContentLoaded', async () => {
       </div>
 
       <div style="background: var(--accent-gold-soft); border: 1px solid #ebd7ab; border-radius: var(--radius-sm); padding: 1.25rem; margin-bottom: 1.5rem;">
-        <h4 style="font-family: var(--font-sans); font-size: 0.88rem; font-weight: 700; color: #875708; text-transform: uppercase; margin-bottom: 0.4rem;">
-          🌟 Surah Personality & Atmospheric Atmosphere (Jaww al-Sūrah)
-        </h4>
-        <div style="font-size: 1.1rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem; flex-wrap: wrap;">
+          <h4 style="font-family: var(--font-sans); font-size: 0.88rem; font-weight: 700; color: #875708; text-transform: uppercase;">
+            🌟 Surah Personality & Atmosphere (Jaww al-Sūrah)
+          </h4>
+          <span class="badge badge-reltype" style="background: #ffffff; color: #875708; font-size: 0.75rem;">Unique Identity</span>
+        </div>
+        <div style="font-size: 1.15rem; font-weight: 700; color: var(--accent-emerald); margin-bottom: 0.5rem;">
           ${surah.personality_title || surah.name_en}
         </div>
-        <p style="font-size: 0.95rem; color: var(--text-primary); line-height: 1.6;">
+        <p style="font-size: 0.95rem; color: var(--text-primary); line-height: 1.6; margin-bottom: 0.6rem;">
           ${surah.personality_summary || 'Each surah has a unique spiritual atmosphere, thematic axis, and rhetorical cadence.'}
         </p>
-        ${surah.distinctive_voice ? `<p style="font-size: 0.88rem; margin-top: 0.6rem; color: var(--accent-emerald);"><strong>Distinctive Voice:</strong> ${surah.distinctive_voice}</p>` : ''}
+        ${surah.distinctive_voice ? `
+          <div style="background: #ffffff; border: 1px solid #ebd7ab; border-radius: var(--radius-sm); padding: 0.5rem 0.75rem; font-size: 0.88rem; color: var(--text-secondary); margin-top: 0.5rem;">
+            <strong style="color: var(--accent-emerald);">💡 Spiritual Tone & Voice:</strong> ${surah.distinctive_voice}
+          </div>
+        ` : ''}
       </div>
 
       <div id="modalAyahsContainer">
@@ -298,6 +305,23 @@ document.addEventListener('DOMContentLoaded', async () => {
       activeClusters = ['tiwal', 'prophetic', 'narrative', 'hawamim', 'musabbihat', 'final'];
     } else if (clusterDefinitions[cluster]) {
       activeClusters = [cluster];
+    }
+
+    // Update Layman Storyline Banner for Newbies
+    const storylineCard = document.getElementById('clusterStorylineCard');
+    if (storylineCard && clusterStorylines[cluster]) {
+      const sl = clusterStorylines[cluster];
+      storylineCard.innerHTML = `
+        <div class="storyline-title">
+          <h4>${sl.title}</h4>
+          <span class="badge badge-reltype" style="background: var(--accent-gold-soft); color: #875708; border-color: #ebd7ab;">${sl.badge}</span>
+        </div>
+        <p class="storyline-narrative">${sl.narrative}</p>
+        <div class="storyline-takeaway">
+          <span style="font-size: 1.1rem;">💡</span>
+          <span><strong>Quick Summary:</strong> ${sl.takeaway}</span>
+        </div>
+      `;
     }
 
     // Determine Canvas Dimensions
@@ -430,6 +454,97 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
+  // Helper: Layman Plain-English Explanations for Newcomers
+  const laymanTakes = {
+    'rel_001_002_petition_response': "In Surah 1 (Al-Fātiḥah), humanity asks God: 'Guide us to the Straight Path.' Surah 2 (Al-Baqarah) opens with the immediate answer: 'Here is the Book—in it is guidance.' An instant question-and-answer handshake!",
+    'rel_002_003_victory_response': "Surah 2 ends with the community's heartfelt prayer: 'Grant us victory over the disbelievers!' Surah 3 opens by reassuring the believers after the trial of Uhud, showing how God grants steadfastness.",
+    'rel_003_004_uhud_orphans': "Surah 3 closes with the martyrs who fell in battle. Surah 4 immediately tackles the human aftermath: protecting the widows and orphans left behind, establishing justice and inheritance.",
+    'rel_004_005_covenant_fulfillment': "Surah 4 concludes with laws of inheritance and divine covenants. Surah 5 opens with the overarching command: 'O you who believe, honor and fulfill all your covenants!'",
+    'rel_009_010_messenger_astonishment': "Surah 9 concludes with the compassionate Messenger sent to humanity. Surah 10 opens by addressing the skeptics who asked: 'Why would God choose a mortal human being to guide us?'",
+    'rel_018_019_transition': "Surah 18 ends by affirming that the Prophet is a mortal servant receiving revelation. Surah 19 opens by showing how God honors humble human servants (Zechariah, Mary, and Jesus) with miraculous mercy.",
+    'rel_019_020_transition': "Surah 19 ends with the eerie silence of ancient destroyed empires. Surah 20 immediately comforts the Prophet: 'We did not send down the Qur'an upon you that you should suffer distress!'",
+    'rel_020_021_transition': "Surah 20 ends on waiting ('Each of us is waiting, so wait!'). Surah 21 shatters the waiting: 'Humanity's reckoning has drawn near while they are heedless!'",
+    'rel_021_022_transition': "The Prophet prays at the end of 21: 'My Lord, judge in truth!' Surah 22 opens with the colossal reality of that truth: 'The earthquake of the Final Hour is a tremendous thing!'",
+    'rel_022_023_transition': "Surah 22 ends with the command: 'Establish prayer, give zakah, and hold fast to Allah.' Surah 23 starts with the reward: 'Certainly have the believers succeeded—those who are humble in their prayers and pay zakah!'",
+    'rel_023_024_transition': "Surah 23 ends with a plea for divine mercy and praised those who guard their chastity. Surah 24 introduces the legal and ethical charter that practically protects society from slander and shields modesty.",
+    'rel_024_025_transition': "Surah 24 closes with God's dominion over heavens and earth. Surah 25 opens by celebrating that sovereignty with 'Tabāraka', sending the Criterion upon His servant to guide the worlds.",
+    'rel_025_026_transition': "Surah 25 warns that denial brings inevitable retribution. Surah 26 consoles the Prophet's heartbreak over their denial, recounting seven ancient messengers who were similarly vindicated.",
+    'rel_026_027_transition': "Surah 26 exempts and praises the believers who do good deeds. Surah 27 opens by declaring the Book as glad tidings specifically for those believers who pray and give zakah.",
+    'rel_027_028_transition': "Surah 27 ends with the promise: 'He will show you His signs and you will recognize them.' Surah 28 opens with the greatest sign: the providential story of baby Moses defeating Pharaoh.",
+    'rel_039_040_transition': "Surah 39 ends with the angels surrounding the Throne after Judgment Day. Surah 40 opens by revealing that those same Throne-bearing angels are praying right now for the forgiveness of believers on earth!",
+    'rel_040_041_transition': "Surah 40 ends with the futility of regretting disbelief when punishment arrives. Surah 41 opens with an expounded Arabic Book offering clear warnings before it is too late.",
+    'rel_041_042_transition': "Surah 41 ends with signs in the cosmos and human soul. Surah 42 connects those signs to the universal revelation uniting all biblical and prophetic messengers under one faith.",
+    'rel_042_043_transition': "Surah 42 describes revelation as a life-giving spirit guiding to the straight path. Surah 43 swears by the clear Book rooted in the celestial Mother of the Book, exposing earthly gold as trivial.",
+    'rel_043_044_transition': "The Prophet laments in 43: 'My Lord, they do not believe!' and God says 'They will soon know.' Surah 44 reveals what they will know: the arrival of the visible apocalyptic smoke.",
+    'rel_044_045_transition': "Surah 44 ends with 'Watch, for they are watching.' Surah 45 points to cosmic signs and depicts the scene where all waiting ends: every nation fallen on its knees.",
+    'rel_045_046_transition': "Surah 45 concludes with praise belonging to 'Al-Aziz Al-Hakim'. Surah 46 opens with those exact two attributes, linking them to the purposeful creation of heavens and earth.",
+    'rel_046_047_transition': "Surah 46 ends with the command to have patience like the messengers of firm resolve. Surah 47 names the Prophet Muhammad and begins active divine defense, nullifying the plots of his enemies.",
+    'rel_056_057_transition': "Surah 56 ends with: 'Glorify the name of your Lord, the Supreme!' Surah 57 opens: 'Everything in the heavens and earth has already glorified Him!' The command meets universal realization.",
+    'rel_057_058_transition': "Surah 57 affirms God's all-encompassing knowledge and bounty. Surah 58 demonstrates that knowledge in the intimate hearing of a distressed woman who whispered in her home, heard from above seven heavens.",
+    'rel_058_059_transition': "Surah 58 concludes with the victory of the Party of Allah. Surah 59 immediately demonstrates the downfall of those who opposed Allah and His Messenger (the expulsion of Banu an-Nadir).",
+    'rel_059_060_transition': "Surah 59 concludes with the Most Beautiful Names of the Supreme Sovereign. Surah 60 opens by asking: If God is your King, how can you secretly ally with His enemies?",
+    'rel_060_061_transition': "Surah 60 forbids alliance with those under divine anger. Surah 61 demands internal integrity: why say what you do not do? Stand united like a lead-cemented wall.",
+    'rel_061_062_transition': "Surah 61 ends with the prophecy of Ahmad. Surah 62 celebrates the fulfillment of that prophecy in the Prophet sent to the unlettered, shifting to continuous praise (Yusabbihu).",
+    'rel_062_063_transition': "Surah 62 warns against leaving the Friday sermon for business. Surah 63 unmasks the real danger: hypocrites who come to the mosque with deceitful oaths.",
+    'rel_063_064_transition': "Surah 63 ends with the hoarder's deathbed panic to give charity. Surah 64 names the Day of Mutual Loss and Gain where worldly hoarders discover their true bankruptcy.",
+    'rel_064_065_transition': "Surah 64 warns of domestic friction with family. Surah 65 provides the sacred legal boundaries for divorce with compassion, guaranteeing relief and provision for those with Taqwa.",
+    'rel_065_066_transition': "Surah 65 ends with God's knowledge encompassing all things in seven heavens and earth. Surah 66 shows that knowledge hearing a private confidence whispered in the Prophet's house.",
+    'rel_105_106_sanctuary_security': "Surah 105 destroyed the army of elephants to protect the Ka'bah. Surah 106 tells the Quraysh: since God protected your Sanctuary, worship the Lord of this House who fed you and kept you safe.",
+    'rel_114_001_cosmic_envelope': "The Grand Cosmic Loop: Surah 114 seeks refuge from the stealthy whisperer who misguides hearts. That refuge directly protects the prayer you make in Surah 1: 'Guide us to the Straight Path and don't let us go astray.' The end seals the beginning!"
+  };
+
+  // Helper: Cluster Storylines & Plain-English Summaries
+  const clusterStorylines = {
+    all: {
+      title: 'The Living Tapestry (All 60 Connected Surahs)',
+      badge: 'Macro Architecture',
+      narrative: 'Think of the Qur\'an not as isolated, separate chapters, but as a grand interconnected symphony. From the opening prayer for guidance in Surah 1, through the building of community laws, into the comforting stories of tested prophets, through the sublime hymns of cosmic praise, and down to the final protection surahs that loop all the way back to the opening prayer—every chapter hands the baton to the next.',
+      takeaway: 'The Qur\'an has an intentional divine flow. Moving from chapter to chapter reveals how faith, ethics, tests, and cosmic signs are bound together.'
+    },
+    tiwal: {
+      title: 'The Foundation Pillars (Surahs 1–9)',
+      badge: 'Worldview & Community',
+      narrative: 'In Surah 1 (Al-Fātiḥah), humanity prays: "Guide us to the Straight Path." In Surah 2 (Al-Baqarah), God immediately answers: "This is the Book—in it is guidance." From there, Surahs 2 through 9 systematically lay down the foundation: who God is, how to build a just society, family law, defending the vulnerable, and honoring covenants.',
+      takeaway: 'Faith begins with sincere prayer (1), receives the Book (2), defends the truth (3), protects the weak (4), and honors covenants (5–9).'
+    },
+    prophetic: {
+      title: 'The Tested Believer: Comfort in Hardship (Surahs 10–18)',
+      badge: 'Emotional Resilience',
+      narrative: 'After the legal foundations, the Qur\'an speaks directly to the human heart. Surahs 10 to 18 follow prophets who were mocked, outnumbered, or thrown into wells (Yūnus, Hūd, Yūsuf, Ibrāhīm). Surah 18 (Al-Kahf) brings four ultimate life trials: faith (the Cave youth), wealth (the garden), knowledge (Mūsā & Al-Khiḍr), and power (Dhū al-Qarnayn).',
+      takeaway: 'A spiritual shelter for difficult days—reminding you that every hardship has an appointed divine relief.'
+    },
+    narrative: {
+      title: 'Deliverance & Hope: How God Defends the Vulnerable (Surahs 19–28)',
+      badge: 'Providential Victory',
+      narrative: 'This 10-chapter epic starts with silent tears and ends with the collapse of an arrogant empire. It opens with an elderly prophet praying in secret and Mary giving birth alone under a palm tree (Surah 19). It moves through divine light and moral modesty (Surah 24), and peaks with baby Moses placed in a reed basket in the Nile, growing up to bring down Pharaoh (Surah 28).',
+      takeaway: 'No tyrant is too powerful for God, and no sincere whispered prayer is ever forgotten.'
+    },
+    hawamim: {
+      title: 'The 7 Silk Brocades: Dismantling Ego & Arrogance (Surahs 40–46)',
+      badge: 'Dībāj al-Qur\'ān',
+      narrative: 'Celebrated by the Prophet\'s companions as the "crown jewels" of the Qur\'an. All seven chapters open with the letters Ḥā-Mīm. They directly confront intellectual arrogance—people who think wealth and status make them untouchable. A secret believer speaks truth to power in Pharaoh\'s cabinet, nature invites our intellect to reflect, and worldly gold is shown to be cheap compared to eternal truth.',
+      takeaway: 'True strength is moral courage and humility before the Creator, not palaces, gold, or political muscle.'
+    },
+    eschatological: {
+      title: 'Cosmic Awakening: Signs in the Heavens (Surahs 54–57)',
+      badge: 'Awe & Reflection',
+      narrative: 'A cinematic, high-impact sequence: the moon splitting (Al-Qamar), the rhythmic reminder of boundless divine gifts—"Which of the favors of your Lord will you deny?" (Ar-Raḥmān), the three cohorts of human destiny (Al-Wāqiʿah), and the descent of Iron to balance spiritual light with material strength (Al-Ḥadīd).',
+      takeaway: 'Look up at the cosmos and look within your heart—gratitude is the only rational human response.'
+    },
+    musabbihat: {
+      title: 'The Cosmic Symphony & Everyday Peace (Surahs 57–66)',
+      badge: 'Celestial Praise & Social Order',
+      narrative: 'All across nature, trees, stars, and atoms are glorifying their Maker (Tasbīḥ). In these chapters, God links cosmic harmony to everyday ethics: hearing a distressed woman who felt wronged in her marriage (Al-Mujādilah), standing together in unshakeable solidarity (Aṣ-Ṣaff), attending Friday prayer without commercial distraction (Al-Jumuʿah), and treating spouses with mercy during divorce (Aṭ-Ṭalāq).',
+      takeaway: 'True worship isn\'t just singing God\'s praise—it is bringing justice, fairness, and compassion into our homes and communities.'
+    },
+    final: {
+      title: 'The Cosmic Circle & Ultimate Sanctuary (Surahs 105–114 & 114➔1)',
+      badge: 'The Grand Loop',
+      narrative: 'The short, powerful surahs memorized worldwide. From defeating the army of war elephants (105), to feeding the poor (107), abundant good (108), and pure monotheism (112). And the breathtaking climax: Surah 114 seeks refuge from the stealthy whisperer who causes human doubt—which directly protects the prayer you make in Surah 1 to stay on the Straight Path!',
+      takeaway: 'The Qur\'an is an unbroken circle. When you finish reading at An-Nās (114), you are immediately guided back to Al-Fātiḥah (1).'
+    }
+  };
+
   // Inspect Relationship details in Atlas
   function inspectRelationship(rel) {
     if (!atlasEdgeInspector || !inspectorContent) return;
@@ -440,6 +555,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (rel.confidence === 'supported_by_multiple_tafsir_sources') {
       confidenceBadge = `<span class="badge badge-confidence-multiple">Multiple Tafsir Authorities</span>`;
     }
+
+    const laymanText = laymanTakes[rel.id] || rel.description;
 
     let evHtml = '';
     relatedEvidence.forEach(ev => {
@@ -461,7 +578,21 @@ document.addEventListener('DOMContentLoaded', async () => {
         ${confidenceBadge}
         <span class="badge badge-reltype">${rel.relationship_type.replace(/_/g, ' ')}</span>
       </div>
-      <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-primary); margin-bottom: 0.75rem;">
+
+      <!-- Newbie Layman Take Callout -->
+      <div class="layman-take-box">
+        <div class="layman-take-header">
+          <span>💡</span> The Layman's Quick Take (Why They Connect):
+        </div>
+        <div class="layman-take-text">
+          ${laymanText}
+        </div>
+      </div>
+
+      <div style="font-family: var(--font-sans); font-size: 0.85rem; font-weight: 700; color: var(--accent-emerald); text-transform: uppercase; margin-bottom: 0.35rem;">
+        📜 Classical Scholarly Analysis:
+      </div>
+      <p style="font-size: 0.95rem; line-height: 1.6; color: var(--text-primary); margin-bottom: 0.75rem;">
         ${rel.description}
       </p>
       ${evHtml}
