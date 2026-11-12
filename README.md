@@ -71,10 +71,22 @@ python3 scripts/validate_data.py
 
 ---
 
-## Viewing the Research Atlas
+## Interactive Web Atlas
+
+Explore the live research atlas online:
+**🌐 [https://quran-structure.github.io](https://quran-structure.github.io)**
+
+* **Explore 114 Surahs:** Complete canonical Uthmani Hafs text, English translations, and distinct spiritual personality profiles (*Jaww al-Sūrah*).
+* **Interactive Atlas Graph:** Visual network map of 60 connected surahs with clickable nodes and transition handoffs.
+* **Classical Sunni Library:** 133 verified citations from Al-Biqāʿī, Ibn al-Zubayr al-Gharnāṭī, Al-Suyūṭī, Fakhr al-Dīn al-Rāzī, Ibn ʿĀshūr, Al-Ṭabarī, and Ibn Kathīr.
+* **Newbie-Friendly Quick Takes:** Plain-English explanations of why consecutive chapters connect.
+
+---
+
+## Viewing the Research Atlas Locally
 
 The web application in `site/` is completely static and lightweight. Open `site/index.html` directly in any modern browser or run a simple local web server:
 ```bash
 python3 -m http.server 8000 --directory site
 ```
-Visit `http://localhost:8000` to explore the 114 surahs, view the pilot transitions, explore opening/closing correspondences, and inspect classical citations from Al-Biqāʿī, Ibn al-Zubayr al-Gharnāṭī, Al-Suyūṭī, and Al-Rāzī.
+Visit `http://localhost:8000` to explore the atlas locally.
