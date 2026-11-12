@@ -335,6 +335,141 @@
     "review_status": "reviewed_internal"
   },
   {
+    "id": "rel_039_040_transition",
+    "from_type": "surah",
+    "from_id": "surah:39",
+    "to_type": "surah",
+    "to_id": "surah:40",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the eschatological climax of Az-Zumar (angels encircling the Throne after final judgment) to Ghāfir opening with the Throne-bearing angels interceding for earthly believers, paired with the tetrad of divine attributes.",
+    "evidence_ids": [
+      "ev_039_040_suyuti",
+      "ev_039_040_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_040_041_transition",
+    "from_type": "surah",
+    "from_id": "surah:40",
+    "to_type": "surah",
+    "to_id": "surah:41",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the conclusion of Ghāfir on the futility of post-facto faith when punishment strikes to Fuṣṣilat opening with an expounded Arabic Book offering pre-emptive clarity and warning.",
+    "evidence_ids": [
+      "ev_040_041_gharnati",
+      "ev_040_041_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_041_042_transition",
+    "from_type": "surah",
+    "from_id": "surah:41",
+    "to_type": "surah",
+    "to_id": "surah:42",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Fuṣṣilat closing with cosmic signs in the horizons and human soul to Ash-Shūrā establishing the universal continuum of divine inspiration across all prophets under the five-letter pivot (Ḥā-Mīm ʿAyn-Sīn-Qāf).",
+    "evidence_ids": [
+      "ev_041_042_suyuti",
+      "ev_041_042_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_042_043_transition",
+    "from_type": "surah",
+    "from_id": "surah:42",
+    "to_type": "surah",
+    "to_id": "surah:43",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Ash-Shūrā concluding with the modes of divine speech and the light guiding to the straight path to Az-Zukhruf swearing by the clear Book rooted in the celestial Mother of the Book, deconstructing gilded worldly ornaments.",
+    "evidence_ids": [
+      "ev_042_043_gharnati",
+      "ev_042_043_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_043_044_transition",
+    "from_type": "surah",
+    "from_id": "surah:43",
+    "to_type": "surah",
+    "to_id": "surah:44",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the Prophet's cry in Az-Zukhruf ('they do not believe') and the divine response ('for they will know') to Ad-Dukhān unveiling the blessed night of revelation and the terrifying arrival of visible suffocating smoke.",
+    "evidence_ids": [
+      "ev_043_044_suyuti",
+      "ev_043_044_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_044_045_transition",
+    "from_type": "surah",
+    "from_id": "surah:44",
+    "to_type": "surah",
+    "to_id": "surah:45",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Ad-Dukhān closing on watchful waiting ('watch, for they are watching') to Al-Jāthiyah marshaling the signs of the heavens and earth and depicting every nation fallen on its knees before the open ledger.",
+    "evidence_ids": [
+      "ev_044_045_biqai",
+      "ev_044_045_razi"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_045_046_transition",
+    "from_type": "surah",
+    "from_id": "surah:45",
+    "to_type": "surah",
+    "to_id": "surah:46",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Al-Jāthiyah concluding with supreme praise and majesty in the cosmos belonging to the Exalted in Might, the Wise, to Al-Aḥqāf opening with the purposeful creation of heavens and earth for a specified term.",
+    "evidence_ids": [
+      "ev_045_046_suyuti",
+      "ev_045_046_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_046_047_transition",
+    "from_type": "surah",
+    "from_id": "surah:46",
+    "to_type": "surah",
+    "to_id": "surah:47",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the Makkan conclusion of Al-Aḥqāf commanding patience like the messengers of firm resolve to Sūrat Muḥammad naming the Prophet and initiating the active divine defense and nullification of enemy plots.",
+    "evidence_ids": [
+      "ev_046_047_biqai",
+      "ev_046_047_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_hawamim_family_unity",
+    "from_type": "surah",
+    "from_id": "surah:40",
+    "to_type": "surah",
+    "to_id": "surah:46",
+    "relationship_type": "structural_parallel",
+    "description": "The macro-architectural unity of the seven Ḥawāmīm ('Dībāj al-Qur'ān'): all opening with Ḥā-Mīm and the descent of the Book, paired thematically across an intentional concentric structure anchored by Ash-Shūrā at the center.",
+    "evidence_ids": [
+      "ev_hawamim_masud",
+      "ev_hawamim_ibn_ashur"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "review_status": "verified"
+  },
+  {
     "id": "rel_003_004_uhud_orphans",
     "from_type": "ayah",
     "from_id": "ayah:3:200",

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ev_039_040_suyuti",
+    "relationship_id": "rel_039_040_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Surah Az-Zumar to Surah Ghafir",
+    "original_quote": "ختم سورة الزمر بذكر حفاف الملائكة حول العرش وتسبيحهم بحمد ربهم، وافتتح سورة غافر بذكر حملة العرش ومن حوله وتسبيحهم واستغفارهم للمؤمنين، فاتصلت الخاتمة بالفاتحة أتم اتصال.",
+    "translation_or_paraphrase": "Al-Suyūṭī points out that Az-Zumar concludes with the angels surrounding the Throne exalting their Lord with praise after judgment, and Ghāfir immediately opens by revealing that those carrying the Throne and those around it are exalting their Lord and seeking forgiveness for the believers, creating a seamless connection between ending and beginning.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_039_040_biqai",
+    "relationship_id": "rel_039_040_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Surah Ghafir 40:1-7",
+    "original_quote": "لما كان آخر الزمر قوله: 'وقيل الحمد لله رب العالمين'، بيّن في فاتحة هذه السورة أوصاف الربوبية الموجبة للحمد من المغفرة والرحمة والشدة والعظمة، وأظهر لطفه بعباده المؤمنين في استغفار أشرف ملائكته لهم.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that when Az-Zumar concluded with 'and it will be said, All praise is to Allah, Lord of the worlds,' Ghāfir opened by detailing the attributes of Lordship warranting that praise—forgiving sin, accepting repentance, severe retribution, and boundless bounty—revealing His grace through the intercession of His most noble angels for the believers.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_040_041_gharnati",
+    "relationship_id": "rel_040_041_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Ghafir wa Fussilat",
+    "original_quote": "لما ذكر في خاتمة غافر أن الإيمان لا ينفع بعد معاينة البأس وسنة الله الماضية في ذلك، افتتح فصلت ببيان أن هذا الكتاب نزل مفصلاً ومبيناً لتقوم به الحجة ويزول العذر قبل نزول العذاب وبلوغ الحين.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī observes that having established at the end of Ghāfir that faith is useless once the divine punishment is witnessed in accordance with Allah's immutable Sunnah, Fuṣṣilat opens by declaring that this Book has been expounded in clear Arabic detail to establish full proof and remove all excuses before punishment strikes.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_040_041_biqai",
+    "relationship_id": "rel_040_041_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Fussilat 41:1-5",
+    "original_quote": "ناسب افتتاحها بما وصف به الكتاب من التفصيل والبيان خاتمة غافر التي بينت خسران الكافرين لعدم تدبرهم، فأوضح هنا أن الإعراض لم يكن لغموض في التنزيل بل لفساد في أسماعهم وقلوبهم.",
+    "translation_or_paraphrase": "Al-Biqāʿī notes that Fuṣṣilat opening with the Book's detailed clarity responds to the ruin of the deniers at the end of Ghāfir; it proves that turning away did not stem from any ambiguity in the revelation, but from corruption in their ears and hearts.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_041_042_suyuti",
+    "relationship_id": "rel_041_042_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Fussilat to Surah Ash-Shura",
+    "original_quote": "ختم فصلت بقوله: 'سنريهم آياتنا في الآفاق وفي أنفسهم حتى يتبين لهم أنه الحق'، وافتتح الشورى بقوله: 'كذلك يوحي إليك وإلى الذين من قبلك الله العزيز الحكيم'، فوصل آيات الآفاق والأنفس بوحي النبوات المتطابق في كل عصر.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that Fuṣṣilat closes with the promise to display cosmic and internal signs so that truth becomes undeniable, and Ash-Shūrā immediately links those cosmic proofs to the continuous stream of prophetic revelation given to Muhammad (ﷺ) and all prophets before him.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_041_042_biqai",
+    "relationship_id": "rel_041_042_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Ash-Shura 42:1-3",
+    "original_quote": "لما انتهت فصلت بإحاطة الله بكل شيء وشهادته عليه، ناسب أن تفتتح الشورى بتأكيد شريعة الوحي الشاملة لجميع الأمم، وأن الدين واحد شرعه الله لنوح وإبراهيم وموسى وعيسى ومحمد عليهم الصلاة والسلام.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that when Fuṣṣilat ended with Allah's encompassing knowledge and witness over all things, Ash-Shūrā naturally opened by emphasizing the universal divine law uniting Noah, Abraham, Moses, Jesus, and Muhammad under a single primordial faith.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_042_043_gharnati",
+    "relationship_id": "rel_042_043_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Ash-Shura wa Az-Zukhruf",
+    "original_quote": "ختم الشورى ببيان أقسام تكليم الله للبشر وأنه أوحى إلى نبيه روحاً من أمره يهدي به إلى صراط مستقيم، ثم أقسم في مطلع الزخرف بالكتاب المبين وأنه في أم الكتاب لعلي حكيم، تأكيداً لمنزلة ذلك الروح الموحى به.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī writes that Ash-Shūrā closed by describing how Allah communicates with humanity and how He revealed an inspired spirit guiding to the straight path; Az-Zukhruf then opens with an oath by that clear Book, declaring its sublime status in the celestial Mother of the Book.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_042_043_biqai",
+    "relationship_id": "rel_042_043_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Az-Zukhruf 43:1-5",
+    "original_quote": "لما بيّن في خاتمة الشورى أن هذا القرآن نور وروح، أقسم به في مطلع الزخرف لرد مقالة أهل الشرك الذين استهانوا بالرسالة لعدم نزولها على رجل عظيم من القريتين، فبيّن تفاهة زخرف الدنيا تجاه شرف الوحي.",
+    "translation_or_paraphrase": "Al-Biqāʿī remarks that having established the Qur'an as spirit and light at the close of Ash-Shūrā, Az-Zukhruf swears by it to refute the pagans who depreciated the Prophet because he lacked worldly wealth, demonstrating the triviality of earthly gold and glitter compared to revelation.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_043_044_suyuti",
+    "relationship_id": "rel_043_044_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Az-Zukhruf to Surah Ad-Dukhan",
+    "original_quote": "قوله في آخر الزخرف: 'فاصفح عنهم وقل سلام فسوف يعلمون'، أجيب في مطلع الدخان بقوله: 'فارتقب يوم تأتي السماء بدخان مبين'، فكان الدخان هو الأمر العظيم الذي سوف يعلمونه عند حلوله.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that the divine command ending Az-Zukhruf ('Turn aside and say peace, for they will know') is answered in Ad-Dukhān by 'So watch for the Day the sky brings a visible smoke'; the suffocating smoke is the impending terror they were promised they would come to know.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_043_044_biqai",
+    "relationship_id": "rel_043_044_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Ad-Dukhan 44:1-12",
+    "original_quote": "اشتركت السورتان في القسم بالكتاب المبين، لكن الزخرف ركزت على أصل الكتاب في أم الكتاب العلية، والدخان بينت وقت تنزله في الليلة المباركة وإنذاره بالعذاب الدخاني المحيط.",
+    "translation_or_paraphrase": "Al-Biqāʿī notes that both surahs share the oath 'By the clear Book'; however, Az-Zukhruf focused on its ontological origin in the Mother of the Book, whereas Ad-Dukhān reveals its historical descent during the Blessed Night as an explicit warning against the encompassing smoke.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_044_045_biqai",
+    "relationship_id": "rel_044_045_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Jathiyah 45:1-6",
+    "original_quote": "لما انتهت الدخان بالأمر بالارتقاب: 'فارتقب إنهم مرتقبون'، ابتدأت الجاثية بدلائل الآفاق في السموات والأرض والأنفس، لبيان ما يوجب اليقين للمؤمنين وما ينتظر المعاندين حين تجثو كل أمة بين يدي ربها.",
+    "translation_or_paraphrase": "Al-Biqāʿī demonstrates that when Ad-Dukhān ended with the command to watch and wait ('Watch, for they are watching'), Al-Jāthiyah opened by detailing the cosmic signs in the heavens, earth, and living creatures, explaining why the believer watches with certainty while every nation is doomed to fall to its knees.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_044_045_razi",
+    "relationship_id": "rel_044_045_transition",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Surah Al-Jathiyah 45:1-3",
+    "original_quote": "ذكر في الدخان إغراق فرعون وقومه فقال: 'فما بكت عليهم السماء والأرض'، ثم افتتح الجاثية بذكر السموات والأرض وما فيهما من الآيات، تنبيهاً على أن الجمادات التي لم تبك على الظالمين ناطقة بالحق والتوحيد للعالمين.",
+    "translation_or_paraphrase": "Fakhr al-Dīn al-Rāzī observes that in Ad-Dukhān, regarding the drowning of Pharaoh, Allah said 'Neither the heaven nor the earth wept over them'; Al-Jāthiyah then opens by pointing to those very heavens and earth as testifying witnesses filled with signs of divine Oneness.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_045_046_suyuti",
+    "relationship_id": "rel_045_046_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Jathiyah to Surah Al-Ahqaf",
+    "original_quote": "ختمت الجاثية بالكبرياء والعزة والحكمة: 'وله الكبرياء في السموات والأرض وهو العزيز الحكيم'، وافتتحت الأحقاف بصفتي العزة والحكمة: 'تنزيل الكتاب من الله العزيز الحكيم'، ثم بيّن الحكمة في خلق السموات والأرض بالحق إلى أجل مسمى.",
+    "translation_or_paraphrase": "Al-Suyūṭī highlights that Al-Jāthiyah concluded with grandeur, might, and wisdom ('To Him belongs majesty in the heavens and earth, and He is the Exalted in Might, the Wise'), and Al-Aḥqāf opens with those exact two attributes ('Revelation of the Book is from Allah, the Exalted in Might, the Wise'), immediately connecting His wisdom to purposeful cosmic creation.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_045_046_biqai",
+    "relationship_id": "rel_045_046_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Ahqaf 46:1-4",
+    "original_quote": "الأحقاف مسك ختام الحواميم السبع، جمعت ما تفرق فيها من تقرير التوحيد، وذكر عاد في الأحقاف كنظير لفرعون في غافر، وشهادة مؤمني الجن كشهادة مؤمن آل فرعون.",
+    "translation_or_paraphrase": "Al-Biqāʿī characterizes Al-Aḥqāf as the fragrant seal of the seven Ḥawāmīm; it synthesizes the core themes of the family, placing the destruction of ʿĀd in the sand dunes as the counterpart to Pharaoh in Ghāfir, and the testimony of the believing Jinn alongside the court believer.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_046_047_biqai",
+    "relationship_id": "rel_046_047_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Muhammad 47:1-3",
+    "original_quote": "ختمت الأحقاف بأمر النبي صلى الله عليه وسلم بالصبر كصبر أولي العزم من الرسل، وافتتحت سورة محمد بذكر اسمه الشريف وبيان نصرته وإحباط أعمال عدوه، انتقالاً من مرحلة البلاغ والصبر المكي إلى مرحلة الدفاع والجهاد المدني.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that Al-Aḥqāf closed with the command to exercise patience like the messengers of firm resolve, and Sūrat Muḥammad opened by mentioning the Prophet's blessed name and declaring divine victory and the nullification of enemy plots, transitioning from Makkan endurance to Medinan defense.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_046_047_suyuti",
+    "relationship_id": "rel_046_047_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Ahqaf to Surah Muhammad",
+    "original_quote": "قوله في آخر الأحقاف: 'فهل يهلك إلا القوم الفاسقون'، أجيب عنه في مطلع سورة محمد ببيان هلاكهم وإضلال أعمالهم: 'الذين كفروا وصدوا عن سبيل الله أضل أعمالهم'.",
+    "translation_or_paraphrase": "Al-Suyūṭī remarks that the closing rhetorical question of Al-Aḥqāf ('Will any be destroyed except the defiantly disobedient?') is immediately answered at the start of Sūrat Muḥammad by describing their destruction: 'Those who disbelieved and averted from the path of Allah, He has wasted and nullified their deeds.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_hawamim_masud",
+    "relationship_id": "rel_hawamim_family_unity",
+    "source_id": "src_tabari",
+    "exact_reference": "Jāmiʿ al-bayān, Faḍā'il Āl Ḥā-Mīm; also reported by Al-Bukhārī",
+    "original_quote": "عن عبد الله بن مسعود رضي الله عنه قال: 'إذا وقعت في آل حم وقعت في روضات أتأنق فيهن'، وقال ابن عباس: 'لكل شيء لباب ولباب القرآن آل حم'.",
+    "translation_or_paraphrase": "Authentic tradition from Ibn Mas'ud that reading the family of Ha-Meem is like walking in fragrant, lush meadows of Paradise, and Ibn Abbas's statement that the Ha-Meem surahs are the very essence and marrow of the Qur'an.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_hawamim_ibn_ashur",
+    "relationship_id": "rel_hawamim_family_unity",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Introduction to Surah Ghafir and the Hawamim Heptad",
+    "original_quote": "تتابعت سور الحواميم السبع في النزول وفي ترتيب المصحف، وتآخت في الافتتاح بحم وبذكر تنزيل الكتاب، وتفردت بأسلوب جدلي رصين في محاجة المشركين وإبراز حجج التوحيد والرسالة والبعث.",
+    "translation_or_paraphrase": "Ibn ʿĀshūr details that the seven Ḥawāmīm were revealed in sequence and arranged consecutively in the codex; they are twinned by their common opening and presentation of the Book, united by a dignified dialectical style refuting polytheism while highlighting the triad of core verities: Tawhid, Prophecy, and Resurrection.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

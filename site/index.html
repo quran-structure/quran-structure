@@ -21,6 +21,7 @@
       </div>
       <nav class="main-nav">
         <button class="active" data-tab="tab-surahs">Explore 114 Surahs</button>
+        <button data-tab="tab-atlas">Interactive Atlas Graph</button>
         <button data-tab="tab-transitions">Surah Transitions</button>
         <button data-tab="tab-envelopes">Openings & Endings</button>
         <button data-tab="tab-themes">Thematic Networks</button>
@@ -65,15 +66,59 @@
       </div>
     </section>
 
-    <!-- Tab 2: Surah Transitions -->
+    <!-- Tab 2: Interactive Atlas Graph -->
+    <section id="tab-atlas" class="tab-panel">
+      <div style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
+          Interactive Structural Atlas: Nodes & Transitions
+        </h3>
+        <p style="color: var(--text-secondary);">
+          Interactive network map of verified Qur'anic munāsabāt across canonical clusters. Click any Surah node to view its personality and canonical ayahs, or click any transition edge to inspect the classical exegesis.
+        </p>
+      </div>
+
+      <!-- Cluster Selector Bar -->
+      <div class="cluster-selector-bar" id="atlasClusterBar">
+        <button class="cluster-btn active" data-cluster="all">All Researched Clusters (43 Surahs)</button>
+        <button class="cluster-btn" data-cluster="tiwal">The Seven Long Surahs (1–9)</button>
+        <button class="cluster-btn" data-cluster="prophetic">Prophetic & Wisdom (10–18)</button>
+        <button class="cluster-btn" data-cluster="hawamim">The Ḥawāmīm Silk Brocades (40–46)</button>
+        <button class="cluster-btn" data-cluster="eschatological">Cosmic & Eschatological (54–57)</button>
+        <button class="cluster-btn" data-cluster="final">Final Surahs & Cosmic Seal (105–114 & 114➔1)</button>
+      </div>
+
+      <!-- SVG Graph Canvas -->
+      <div class="atlas-canvas-container" id="atlasCanvasContainer">
+        <svg id="atlasSvg" width="100%" height="450" viewBox="0 0 1100 450"></svg>
+      </div>
+
+      <!-- Edge Inspector Box -->
+      <div id="atlasEdgeInspector" class="atlas-inspector" style="display: none;">
+        <div class="inspector-header">
+          <h4 id="inspectorTitle" style="color: var(--accent-emerald); font-size: 1.15rem;">Selected Transition</h4>
+          <button id="closeInspectorBtn" class="badge badge-reltype" style="cursor: pointer; border: none;">Close &times;</button>
+        </div>
+        <div id="inspectorContent"></div>
+      </div>
+    </section>
+
+    <!-- Tab 3: Surah Transitions -->
     <section id="tab-transitions" class="tab-panel">
       <div style="margin-bottom: 1.5rem;">
         <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
           Sequential Surah Transitions (Munāsabāt al-Suwar)
         </h3>
-        <p style="color: var(--text-secondary);">
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
           Classical Sunni analysis of adjacent surah handoffs, examining how terminal verses lead directly into the subsequent surah's opening.
         </p>
+        <div class="cluster-selector-bar" id="transitionClusterBar">
+          <button class="cluster-btn active" data-cluster="all">All Transitions</button>
+          <button class="cluster-btn" data-cluster="tiwal">Surahs 1–9</button>
+          <button class="cluster-btn" data-cluster="prophetic">Surahs 10–18</button>
+          <button class="cluster-btn" data-cluster="hawamim">Ḥawāmīm (40–47)</button>
+          <button class="cluster-btn" data-cluster="eschatological">Surahs 54–57</button>
+          <button class="cluster-btn" data-cluster="final">Final Cluster (105–114 & 114➔1)</button>
+        </div>
       </div>
       <div id="transitionsList" class="relationship-list">
         <!-- Rendered via JavaScript -->
