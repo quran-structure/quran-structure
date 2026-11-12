@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ev_023_suyuti_marasid",
+    "relationship_id": "rel_023_opening_ending_falah",
+    "source_id": "src_suyuti_marasid",
+    "exact_reference": "Marāṣid al-maṭāliʿ fī tanāsub al-maqāṭiʿ wa al-maṭāliʿ, p. 45",
+    "original_quote": "انْظُرْ إِلَى حُسْنِ هَذَا التَّنَاسُبِ: افْتَتَحَ السُّورَةَ بِإِثْبَاتِ الْفَلَاحِ لِلْمُؤْمِنِينَ، وَخَتَمَهَا بِنَفْيِ الْفَلَاحِ عَنِ الْكَافِرِينَ، فَكَانَ آخِرُهَا مُلَاحِماً لِأَوَّلِهَا تَمَامَ الِالْتِحَامِ.",
+    "translation_or_paraphrase": "Look at the beauty of this harmony: He opened the surah by affirming success for the believers, and closed it by negating success from the disbelievers; thus its ending was completely welded to its beginning.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_023_zarkashi_burhan",
+    "relationship_id": "rel_023_opening_ending_falah",
+    "source_id": "src_zarkashi_burhan",
+    "exact_reference": "Al-Burhān fī ʿulūm al-Qur'ān, Type 35, Vol. 1, p. 38",
+    "original_quote": "ومن بديع التناسب مقابلة الفاتحة بالخاتمة كقوله في المؤمنون: {قَدْ أَفْلَحَ الْمُؤْمِنُونَ} وختمها بقوله: {إِنَّهُ لَا يُفْلِحُ الْكَافِرُونَ}.",
+    "translation_or_paraphrase": "And of exquisite harmony is contrasting the opening with the conclusion, as in His saying in Al-Mu'minun: 'Certainly will the believers succeed' and closing it with His saying: 'Indeed, the disbelievers will not succeed.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_028_biqai_return",
+    "relationship_id": "rel_028_opening_ending_return",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 14, pp. 380-385",
+    "original_quote": "لما ذكر في أولها قصة موسى وخروجه خائفاً ثم عودته منصوراً، بشّر النبي صلى الله عليه وسلم في آخرها بالعودة إلى بلده ومكة داره.",
+    "translation_or_paraphrase": "When He mentioned in its beginning the story of Moses and his departure in fear followed by his victorious return, He gave glad tidings to the Prophet at its end of returning to his land and home of Mecca.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_028_razi_assistance",
+    "relationship_id": "rel_028_opening_ending_return",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 25, p. 19",
+    "original_quote": "قوله لموسى في أول السورة: {رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ} طابق قوله للنبي في آخرها: {فَلَا تَكُونَنَّ ظَهِيرًا لِّلْكَافِرِينَ}.",
+    "translation_or_paraphrase": "His words regarding Moses in the beginning of the surah: 'My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals' matches His words to the Prophet at its end: 'So do not be an assistant to the disbelievers.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

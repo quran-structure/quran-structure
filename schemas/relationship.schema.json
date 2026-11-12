@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Relationship",
+  "type": "object",
+  "required": [
+    "id",
+    "from_type",
+    "from_id",
+    "to_type",
+    "to_id",
+    "relationship_type",
+    "description",
+    "evidence_ids",
+    "confidence",
+    "review_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "from_type": {
+      "type": "string",
+      "enum": ["surah", "ayah", "section", "theme"]
+    },
+    "from_id": {
+      "type": "string",
+      "description": "Identifier (e.g. 'surah:1', 'ayah:1:6', 'section:sec_002_01', 'theme:guidance')"
+    },
+    "to_type": {
+      "type": "string",
+      "enum": ["surah", "ayah", "section", "theme"]
+    },
+    "to_id": {
+      "type": "string"
+    },
+    "relationship_type": {
+      "type": "string",
+      "enum": [
+        "adjacent_surah_transition",
+        "thematic_continuity",
+        "thematic_contrast",
+        "opening_ending_correspondence",
+        "shared_vocabulary",
+        "repeated_refrain",
+        "narrative_parallel",
+        "argument_progression",
+        "cause_and_response",
+        "cross_reference",
+        "structural_parallel",
+        "research_hypothesis"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "explicitly_stated_by_classical_mufassir",
+        "supported_by_multiple_tafsir_sources",
+        "classical_scholarly_observation",
+        "textually_observable",
+        "research_hypothesis",
+        "weak_or_not_established"
+      ]
+    },
+    "alternative_views": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string",
+      "enum": ["unreviewed", "reviewed_internal", "scholarly_reviewed"]
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "rel_001_002_petition_response",
+    "from_type": "ayah",
+    "from_id": "ayah:1:6",
+    "to_type": "ayah",
+    "to_id": "ayah:2:2",
+    "relationship_type": "cause_and_response",
+    "description": "The urgent petition for the Straight Path in Al-Fatihah (Ihdina al-sirat al-mustaqim) is directly answered by the presentation of the Book as that requested guidance (Dhalika al-kitabu la rayba fihi hudan lil-muttaqin).",
+    "evidence_ids": [
+      "ev_001_002_razi",
+      "ev_001_002_biqai",
+      "ev_001_002_gharnati",
+      "ev_001_002_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None in classical Sunni tafsir; universally highlighted as a premier example of divine discourse structure between prayer and response.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_001_002_tripartite_archetypes",
+    "from_type": "ayah",
+    "from_id": "ayah:1:7",
+    "to_type": "section",
+    "to_id": "section:002_archetypes",
+    "relationship_type": "thematic_continuity",
+    "description": "The three spiritual paths mentioned in Al-Fatihah 1:7 (the favored, the objects of anger, and the astray) are systematically mapped and unpacked in the opening three human archetypes of Al-Baqarah: the Muttaqun (2:1-5), the Kafiroon (2:6-7), and the Munafiqoon (2:8-20).",
+    "evidence_ids": [
+      "ev_001_002_biqai_archetypes",
+      "ev_001_002_gharnati_archetypes"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Some commentators note that early Medinan context specifically addresses the local hypocrites and Jewish tribes, while the Fatihah formulation is universal. Classical scholars reconcile this by viewing the historical groups in Al-Baqarah as specific realisations of the universal Fatihah archetypes.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_001_002_opening_closing_envelope",
+    "from_type": "surah",
+    "from_id": "surah:1",
+    "to_type": "ayah",
+    "to_id": "ayah:2:285-286",
+    "relationship_type": "structural_parallel",
+    "description": "Al-Baqarah concludes with a profound communal prayer (2:285-286) that echoes the invocatory spirit of Al-Fatihah, affirming total submission (Samina wa-ata'na) and petitioning for divine forgiveness and victory over disbelief.",
+    "evidence_ids": [
+      "ev_001_002_ibn_ashur_closure"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "The closure of Al-Baqarah also directly responds to its own opening (faith in the unseen and revelation in 2:1-4 mirrored in 2:285).",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_054_055_malik_rahman",
+    "from_type": "ayah",
+    "from_id": "ayah:54:55",
+    "to_type": "ayah",
+    "to_id": "ayah:55:1-2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-Qamar concludes with the righteous resting near an 'Omnipotent Sovereign' (Malikin Muqtadir, 54:55). Surah Ar-Rahman immediately answers by defining this Sovereign by His supreme attribute: 'The Most Merciful' (Ar-Rahman, 55:1), who 'Taught the Quran' (55:2), verbally echoing the fourfold refrain of 54:17 ('And We have certainly made the Quran easy for remembrance').",
+    "evidence_ids": [
+      "ev_054_055_gharnati",
+      "ev_054_055_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None in classical munāsabah literature; universally regarded as one of the clearest verbal and thematic handoffs in the canonical muṣḥaf sequence.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_055_056_gardens_cohorts",
+    "from_type": "section",
+    "from_id": "section:055_gardens",
+    "to_type": "section",
+    "to_id": "section:056_three_groups",
+    "relationship_type": "structural_parallel",
+    "description": "The four gardens detailed in Ar-Rahman (the two higher gardens of 55:46-61 and the two lower gardens of 55:62-77) structurally correspond to the two classes of saved souls in Al-Waqi'ah: Al-Sabiqun (The Foremost, 56:10-26) and Ashab al-Yamin (Companions of the Right, 56:27-40).",
+    "evidence_ids": [
+      "ev_055_056_biqai_cohorts"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "Some exegetes treat the four gardens in Ar-Rahman as belonging to the same believer or representing different seasonal aspects, but the majority agree they represent distinct gradations of bliss matching the Sabiqun and Ashab al-Yamin.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_056_057_command_fulfillment",
+    "from_type": "ayah",
+    "from_id": "ayah:56:96",
+    "to_type": "ayah",
+    "to_id": "ayah:57:1",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Al-Waqi'ah closes with an imperative command: 'So glorify the name of your Lord, the Most Great' (Fa-sabbih bi-ismi rabbika al-'Azeem, 56:96). Surah Al-Hadid immediately opens with the past-tense cosmic fulfillment: 'Whatever is in the heavens and earth glorifies Allah' (Sabbaha lillahi ma fi al-samawati wa al-ard, 57:1).",
+    "evidence_ids": [
+      "ev_056_057_suyuti_tasbih"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Al-Hadid is the opening of the Musabbihat surahs, so 57:1 functions both as an autonomous opening to the group and as an immediate answer to 56:96.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_002_003_victory_response",
+    "from_type": "ayah",
+    "from_id": "ayah:2:286",
+    "to_type": "ayah",
+    "to_id": "ayah:3:2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "The concluding plea of Al-Baqarah for victory over disbelievers (fa-nsurna 'ala al-qawm al-kafirin) is met in the opening of Al 'Imran by identifying the source of absolute victory and life (Allahu la ilaha illa huwa al-Hayyu al-Qayyum), followed by the decisive promise in 3:12 that the disbelievers will be overcome.",
+    "evidence_ids": [
+      "ev_002_003_gharnati_transition",
+      "ev_002_003_biqai_defense"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Some commentators treat 3:1-4 primarily as an independent introduction to the Najran debate; however, classical munāsabah scholars see it as both addressing Najran and fulfilling the terminal invocation of Al-Baqarah.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_002_003_scripture_clarity",
+    "from_type": "ayah",
+    "from_id": "ayah:2:2",
+    "to_type": "ayah",
+    "to_id": "ayah:3:7",
+    "relationship_type": "argument_progression",
+    "description": "Where Al-Baqarah 2:2 announces the Book as complete guidance without doubt, Al 'Imran 3:7 advances the epistemological discussion by distinguishing between clear decisive verses (Muhkamat) and allegorical or ambiguous verses (Mutashabihat), warning against those who seek dissension through ambiguity.",
+    "evidence_ids": [
+      "ev_002_003_suyuti_scripture",
+      "ev_002_003_ibn_ashur_epistemology"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "The context of 3:7 arose specifically regarding Christian theological interpretations of the nature of Christ, but the epistemological rule applies across the entirety of scripture.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_002_003_people_of_book_shift",
+    "from_type": "section",
+    "from_id": "section:002_bani_israil",
+    "to_type": "section",
+    "to_id": "section:003_ahl_al_kitab",
+    "relationship_type": "thematic_continuity",
+    "description": "Al-Baqarah focuses its polemical and covenantal discourse on the Jewish community (Bani Isra'il) through the prism of Moses, Sinai, and the Golden Calf; Al 'Imran shifts the dialogue to the Christian community through the prism of Maryam, Zakariyya, and 'Isa, presenting a comprehensive Abrahamic prophetic synthesis.",
+    "evidence_ids": [
+      "ev_002_003_biqai_covenant_shift"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Both surahs contain references to both groups, but the primary thematic weight and narrative focus clearly demarcate between the two.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_023_opening_ending_falah",
+    "from_type": "ayah",
+    "from_id": "ayah:23:1",
+    "to_type": "ayah",
+    "to_id": "ayah:23:117",
+    "relationship_type": "opening_ending_correspondence",
+    "description": "Surah Al-Mu'minun opens with the definitive success of the believers (Qad aflaha al-mu'minun, 23:1) and closes with the definitive negation of success for disbelievers (Innahu la yuflihu al-kafirun, 23:117), forming a perfect rhetorical and structural envelope.",
+    "evidence_ids": [
+      "ev_023_suyuti_marasid",
+      "ev_023_zarkashi_burhan"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None; widely acknowledged as one of the premier classical examples of husn al-iftitah wa husn al-intaha.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_028_opening_ending_return",
+    "from_type": "ayah",
+    "from_id": "ayah:28:21",
+    "to_type": "ayah",
+    "to_id": "ayah:28:85",
+    "relationship_type": "opening_ending_correspondence",
+    "description": "Moses's exile from Egypt in fear (28:21) and divine promise of safe return to his mother at the opening of Al-Qasas is mirrored at the close by the promise to the Prophet Muhammad departing Mecca that the One who ordained the Quran will return him to his place of return (28:85).",
+    "evidence_ids": [
+      "ev_028_biqai_return",
+      "ev_028_razi_assistance"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Ibn Kathir and others also interpret 'ma'ad' as the Day of Resurrection or death, but Al-Bukhari records Ibn Abbas interpreting it as Mecca, which aligns directly with the thematic mirror of Moses's return.",
+    "review_status": "reviewed_internal"
+  }
+]

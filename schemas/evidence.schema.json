@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Evidence",
+  "type": "object",
+  "required": [
+    "id",
+    "relationship_id",
+    "source_id",
+    "exact_reference",
+    "original_quote",
+    "translation_or_paraphrase",
+    "supports_or_qualifies",
+    "reviewer_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "relationship_id": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "exact_reference": {
+      "type": "string"
+    },
+    "original_quote": {
+      "type": "string",
+      "description": "Original Arabic text or primary source quote."
+    },
+    "translation_or_paraphrase": {
+      "type": "string"
+    },
+    "supports_or_qualifies": {
+      "type": "string",
+      "enum": ["supports", "qualifies", "alternative_view"]
+    },
+    "reviewer_status": {
+      "type": "string",
+      "enum": ["pending", "verified", "flagged"]
+    }
+  },
+  "additionalProperties": false
+}

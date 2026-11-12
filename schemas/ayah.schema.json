@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Ayah",
+  "type": "object",
+  "required": [
+    "surah_id",
+    "ayah_number",
+    "arabic_text",
+    "arabic_clean",
+    "translation_by_source",
+    "juz_number",
+    "text_source_id"
+  ],
+  "properties": {
+    "surah_id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114
+    },
+    "ayah_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "arabic_text": {
+      "type": "string",
+      "description": "Full Uthmani script text with diacritics."
+    },
+    "arabic_clean": {
+      "type": "string",
+      "description": "Cleaned Arabic text without diacritics for normalization and searching."
+    },
+    "translation_by_source": {
+      "type": "object",
+      "additionalProperties": { "type": "string" },
+      "description": "Translations keyed by source_id (e.g. saheeh_international, abdel_haleem)."
+    },
+    "juz_number": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 30
+    },
+    "page_number": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 604
+    },
+    "text_source_id": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

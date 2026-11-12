@@ -1,0 +1,147 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-11-12",
+  "sources": [
+    {
+      "id": "src_tanzil_hafs",
+      "author": "Tanzil Project (Hafs 'an 'Asim)",
+      "work_title": "Tanzil Verified Quran Text (Uthmani & Simple)",
+      "source_type": "quran_text",
+      "school_or_tradition": "Canonical Hafs Recitation",
+      "edition": "Tanzil 1.0.2",
+      "publisher": "Tanzil.net",
+      "url": "https://tanzil.net",
+      "reliability_notes": "Widely authenticated digital Quran text, verified against the King Fahd Complex printing."
+    },
+    {
+      "id": "src_saheeh_intl",
+      "author": "Saheeh International (Emily Assami, Mary Kennedy, Amatullah Bantley)",
+      "work_title": "The Qur'an: Arabic Text with Corresponding English Meanings",
+      "source_type": "translation",
+      "school_or_tradition": "Sunni Contemporary",
+      "edition": "Revised 1997 / 2004",
+      "publisher": "Abul-Qasim Publishing House, Riyadh",
+      "reliability_notes": "Widely accepted contemporary English translation prioritising theological accuracy aligned with classical tafsir."
+    },
+    {
+      "id": "src_biqai",
+      "author": "Burhān al-Dīn Abū al-Ḥasan Ibrāhīm ibn ʿUmar al-Biqāʿī (d. 885 AH)",
+      "work_title": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "22 volumes",
+      "publisher": "Dār al-Kitāb al-Islāmī, Cairo / Dār al-Kutub al-ʿIlmiyyah, Beirut",
+      "reliability_notes": "The magnum opus of Qur'anic munāsabāt, examining the central purpose (maqṣad) of every surah and the precise link of every ayah."
+    },
+    {
+      "id": "src_gharnati",
+      "author": "Abū Jaʿfar Aḥmad ibn Ibrāhīm ibn al-Zubayr al-Gharnāṭī (d. 708 AH)",
+      "work_title": "Al-Burhān fī tartīb suwar al-Qur'ān",
+      "source_type": "ulum_al_quran",
+      "school_or_tradition": "Sunni (Maliki)",
+      "edition": "Ed. Muḥammad Shaʿbānī",
+      "publisher": "Wizārat al-Awqāf wa al-Shu'ūn al-Islāmiyyah, Morocco / Dār Ibn al-Jawzī",
+      "reliability_notes": "Dedicated classical treatise demonstrating the wisdom of the canonical surah sequence from Al-Fatihah to An-Nas."
+    },
+    {
+      "id": "src_suyuti_tanasuq",
+      "author": "Jalāl al-Dīn ʿAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī (d. 911 AH)",
+      "work_title": "Tanāsuq al-durar fī tanāsub al-suwar (Asrār tartīb al-Qur'ān)",
+      "source_type": "ulum_al_quran",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "Ed. ʿAbd al-Qādir Aḥmad ʿAṭā",
+      "publisher": "Dār al-Kutub al-ʿIlmiyyah, Beirut",
+      "reliability_notes": "Concise classical treatise tracing the sequential transitions between consecutive surahs."
+    },
+    {
+      "id": "src_suyuti_marasid",
+      "author": "Jalāl al-Dīn ʿAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī (d. 911 AH)",
+      "work_title": "Marāṣid al-maṭāliʿ fī tanāsub al-maqāṭiʿ wa al-maṭāliʿ",
+      "source_type": "ulum_al_quran",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "Ed. Dr. ʿAbd al-Ḥamīd Hindāwī",
+      "publisher": "Dār al-Kutub al-ʿIlmiyyah, Beirut",
+      "reliability_notes": "Specialised classical monograph on the correspondence between the opening and ending of surahs."
+    },
+    {
+      "id": "src_suyuti_itqan",
+      "author": "Jalāl al-Dīn ʿAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī (d. 911 AH)",
+      "work_title": "Al-Itqān fī ʿulūm al-Qur'ān",
+      "source_type": "ulum_al_quran",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "7 volumes, ed. Markaz al-Dirāsāt al-Qur'āniyyah",
+      "publisher": "Majmaʿ al-Malik Fahd li-Ṭibāʿat al-Muṣḥaf al-Sharīf, Medina",
+      "reliability_notes": "Standard classical compendium of Qur'anic sciences, Type 62: Fī munāsabat al-āyāt wa al-suwar."
+    },
+    {
+      "id": "src_zarkashi_burhan",
+      "author": "Badr al-Dīn Muḥammad ibn ʿAbd Allāh al-Zarkashī (d. 794 AH)",
+      "work_title": "Al-Burhān fī ʿulūm al-Qur'ān",
+      "source_type": "ulum_al_quran",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "4 volumes, ed. Muḥammad Abū al-Faḍl Ibrāhīm",
+      "publisher": "Dār Iḥyā' al-Kutub al-ʿArabiyyah / Dār al-Maʿrifah, Beirut",
+      "reliability_notes": "Pioneering Qur'anic sciences compendium, Type 35: Fī maʿrifat munāsabātihā."
+    },
+    {
+      "id": "src_razi",
+      "author": "Fakhr al-Dīn Muḥammad ibn ʿUmar al-Rāzī (d. 606 AH)",
+      "work_title": "Mafātīḥ al-ghayb (Al-Tafsīr al-Kabīr)",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Shafi'i / Ash'ari)",
+      "edition": "32 parts in 16 vols",
+      "publisher": "Dār Iḥyā' al-Turāth al-ʿArabī, Beirut",
+      "reliability_notes": "Master of rational and structural inquiry, systematically investigating the relation between each verse and its predecessor."
+    },
+    {
+      "id": "src_ibn_ashur",
+      "author": "Muḥammad al-Ṭāhir Ibn ʿĀshūr (d. 1393 AH / 1973 CE)",
+      "work_title": "Al-Taḥrīr wa al-tanwīr",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Maliki)",
+      "edition": "30 volumes",
+      "publisher": "Al-Dār al-Tūnisiyyah lil-Nashr, Tunis",
+      "reliability_notes": "Celebrated 20th-century masterpiece of balāghah (rhetoric), surah purposes (maqāṣid), and structural demarcation."
+    },
+    {
+      "id": "src_tabari",
+      "author": "Abū Jaʿfar Muḥammad ibn Jarīr al-Ṭabarī (d. 310 AH)",
+      "work_title": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qur'ān",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Salaf / Athari-Shafi'i)",
+      "edition": "24 volumes, ed. Dr. ʿAbd Allāh al-Turkī",
+      "publisher": "Dār Hijr / Mu'assasat al-Risālah",
+      "reliability_notes": "The primary classical authority for tafsir bi-l-ma'thūr, chain of transmissions, and linguistic usage."
+    },
+    {
+      "id": "src_ibn_kathir",
+      "author": "ʿImād al-Dīn Ismāʿīl ibn ʿUmar Ibn Kathīr (d. 774 AH)",
+      "work_title": "Tafsīr al-Qur'ān al-ʿaẓīm",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Shafi'i / Athari)",
+      "edition": "8 volumes, ed. Sāmī al-Salāmah",
+      "publisher": "Dār Ṭaybah, Riyadh",
+      "reliability_notes": "Essential reference for cross-Qur'anic tafsir (tafsīr al-Qur'ān bi-l-Qur'ān) and authentic hadith traditions."
+    },
+    {
+      "id": "src_qurtubi",
+      "author": "Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Qurṭubī (d. 671 AH)",
+      "work_title": "Al-Jāmiʿ li-aḥkām al-Qur'ān",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Maliki)",
+      "edition": "24 volumes, ed. Dr. ʿAbd Allāh al-Turkī",
+      "publisher": "Mu'assasat al-Risālah, Beirut",
+      "reliability_notes": "Comprehensive legal and thematic tafsir with meticulous linguistic and contextual exposition."
+    },
+    {
+      "id": "src_baghawi",
+      "author": "Abū Muḥammad al-Ḥusayn ibn Masʿūd al-Baghawī (d. 516 AH)",
+      "work_title": "Maʿālim al-tanzīl",
+      "source_type": "primary_tafsir",
+      "school_or_tradition": "Sunni (Shafi'i)",
+      "edition": "8 volumes, ed. Muḥammad al-Nimr et al.",
+      "publisher": "Dār Ṭaybah, Riyadh",
+      "reliability_notes": "Moderated, authentic traditional commentary synthesizing early reports with clear phrasing."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "rel_054_055_malik_rahman",
+    "from_type": "ayah",
+    "from_id": "ayah:54:55",
+    "to_type": "ayah",
+    "to_id": "ayah:55:1-2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-Qamar concludes with the righteous resting near an 'Omnipotent Sovereign' (Malikin Muqtadir, 54:55). Surah Ar-Rahman immediately answers by defining this Sovereign by His supreme attribute: 'The Most Merciful' (Ar-Rahman, 55:1), who 'Taught the Quran' (55:2), verbally echoing the fourfold refrain of 54:17 ('And We have certainly made the Quran easy for remembrance').",
+    "evidence_ids": [
+      "ev_054_055_gharnati",
+      "ev_054_055_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None in classical munāsabah literature; universally regarded as one of the clearest verbal and thematic handoffs in the canonical muṣḥaf sequence.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_055_056_gardens_cohorts",
+    "from_type": "section",
+    "from_id": "section:055_gardens",
+    "to_type": "section",
+    "to_id": "section:056_three_groups",
+    "relationship_type": "structural_parallel",
+    "description": "The four gardens detailed in Ar-Rahman (the two higher gardens of 55:46-61 and the two lower gardens of 55:62-77) structurally correspond to the two classes of saved souls in Al-Waqi'ah: Al-Sabiqun (The Foremost, 56:10-26) and Ashab al-Yamin (Companions of the Right, 56:27-40).",
+    "evidence_ids": [
+      "ev_055_056_biqai_cohorts"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "Some exegetes treat the four gardens in Ar-Rahman as belonging to the same believer or representing different seasonal aspects, but the majority agree they represent distinct gradations of bliss matching the Sabiqun and Ashab al-Yamin.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_056_057_command_fulfillment",
+    "from_type": "ayah",
+    "from_id": "ayah:56:96",
+    "to_type": "ayah",
+    "to_id": "ayah:57:1",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Al-Waqi'ah closes with an imperative command: 'So glorify the name of your Lord, the Most Great' (Fa-sabbih bi-ismi rabbika al-'Azeem, 56:96). Surah Al-Hadid immediately opens with the past-tense cosmic fulfillment: 'Whatever is in the heavens and earth glorifies Allah' (Sabbaha lillahi ma fi al-samawati wa al-ard, 57:1).",
+    "evidence_ids": [
+      "ev_056_057_suyuti_tasbih"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Al-Hadid is the opening of the Musabbihat surahs, so 57:1 functions both as an autonomous opening to the group and as an immediate answer to 56:96.",
+    "review_status": "reviewed_internal"
+  }
+]

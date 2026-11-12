@@ -1,0 +1,91 @@
+{
+  "surah": {
+    "id": 105,
+    "name_ar": "سُوْرَةُ الْفِيْلِ",
+    "name_en": "Al-Fil",
+    "name_meaning": "The Elephant",
+    "name_transliteration": "Al-Fil",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 5,
+    "page_start": 601,
+    "page_end": 601,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Surah Al-Fil (The Elephant)",
+    "personality_summary": "Unique Qur'anic surah of 5 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
+    "distinctive_voice": "Qur'anic discourse",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Fil (The Elephant) is the 105th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 105,
+      "ayah_number": 1,
+      "arabic_uthmani": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم الم تر كيف فعل ربك باصحاب الفيل",
+      "translation_saheeh": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant",
+      "translation_abdelhaleem": "Do you [Prophet] not see how your Lord dealt with the army of the elephant",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 547,
+      "sajda": false
+    },
+    {
+      "surah_id": 105,
+      "ayah_number": 2,
+      "arabic_uthmani": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلࣲ‏",
+      "arabic_simple": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "arabic_clean": "الم يجعل كيدهم في تضليل",
+      "translation_saheeh": "Did He not make their plan into misguidance",
+      "translation_abdelhaleem": "Did He not utterly confound their plans",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 547,
+      "sajda": false
+    },
+    {
+      "surah_id": 105,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+      "arabic_simple": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "arabic_clean": "وارسل عليهم طيرا ابابيل",
+      "translation_saheeh": "And He sent against them birds in flocks",
+      "translation_abdelhaleem": "He sent ranks of birds against them",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 547,
+      "sajda": false
+    },
+    {
+      "surah_id": 105,
+      "ayah_number": 4,
+      "arabic_uthmani": "تَرۡمِيهِم بِحِجَارَةࣲ مِّن سِجِّيلࣲ‏",
+      "arabic_simple": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+      "arabic_clean": "ترميهم بحجارة من سجيل",
+      "translation_saheeh": "Striking them with stones of hard clay",
+      "translation_abdelhaleem": "pelting them with pellets of hard-baked clay",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 547,
+      "sajda": false
+    },
+    {
+      "surah_id": 105,
+      "ayah_number": 5,
+      "arabic_uthmani": "فَجَعَلَهُمۡ كَعَصۡفࣲ مَّأۡكُولِۭ",
+      "arabic_simple": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+      "arabic_clean": "فجعلهم كعصف ماكول",
+      "translation_saheeh": "And He made them like eaten straw",
+      "translation_abdelhaleem": "He made them [like] cropped stubble",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 547,
+      "sajda": false
+    }
+  ]
+}

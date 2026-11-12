@@ -1,0 +1,117 @@
+{
+  "surah": {
+    "id": 1,
+    "name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+    "name_en": "Al-Faatiha",
+    "name_meaning": "The Opening",
+    "name_transliteration": "Al-Faatiha",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 7,
+    "page_start": 1,
+    "page_end": 1,
+    "juz_numbers": [
+      1
+    ],
+    "personality_title": "Umm al-Kitāb (The Mother of the Book) — The Gateway of Devotional Covenant",
+    "personality_summary": "A concise, rhythmic, liturgical opening that moves symmetrically from the objective majesty of divine praise (Tawḥīd and Mercy) to the intimate second-person commitment of servitude (Iyyāka na'budu), culminating in the desperate human petition for the Straight Path. It sets the orientation and spiritual posture of the seeker before entering the vast expanse of the Qur'an.",
+    "distinctive_voice": "Devotional, communal, invocatory, foundational.",
+    "opening_ending_dynamic": "Opens with universal praise of the Lord of all worlds (Rabb al-'Ālamīn) and closes with the petition to be safeguarded from those who incur anger or wander astray.",
+    "overview": "Surah Al-Faatiha (The Opening) is the 1st surah in the canonical muṣḥaf sequence, comprising 7 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 1,
+      "ayah_number": 1,
+      "arabic_uthmani": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم",
+      "translation_saheeh": "In the name of Allah, the Entirely Merciful, the Especially Merciful",
+      "translation_abdelhaleem": "In the name of God, the Lord of Mercy, the Giver of Mercy",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 2,
+      "arabic_uthmani": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "arabic_simple": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "arabic_clean": "الحمد لله رب العالمين",
+      "translation_saheeh": "[All] praise is [due] to Allah, Lord of the worlds",
+      "translation_abdelhaleem": "Praise belongs to God, Lord of the Worlds",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 3,
+      "arabic_uthmani": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "arabic_simple": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "arabic_clean": "الرحمن الرحيم",
+      "translation_saheeh": "The Entirely Merciful, the Especially Merciful",
+      "translation_abdelhaleem": "the Lord of Mercy, the Giver of Mercy",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 4,
+      "arabic_uthmani": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "arabic_simple": "مَالِكِ يَوْمِ الدِّينِ",
+      "arabic_clean": "مالك يوم الدين",
+      "translation_saheeh": "Sovereign of the Day of Recompense",
+      "translation_abdelhaleem": "Master of the Day of Judgement",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 5,
+      "arabic_uthmani": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "arabic_simple": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "arabic_clean": "اياك نعبد واياك نستعين",
+      "translation_saheeh": "It is You we worship and You we ask for help",
+      "translation_abdelhaleem": "It is You we worship; it is You we ask for help",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 6,
+      "arabic_uthmani": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "arabic_simple": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "arabic_clean": "اهدنا الصراط المستقيم",
+      "translation_saheeh": "Guide us to the straight path",
+      "translation_abdelhaleem": "Guide us to the straight path",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    },
+    {
+      "surah_id": 1,
+      "ayah_number": 7,
+      "arabic_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "arabic_simple": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "arabic_clean": "صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين",
+      "translation_saheeh": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray",
+      "translation_abdelhaleem": "the path of those You have blessed, those who incur no anger and who have not gone astray",
+      "juz_number": 1,
+      "page_number": 1,
+      "ruku_number": 1,
+      "sajda": false
+    }
+  ]
+}

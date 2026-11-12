@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rel_001_002_petition_response",
+    "from_type": "ayah",
+    "from_id": "ayah:1:6",
+    "to_type": "ayah",
+    "to_id": "ayah:2:2",
+    "relationship_type": "cause_and_response",
+    "description": "The urgent petition for the Straight Path in Al-Fatihah (Ihdina al-sirat al-mustaqim) is directly answered by the presentation of the Book as that requested guidance (Dhalika al-kitabu la rayba fihi hudan lil-muttaqin).",
+    "evidence_ids": [
+      "ev_001_002_razi",
+      "ev_001_002_biqai",
+      "ev_001_002_gharnati",
+      "ev_001_002_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None in classical Sunni tafsir; universally highlighted as a premier example of divine discourse structure between prayer and response.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_001_002_tripartite_archetypes",
+    "from_type": "ayah",
+    "from_id": "ayah:1:7",
+    "to_type": "section",
+    "to_id": "section:002_archetypes",
+    "relationship_type": "thematic_continuity",
+    "description": "The three spiritual paths mentioned in Al-Fatihah 1:7 (the favored, the objects of anger, and the astray) are systematically mapped and unpacked in the opening three human archetypes of Al-Baqarah: the Muttaqun (2:1-5), the Kafiroon (2:6-7), and the Munafiqoon (2:8-20).",
+    "evidence_ids": [
+      "ev_001_002_biqai_archetypes",
+      "ev_001_002_gharnati_archetypes"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Some commentators note that early Medinan context specifically addresses the local hypocrites and Jewish tribes, while the Fatihah formulation is universal. Classical scholars reconcile this by viewing the historical groups in Al-Baqarah as specific realisations of the universal Fatihah archetypes.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_001_002_opening_closing_envelope",
+    "from_type": "surah",
+    "from_id": "surah:1",
+    "to_type": "ayah",
+    "to_id": "ayah:2:285-286",
+    "relationship_type": "structural_parallel",
+    "description": "Al-Baqarah concludes with a profound communal prayer (2:285-286) that echoes the invocatory spirit of Al-Fatihah, affirming total submission (Samina wa-ata'na) and petitioning for divine forgiveness and victory over disbelief.",
+    "evidence_ids": [
+      "ev_001_002_ibn_ashur_closure"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "The closure of Al-Baqarah also directly responds to its own opening (faith in the unseen and revelation in 2:1-4 mirrored in 2:285).",
+    "review_status": "reviewed_internal"
+  }
+]

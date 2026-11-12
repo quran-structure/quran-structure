@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Source",
+  "type": "object",
+  "required": [
+    "id",
+    "author",
+    "work_title",
+    "source_type",
+    "school_or_tradition",
+    "reliability_notes"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "work_title": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "primary_tafsir",
+        "ulum_al_quran",
+        "hadith",
+        "academic_secondary",
+        "quran_text",
+        "translation"
+      ]
+    },
+    "school_or_tradition": {
+      "type": "string"
+    },
+    "edition": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "volume": {
+      "type": "string"
+    },
+    "page_or_section": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "accessed_at": {
+      "type": "string"
+    },
+    "reliability_notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

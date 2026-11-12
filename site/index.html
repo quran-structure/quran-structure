@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Qur'an in Conversation: Surah, Ayah & Thematic Structural Atlas</title>
+  <!-- Classical Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Spectral:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-title">
+        <h1>The Qur'an in Conversation</h1>
+        <span class="site-slogan">A Study of Surah, Ayah and Thematic Connections</span>
+      </div>
+      <nav class="main-nav">
+        <button class="active" data-tab="tab-surahs">Explore 114 Surahs</button>
+        <button data-tab="tab-transitions">Surah Transitions</button>
+        <button data-tab="tab-envelopes">Openings & Endings</button>
+        <button data-tab="tab-personalities">Surah Personalities</button>
+        <button data-tab="tab-library">Classical Library</button>
+        <button data-tab="tab-methodology">Methodology</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h2>Investigating Structure, Coherence & Munāsabāt</h2>
+      <p>
+        A source-backed digital research atlas exploring the internal architecture, consecutive transitions, 
+        and overarching thematic networks across the canonical muṣḥaf order.
+      </p>
+      <div class="axiom-banner">
+        <span>✨ Guiding Axiom:</span>
+        <span>Each Surah is unique and has a different personality</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Container -->
+  <main class="container">
+
+    <!-- Tab 1: Explore 114 Surahs -->
+    <section id="tab-surahs" class="tab-panel active">
+      <div class="filter-bar">
+        <input type="text" id="surahSearch" class="search-input" placeholder="Search surah by name, number, meaning, or personality...">
+        <select id="surahFilter" class="filter-select">
+          <option value="">All Revelations (114)</option>
+          <option value="makki">Makki Surahs</option>
+          <option value="madani">Madani Surahs</option>
+        </select>
+      </div>
+
+      <div id="surahGrid" class="surah-grid">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Tab 2: Surah Transitions -->
+    <section id="tab-transitions" class="tab-panel">
+      <div style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
+          Sequential Surah Transitions (Munāsabāt al-Suwar)
+        </h3>
+        <p style="color: var(--text-secondary);">
+          Classical Sunni analysis of adjacent surah handoffs, examining how terminal verses lead directly into the subsequent surah's opening.
+        </p>
+      </div>
+      <div id="transitionsList" class="relationship-list">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Tab 3: Openings & Endings -->
+    <section id="tab-envelopes" class="tab-panel">
+      <div style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
+          Opening & Ending Correspondences (Maṭāliʿ wa Maqāṭiʿ)
+        </h3>
+        <p style="color: var(--text-secondary);">
+          Specialized investigations into how surahs conclude by returning to, completing, intensifying, or answering their opening propositions.
+        </p>
+      </div>
+      <div id="envelopeList" class="relationship-list">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Tab 4: Surah Personalities Showcase -->
+    <section id="tab-personalities" class="tab-panel">
+      <div style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
+          Surah Personalities & Atmospheric Profiles
+        </h3>
+        <p style="color: var(--text-secondary);">
+          Every surah in the Holy Qur'an possesses an autonomous spiritual identity, a distinctive rhetorical voice, and a unique emotional atmosphere (<em>Jaww al-Sūrah</em>).
+        </p>
+      </div>
+      <div id="personalitiesList" class="relationship-list">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Tab 5: Classical Library -->
+    <section id="tab-library" class="tab-panel">
+      <div style="margin-bottom: 1.5rem;">
+        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--accent-emerald);">
+          Registered Classical Sunni Sources
+        </h3>
+        <p style="color: var(--text-secondary);">
+          The verified bibliographic foundation governing all claims, citations, and structural observations in this atlas.
+        </p>
+      </div>
+      <div id="libraryGrid" class="library-grid">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Tab 6: Methodology -->
+    <section id="tab-methodology" class="tab-panel">
+      <div style="max-width: 800px; margin: 0 auto; background: var(--bg-card); padding: 2rem; border-radius: var(--radius-md); border: 1px solid var(--border-light);">
+        <h3 style="font-size: 1.6rem; color: var(--accent-emerald); margin-bottom: 1rem;">
+          Research Method & Disciplinary Discipline
+        </h3>
+        
+        <h4 style="font-size: 1.2rem; margin-top: 1.25rem; margin-bottom: 0.5rem;">1. Sunni Hermeneutical Grounding</h4>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+          All interpretive claims must derive from recognised Sunni authorities: Al-Ṭabarī, Al-Baghawī, Al-Qurṭubī, Ibn Kathīr, 
+          Fakhr al-Dīn al-Rāzī, Ibn ʿĀshūr, Al-Biqāʿī, Ibn al-Zubayr al-Gharnāṭī, Al-Zarkashī, and Al-Suyūṭī. 
+          Unattributed internet claims, sectarian polemics, and numerological speculations ("hidden codes") are strictly excluded.
+        </p>
+
+        <h4 style="font-size: 1.2rem; margin-top: 1.25rem; margin-bottom: 0.5rem;">2. Rigorous Confidence Hierarchy</h4>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+          Every connection is explicitly labeled with its evidentiary weight:
+        </p>
+        <ul style="margin-left: 1.5rem; color: var(--text-secondary); line-height: 1.8;">
+          <li><strong>Explicitly stated by a classical mufassir:</strong> Directly documented with exact volume and page.</li>
+          <li><strong>Supported by multiple tafsir sources:</strong> Concurred by multiple independent classical authorities.</li>
+          <li><strong>Classical scholarly observation:</strong> Formulated by a scholar but subject to ongoing evaluation.</li>
+          <li><strong>Textually observable:</strong> Clear textual handoff or shared phrasing without forced theological extrapolation.</li>
+          <li><strong>Research hypothesis:</strong> Clearly flagged speculative connection awaiting peer review.</li>
+        </ul>
+
+        <h4 style="font-size: 1.2rem; margin-top: 1.25rem; margin-bottom: 0.5rem;">3. No Forced Coherence</h4>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+          We do not assume every surah pair shares a simplistic thematic slogan, nor do we impose artificial ring compositions 
+          or chiasms that distort the authentic text. Distinctive personalities are honored without homogenizing the Qur'an.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Surah Modal Container -->
+  <div id="surahModal" class="modal-overlay">
+    <div class="modal-content">
+      <button id="modalClose" class="modal-close">&times;</button>
+      <div id="modalBody">
+        <!-- Rendered via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <p style="font-weight: 600; color: var(--accent-emerald); margin-bottom: 0.25rem;">
+        The Qur'an in Conversation: A Study of Surah, Ayah and Thematic Connections
+      </p>
+      <p style="font-size: 0.82rem; margin-bottom: 0.5rem;">
+        Anchored in Classical Sunni Tafsir & ʿUlūm al-Qur'ān • Text based on Canonical Hafs (Tanzil Project)
+      </p>
+      <p style="font-size: 0.8rem; font-style: italic; color: var(--accent-gold);">
+        "Each surah is unique and has a different personality"
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

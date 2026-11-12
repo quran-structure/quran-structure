@@ -1,0 +1,104 @@
+{
+  "surah": {
+    "id": 114,
+    "name_ar": "سُوْرَةُ النَّاسِ",
+    "name_en": "An-Naas",
+    "name_meaning": "Mankind",
+    "name_transliteration": "An-Naas",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 6,
+    "page_start": 604,
+    "page_end": 604,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Surah An-Naas (Mankind)",
+    "personality_summary": "Unique Qur'anic surah of 6 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
+    "distinctive_voice": "Qur'anic discourse",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah An-Naas (Mankind) is the 114th surah in the canonical muṣḥaf sequence, comprising 6 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 114,
+      "ayah_number": 1,
+      "arabic_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم قل اعوذ برب الناس",
+      "translation_saheeh": "Say, \"I seek refuge in the Lord of mankind",
+      "translation_abdelhaleem": "Say, ‘I seek refuge with the Lord of people",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    },
+    {
+      "surah_id": 114,
+      "ayah_number": 2,
+      "arabic_uthmani": "مَلِكِ ٱلنَّاسِ",
+      "arabic_simple": "مَلِكِ النَّاسِ",
+      "arabic_clean": "ملك الناس",
+      "translation_saheeh": "The Sovereign of mankind",
+      "translation_abdelhaleem": "the Controller of people",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    },
+    {
+      "surah_id": 114,
+      "ayah_number": 3,
+      "arabic_uthmani": "إِلَٰهِ ٱلنَّاسِ",
+      "arabic_simple": "إِلَٰهِ النَّاسِ",
+      "arabic_clean": "اله الناس",
+      "translation_saheeh": "The God of mankind",
+      "translation_abdelhaleem": "the God of people",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    },
+    {
+      "surah_id": 114,
+      "ayah_number": 4,
+      "arabic_uthmani": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+      "arabic_simple": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "arabic_clean": "من شر الوسواس الخناس",
+      "translation_saheeh": "From the evil of the retreating whisperer",
+      "translation_abdelhaleem": "against the harm of the slinking whisperer––",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    },
+    {
+      "surah_id": 114,
+      "ayah_number": 5,
+      "arabic_uthmani": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+      "arabic_simple": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "arabic_clean": "الذي يوسوس في صدور الناس",
+      "translation_saheeh": "Who whispers [evil] into the breasts of mankind",
+      "translation_abdelhaleem": "who whispers into the hearts of people––",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    },
+    {
+      "surah_id": 114,
+      "ayah_number": 6,
+      "arabic_uthmani": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+      "arabic_simple": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "arabic_clean": "من الجنة والناس",
+      "translation_saheeh": "From among the jinn and mankind",
+      "translation_abdelhaleem": "whether they be jinn or people.’",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 556,
+      "sajda": false
+    }
+  ]
+}

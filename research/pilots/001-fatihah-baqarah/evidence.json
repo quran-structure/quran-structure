@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ev_001_002_razi",
+    "relationship_id": "rel_001_002_petition_response",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 2, p. 261 (Commentary on 2:2)",
+    "original_quote": "كَأَنَّ الْعَبْدَ لَمَّا قَالَ: {اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ} قِيلَ لَهُ: قَدْ سَأَلْتَ الْهِدَايَةَ، فَهَاكَ الْكِتَابَ الَّذِي فِيهِ تِلْكَ الْهِدَايَةُ، وَهُوَ: {ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ}.",
+    "translation_or_paraphrase": "It is as though when the servant said: 'Guide us to the straight path', it was answered to him: 'You have asked for guidance; take then this Book in which is that very guidance: That is the Book about which there is no doubt, guidance for those conscious of Allah.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_biqai",
+    "relationship_id": "rel_001_002_petition_response",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Vol. 1, p. 35",
+    "original_quote": "فَكَانَ افْتِتَاحُ سُورَةِ الْبَقَرَةِ نَفْسَ مَا انْتَهَتْ إِلَيْهِ الْفَاتِحَةُ، لِأَنَّ خَاتِمَةَ الْفَاتِحَةِ دُعَاءٌ بِالْهِدَايَةِ إِلَى الصِّرَاطِ الْمُسْتَقِيمِ، وَأَوَّلُ الْبَقَرَةِ بَيَانُ أَنَّ ذَلِكَ الصِّرَاطَ الْمَطْلُوبَ هُوَ هَذَا الْكِتَابُ الَّذِي لَا شَكَّ فِيهِ.",
+    "translation_or_paraphrase": "The opening of Surah Al-Baqarah is the very destination at which Al-Fatihah concluded, because the conclusion of Al-Fatihah is a supplication for guidance to the straight path, and the beginning of Al-Baqarah is the clarification that the sought-after path is this Book in which there is no doubt.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_gharnati",
+    "relationship_id": "rel_001_002_petition_response",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Ed. Shaʿbānī, pp. 177-182",
+    "original_quote": "ولما اشتملت أم الكتاب على الإجمال الذي وقع تفصيله في باقي القرآن... افتتحت البقرة بما يعين على سلوك هذا الصراط المستقيم.",
+    "translation_or_paraphrase": "Since the Mother of the Book contains the concise summation whose detailed exposition occurs in the remainder of the Qur'an... Al-Baqarah opened with that which aids in traversing this straight path.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_suyuti",
+    "relationship_id": "rel_001_002_petition_response",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Ed. ʿAṭā, p. 65",
+    "original_quote": "افتتحت سورة البقرة بالدلالة على أن هذا الكتاب هو الهداية المطلوبة في قوله: {اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ}.",
+    "translation_or_paraphrase": "Surah Al-Baqarah opened with the indication that this Book is the guidance requested in His saying: 'Guide us to the straight path.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_biqai_archetypes",
+    "relationship_id": "rel_001_002_tripartite_archetypes",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 1, pp. 38-42",
+    "original_quote": "فصلت سورة البقرة أصناف الخلق الثلاثة الذين أجملتهم الفاتحة: المتقين، والكافرين، والمنافقين.",
+    "translation_or_paraphrase": "Surah Al-Baqarah details the three classes of creation that Al-Fatihah summarized: the Muttaqun (the favored), the Kafiroon (those who incurred wrath), and the Munafiqoon (those astray).",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_gharnati_archetypes",
+    "relationship_id": "rel_001_002_tripartite_archetypes",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, p. 180",
+    "original_quote": "بيّن سبحانه في صدر البقرة أحوال الفرق الثلاث المذكورة في ختام الفاتحة أتم بيان.",
+    "translation_or_paraphrase": "He, the Exalted, explained in the beginning of Al-Baqarah the states of the three groups mentioned at the conclusion of Al-Fatihah in the most complete clarification.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_001_002_ibn_ashur_closure",
+    "relationship_id": "rel_001_002_opening_closing_envelope",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Vol. 3, pp. 138-142",
+    "original_quote": "جاء ختام سورة البقرة مناجياً متضرعاً كما كان شأن الفاتحة، فتلاقت خاتمتها مع فاتحتها وفاتحة الكتاب.",
+    "translation_or_paraphrase": "The conclusion of Surah Al-Baqarah arrived in intimate supplication and humble petition, just as was the condition of Al-Fatihah; thus its ending harmonizes with its own opening and the opening of the Scripture.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

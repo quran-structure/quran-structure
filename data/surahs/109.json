@@ -1,0 +1,104 @@
+{
+  "surah": {
+    "id": 109,
+    "name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+    "name_en": "Al-Kaafiroon",
+    "name_meaning": "The Disbelievers",
+    "name_transliteration": "Al-Kaafiroon",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 6,
+    "page_start": 603,
+    "page_end": 603,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Surah Al-Kaafiroon (The Disbelievers)",
+    "personality_summary": "Unique Qur'anic surah of 6 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
+    "distinctive_voice": "Qur'anic discourse",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Kaafiroon (The Disbelievers) is the 109th surah in the canonical muṣḥaf sequence, comprising 6 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 109,
+      "ayah_number": 1,
+      "arabic_uthmani": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "arabic_clean": "بسم الله الرحمن الرحيم قل يا ايها الكافرون",
+      "translation_saheeh": "Say, \"O disbelievers",
+      "translation_abdelhaleem": "Say [Prophet], ‘Disbelievers",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    },
+    {
+      "surah_id": 109,
+      "ayah_number": 2,
+      "arabic_uthmani": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "arabic_simple": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "arabic_clean": "لا اعبد ما تعبدون",
+      "translation_saheeh": "I do not worship what you worship",
+      "translation_abdelhaleem": "I do not worship what you worship",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    },
+    {
+      "surah_id": 109,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "arabic_simple": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "arabic_clean": "ولا انتم عابدون ما اعبد",
+      "translation_saheeh": "Nor are you worshippers of what I worship",
+      "translation_abdelhaleem": "you do not worship what I worship",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    },
+    {
+      "surah_id": 109,
+      "ayah_number": 4,
+      "arabic_uthmani": "وَلَآ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ",
+      "arabic_simple": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+      "arabic_clean": "ولا انا عابد ما عبدتم",
+      "translation_saheeh": "Nor will I be a worshipper of what you worship",
+      "translation_abdelhaleem": "I will never worship what you worship",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    },
+    {
+      "surah_id": 109,
+      "ayah_number": 5,
+      "arabic_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "arabic_simple": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "arabic_clean": "ولا انتم عابدون ما اعبد",
+      "translation_saheeh": "Nor will you be worshippers of what I worship",
+      "translation_abdelhaleem": "you will never worship what I worship",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    },
+    {
+      "surah_id": 109,
+      "ayah_number": 6,
+      "arabic_uthmani": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "arabic_simple": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "arabic_clean": "لكم دينكم ولي دين",
+      "translation_saheeh": "For you is your religion, and for me is my religion",
+      "translation_abdelhaleem": "you have your religion and I have mine.’",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 551,
+      "sajda": false
+    }
+  ]
+}

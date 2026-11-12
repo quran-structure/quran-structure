@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Surah",
+  "type": "object",
+  "required": [
+    "id",
+    "name_ar",
+    "name_en",
+    "revelation_classification",
+    "ayah_count",
+    "personality_summary",
+    "overview",
+    "central_topics",
+    "research_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114
+    },
+    "name_ar": {
+      "type": "string"
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "name_transliteration": {
+      "type": "string"
+    },
+    "alternative_names": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "revelation_classification": {
+      "type": "string",
+      "enum": ["makki", "madani", "disputed"]
+    },
+    "revelation_order": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114
+    },
+    "ayah_count": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "personality_summary": {
+      "type": "string",
+      "description": "Distinctive atmosphere, voice, spiritual personality and rhetorical uniqueness of the surah."
+    },
+    "overview": {
+      "type": "string"
+    },
+    "central_topics": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "research_status": {
+      "type": "string",
+      "enum": ["draft", "in_review", "verified", "published"]
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SurahSection",
+  "type": "object",
+  "required": [
+    "id",
+    "surah_id",
+    "start_ayah",
+    "end_ayah",
+    "editorial_title",
+    "summary",
+    "structural_observations",
+    "evidence_ids",
+    "confidence"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "surah_id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114
+    },
+    "start_ayah": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "end_ayah": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "editorial_title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "structural_observations": {
+      "type": "string"
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "explicitly_stated_by_classical_mufassir",
+        "supported_by_multiple_tafsir_sources",
+        "classical_scholarly_observation",
+        "textually_observable",
+        "research_hypothesis",
+        "weak_or_not_established"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

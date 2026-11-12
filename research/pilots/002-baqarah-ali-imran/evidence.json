@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ev_002_003_gharnati_transition",
+    "relationship_id": "rel_002_003_victory_response",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Ed. Shaʿbānī, pp. 183-185",
+    "original_quote": "لما ختمت سورة البقرة بالدعاء بالنصر على القوم الكافرين في قوله: {فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ}، افتتحت آل عمران ببيان من يُستنصر به وهو {اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ}، ثم أتبع ذلك بإنذار الكافرين بأنهم سيُغلبون في قوله: {قُل لِّلَّذِينَ كَفَرُوا سَتُغْلَبُونَ}.",
+    "translation_or_paraphrase": "When Surah Al-Baqarah concluded with the supplication for victory over the disbelieving people [2:286], Al 'Imran opened by identifying the One from Whom alone victory is sought — 'Allah, there is no deity except Him, the Ever-Living, the Sustainer of existence' [3:2] — followed by warning the disbelievers that they will surely be overcome [3:12].",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_002_003_biqai_defense",
+    "relationship_id": "rel_002_003_victory_response",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Vol. 2, pp. 5-10",
+    "original_quote": "سورة البقرة لأصل الدين وتأسيس قواعده، وسورة آل عمران للدفاع عنه والرد على من خالفه من أهل الكتاب.",
+    "translation_or_paraphrase": "Surah Al-Baqarah is for establishing the foundation of the religion and instituting its rules, while Surah Al 'Imran is for defending it and refuting those from the People of the Book who oppose it.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_002_003_suyuti_scripture",
+    "relationship_id": "rel_002_003_scripture_clarity",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Ed. ʿAṭā, p. 70",
+    "original_quote": "لما قرر في البقرة أن الكتاب لا ريب فيه، بيّن في آل عمران انقسامه إلى محكم ومتشابه.",
+    "translation_or_paraphrase": "When it was established in Al-Baqarah that the Book contains no doubt, it was clarified in Al 'Imran its division into clear, decisive verses and allegorical verses.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_002_003_ibn_ashur_epistemology",
+    "relationship_id": "rel_002_003_scripture_clarity",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Vol. 3, pp. 154-159",
+    "original_quote": "جاءت آية المحكم والمتشابه قاعدة منهجية كبرى لحماية الأمة من التفرق والتأويل الباطل.",
+    "translation_or_paraphrase": "The verse of the clear and ambiguous was revealed as a major methodological foundation to protect the Ummah from division and false interpretation.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_002_003_biqai_covenant_shift",
+    "relationship_id": "rel_002_003_people_of_book_shift",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 2, pp. 11-15",
+    "original_quote": "استوفت البقرة مجادلة اليهود، واستوفت آل عمران مجادلة النصارى.",
+    "translation_or_paraphrase": "Al-Baqarah exhaustively addressed the disputation with the Jews, and Al 'Imran exhaustively addressed the disputation with the Christians.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

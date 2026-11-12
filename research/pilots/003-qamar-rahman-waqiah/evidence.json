@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ev_054_055_gharnati",
+    "relationship_id": "rel_054_055_malik_rahman",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Ed. Shaʿbānī, pp. 312-315",
+    "original_quote": "لَمَّا خَتَمَ الْقَمَرَ بِقَوْلِهِ: {فِي مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ}، افْتَتَحَ الرَّحْمَنَ بِتَعْرِيفِ ذَلِكَ الْمَلِيكِ فَقَالَ: {الرَّحْمَٰنُ}، ثُمَّ لَمَّا كَرَّرَ فِي الْقَمَرِ: {وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ}، بَيَّنَ فِي الرَّحْمَنِ أَنَّهُ سُبْحَانَهُ هُوَ الَّذِي يَسَّرَهُ فَقَالَ: {عَلَّمَ الْقُرْآنَ}.",
+    "translation_or_paraphrase": "When He concluded Al-Qamar with His saying: 'In a seat of honor near an Omnipotent Sovereign' [54:55], He opened Ar-Rahman by defining that Sovereign, saying: 'The Most Merciful' [55:1]. Furthermore, when He repeated four times in Al-Qamar: 'And We have certainly made the Quran easy for remembrance', He clarified in Ar-Rahman that He is the One who facilitated it, saying: 'Taught the Quran' [55:2].",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_054_055_suyuti",
+    "relationship_id": "rel_054_055_malik_rahman",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Ed. ʿAṭā, p. 132",
+    "original_quote": "خاتمة القمر في بيان جزاء المتقين عند مليك مقتدر، وفاتحة الرحمن سمّت ذلك المليك وأفاضت في آلائه ونعمه.",
+    "translation_or_paraphrase": "The conclusion of Al-Qamar clarifies the recompense of the righteous near an Omnipotent Sovereign, and the opening of Ar-Rahman named that Sovereign and expanded upon His bounties and favors.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_055_056_biqai_cohorts",
+    "relationship_id": "rel_055_056_gardens_cohorts",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 19, pp. 110-115",
+    "original_quote": "الجنتان الأوليان في الرحمن للسابقين المقربين، والجنتان الأخريان لأصحاب اليمين، وقد فصّلت الواقعة أحوال هذين الصنفين وأحوال أصحاب الشمال.",
+    "translation_or_paraphrase": "The two initial gardens in Ar-Rahman belong to the Foremost who are brought near, and the two subsequent gardens belong to the Companions of the Right, and Al-Waqi'ah detailed the conditions of these two categories along with the Companions of the Left.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_056_057_suyuti_tasbih",
+    "relationship_id": "rel_056_057_command_fulfillment",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Ed. ʿAṭā, p. 134",
+    "original_quote": "أمر في آخر الواقعة بالتسبيح فقال: {فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ}، وأخبر في أول الحديد بوقوع التسبيح من جميع الكائنات فقال: {سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالأَرْضِ}.",
+    "translation_or_paraphrase": "He commanded tasbih at the end of Al-Waqi'ah, saying: 'So glorify the name of your Lord, the Most Great', and informed at the beginning of Al-Hadid of the occurrence of tasbih by all beings, saying: 'Whatever is in the heavens and earth glorifies Allah.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]
