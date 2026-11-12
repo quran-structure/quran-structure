@@ -13,9 +13,9 @@
     "juz_numbers": [
       1
     ],
-    "personality_title": "Umm al-Kitāb (The Mother of the Book) — The Gateway of Devotional Covenant",
-    "personality_summary": "A concise, rhythmic, liturgical opening that moves symmetrically from the objective majesty of divine praise (Tawḥīd and Mercy) to the intimate second-person commitment of servitude (Iyyāka na'budu), culminating in the desperate human petition for the Straight Path. It sets the orientation and spiritual posture of the seeker before entering the vast expanse of the Qur'an.",
-    "distinctive_voice": "Devotional, communal, invocatory, foundational.",
+    "personality_title": "Surah Al-Fatihah (The Opening)",
+    "personality_summary": "Surah Al-Fatihah (The Opening) stands as the sublime gateway to the entire Holy Qur'an. Comprising seven mutawatir verses, it is the sole surah without which no formal prayer (Salah) is legally valid. Recited at least seventeen times daily by every practicing believer, it serves as the spiritual constitution of Islam.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Opens with universal praise of the Lord of all worlds (Rabb al-'Ālamīn) and closes with the petition to be safeguarded from those who incur anger or wander astray.",
     "overview": "Surah Al-Faatiha (The Opening) is the 1st surah in the canonical muṣḥaf sequence, comprising 7 ayat. Classified as Makki.",
     "central_topics": [],
@@ -37,9 +37,9 @@
       2,
       3
     ],
-    "personality_title": "Al-Baqarah — The Comprehensive Constitution of the Vicegerency",
-    "personality_summary": "Majestic, legislative, covenantal, and vast. Al-Baqarah functions as the comprehensive blueprint for humanity's stewardship on earth, answering Al-Fatihah's plea for guidance. It navigates from the archetypal appointment of Adam as khalifah, through a thorough critique of the historical covenant failures of Banī Isrā'īl, to the Abrahamic foundation of the Ka'bah and the establishment of an independent, balanced community (Ummatan Wasaṭan) governed by holistic law, civil ethics, economic justice, and reliant supplication.",
-    "distinctive_voice": "Architectural, legislative, covenantal, authoritative.",
+    "personality_title": "Surah Al-Baqarah — Part 1",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Opens declaring the Book as undeniable guidance for the God-conscious (Hudan lil-muttaqīn) and closes with the believers' collective surrender and plea for forgiveness and divine aid against disbelief (2:285-286).",
     "overview": "Surah Al-Baqara (The Cow) is the 2nd surah in the canonical muṣḥaf sequence, comprising 286 ayat. Classified as Madani.",
     "central_topics": [],
@@ -60,9 +60,9 @@
       3,
       4
     ],
-    "personality_title": "Āl ʿImrān — The Shield of Steadfastness and Intellectual Resilience",
-    "personality_summary": "Vigorous, apologetic, pastoral, and resilient. Where Al-Baqarah establishes the internal institutions and law of the Muslim community while critiquing the Judaic covenant history, Āl ʿImrān addresses the Christian theological encounter (the delegation of Najrān and Christological debates) externally, while internally nursing and disciplining the community through the physical and spiritual crisis of the Battle of Uḥud. It is the surah of steadfastness (Thabāt), distinguishing clear verses (Muḥkamāt) from ambiguous ones (Mutashābihāt), and warning against division.",
-    "distinctive_voice": "Vigorous, dialogical, consoling, steeling.",
+    "personality_title": "Surah Ali-Imran (The Family of Imran)",
+    "personality_summary": "Surah Ali-Imran (Chapter 3) is the resplendent twin of Surah Al-Baqarah. In authentic Hadith (Sahih Muslim 804), the Messenger of Allah ﷺ named them Az-Zahrawayn (The Two Radiant, Luminous Flowers) which will shade their reciters like two dense canopies of birds on the Day of Resurrection.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Opens establishing Allah as Al-Ḥayy Al-Qayyūm who sent the Book confirming previous scriptures (3:1-4), and closes with the clarion call to patience, steadfastness, vigilance, and Taqwa (3:200).",
     "overview": "Surah Aal-i-Imraan (The Family of Imraan) is the 3rd surah in the canonical muṣḥaf sequence, comprising 200 ayat. Classified as Madani.",
     "central_topics": [],
@@ -84,9 +84,9 @@
       5,
       6
     ],
-    "personality_title": "Surah An-Nisaa (The Women)",
-    "personality_summary": "Unique Qur'anic surah of 176 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah An-Nisa (The Women)",
+    "personality_summary": "Surah An-Nisa (Chapter 4) forms the constitutional bedrock of Islamic Social Justice, Equity for the Vulnerable, and the Rule of Law. Revealed predominantly in the post-Uhud Madinan era, it directly addresses the severe humanitarian, social, and economic crises created by the martyrdom of seventy Muslim breadwinners at Uhud, leaving dozens of widows, orphans, and vulnerable dependents without institutional protection.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Nisaa (The Women) is the 4th surah in the canonical muṣḥaf sequence, comprising 176 ayat. Classified as Madani.",
     "central_topics": [],
@@ -107,9 +107,9 @@
       6,
       7
     ],
-    "personality_title": "Surah Al-Maaida (The Table)",
-    "personality_summary": "Unique Qur'anic surah of 120 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Ma'idah — The Inviolability of Covenants, Sacramental Law & Divine Sovereignty",
+    "personality_summary": "Surah Al-Ma'idah (\"The Repast\" or \"The Heavenly Table\") represents the constitutional and legislative capstone of the Madinan Quranic corpus. Revealed almost entirely in the late Madinan period—spanning the aftermath of the Treaty of Hudaybiyyah (6 AH), the Conquest of Makkah (8 AH), and the Farewell Pilgrimage (10 AH)—it contains the divine declaration of the completion and perfection of the religion: $$\\text{\"Al-yawma akmaltu lakum deenakum wa atmamtu 'alaykum ni'mati wa radeetu lakumul-Islama deena\" (5:3)}$$",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Maaida (The Table) is the 5th surah in the canonical muṣḥaf sequence, comprising 120 ayat. Classified as Madani.",
     "central_topics": [],
@@ -130,9 +130,9 @@
       7,
       8
     ],
-    "personality_title": "Surah Al-An'aam (The Cattle)",
-    "personality_summary": "Unique Qur'anic surah of 165 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-An'am — Cosmic Tawhid, Ontological Sovereignty & The Decimation of Polytheism",
+    "personality_summary": "Surah Al-An'am (\"The Cattle\") represents the foundational Makkan masterpiece of pure monotheism (Tawhid al-Uluhiyyah and Tawhid al-Rububiyyah). While the preceding four Surahs (Al-Baqarah, Ali-Imran, An-Nisa, and Al-Ma'idah) formed the Madinan constitutional, legislative, and contractual core of the Muslim civilization, Surah Al-An'am shifts focus to the primordial cosmological bedrock of Islamic epistemology: 1. The Unique Descent: Transmitted authentically through Ibn Abbas, Asma bint Yazid, and Anas ibn Malik, Surah Al-An'am was revealed all at once in a single nocturnal descent in Makkah, escorted by seventy thousand angels whose thunderous glorification (Tasbeeh) shook the heavens. 2. The Defense of Monotheism: Rather than detailing civil legal statutes (e.g., inheritance fractions, marriage contracts, or penal amputations), Al-An'am mounts an unrelenting theological and philosophical assault against idolatry, naturalistic materialism, astral worship, fatalistic determinism, and arbitrary pagan taboos. 3. The Cosmos as an Open Book: The natural cosmos—darkness and light, celestial orbits, astronomical timekeeping, the cleaving of seeds, the descending rain, and the biological diversity of livestock—is systematically marshaled as undeniable evidence of the One Supreme Originator (Badi'us-Samawati wal-Ard).",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-An'aam (The Cattle) is the 6th surah in the canonical muṣḥaf sequence, comprising 165 ayat. Classified as Makki.",
     "central_topics": [],
@@ -153,9 +153,9 @@
       8,
       9
     ],
-    "personality_title": "Surah Al-A'raaf (The Heights)",
-    "personality_summary": "Unique Qur'anic surah of 206 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-A'raf: The Primordial Covenant, Prophetic Epics & The Metaphysics of Account",
+    "personality_summary": "Surah Al-A'raf (The Heights) is the second and longest major Makkan surah in the canonical Qur'an. Following the ontological proofs and cosmic monotheism of Surah Al-An'am, Surah Al-A'raf unfolds the great historical and spiritual drama of human existence across time and eternity: 1. The Primordial Beginning & The Fall: The creation of Adam, the refusal of Iblis through pride (Kibr), the expulsion from the Garden, the seduction of the forbidden tree, the discovery of nakedness, and the gift of the Garment of Reverence (Libas at-Taqwa). 2. The Eschatological Vision & Ashab al-A'raf: The stark partition between the inhabitants of Paradise and the Fire, the dialogue across the abyss, and the mysterious station of the Men on the Heights (Ashab al-A'raf) whose good and bad deeds balance, waiting between hope and terror until divine mercy encompasses them. 3. The Prophetic Cycle: The monumental historical sequence of prophetic confrontations against entrenched tyranny: Nuh, Hud ('Ad), Salih (Thamud), Lut (Sodom), Shu'ayb (Madyan), and the climactic epic of Musa against Fir'awn and his court sorcerers. 4. The Theophany of Sinai & The Primordial Covenant: Musa's yearning to behold the Divine Essence (Rabbi arini anzur ilayk), the pulverization of the mountain into dust, the inscribed Tablets, and the pre-temporal covenant in the loins of Adam where all human souls testified: \"Alastu bi-Rabbikum? Qaloo: Bala!\" (Am I not your Lord? They said: Yea, we testify!). 5. The Parables of Human Ruin & The Final Sajdah: The cautionary parable of the apostate scholar who stripped off the signs of Allah (Fa-insalakha minha) panting like a dog, the creation destined for self-destruction through willfully blinded hearts, the sanctuary of the Most Beautiful Names (Al-Asma al-Husna), and the culminating command to prostrate before the Lord in awe.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-A'raaf (The Heights) is the 7th surah in the canonical muṣḥaf sequence, comprising 206 ayat. Classified as Makki.",
     "central_topics": [],
@@ -176,9 +176,9 @@
       9,
       10
     ],
-    "personality_title": "Surah Al-Anfaal (The Spoils of War)",
-    "personality_summary": "Unique Qur'anic surah of 75 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Anfal: The Metaphysics of Victory, Ethics of Conflict & The Unification of Hearts",
+    "personality_summary": "Surah Al-Anfal (The Spoils of War) was revealed in Madinah immediately following the watershed Battle of Badr in Ramadan of the second year of the Hijrah (624 CE). Termed by the Companions as Surat Badr, this chapter provides the definitive divine commentary on the first military engagement in Islamic history: 1. The Deconstruction of Worldly Spoils (Al-Anfal): Subordinating material spoils of war entirely to Allah and His Messenger, demanding inner reconciliation (Islah Dhat al-Bayn) and unswerving Taqwa, ensuring that victory does not breed greed or factional rivalry. 2. The Hallmarks of Authentic Faith: Defining true believers as those whose hearts tremble with awe when Allah is remembered (Wajilat quloobuhum), whose faith increases upon reciting His verses, and who place unconditional reliance (Tawakkul) exclusively upon Him. 3. The Metaphysics of Divine Agency: Demolishing human militaristic pride: \"You threw not when you threw, but Allah threw\" (Wa ma ramayta idh ramayta wa lakinnallaha rama). The angels descending in ranks of thousands, slumber enveloping anxious minds as tranquil security, and rain purifying the ground. 4. The Day of Criterion (Yawm al-Furqan): Distinguishing absolute truth from falsehood, the near slope from the far slope, unmasking the cowardice of Satan who fled after inciting Quraysh, and establishing the spiritual condition: \"Allah does not change a blessing He has bestowed upon a people until they change what is within themselves.\" 5. Ethics of Warfare & Deterrence: Strict prohibition of betrayal, the mandate to prepare defensive deterrence (Wa a'iddoo lahum mastata'tum min quwwah), the duty to incline toward peace whenever enemies seek reconciliation (Wa in janahoo lis-silmi fajnah laha), and the miraculous unification of previously feuding Arab tribes through divine affection.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Anfaal (The Spoils of War) is the 8th surah in the canonical muṣḥaf sequence, comprising 75 ayat. Classified as Madani.",
     "central_topics": [],
@@ -199,9 +199,9 @@
       10,
       11
     ],
-    "personality_title": "Surah At-Tawba (The Repentance)",
-    "personality_summary": "Unique Qur'anic surah of 129 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah At-Tawbah",
+    "personality_summary": "Surah At-Tawbah (also known classically as Al-Bara'ah, Al-Fadihah [The Disgracer], Al-Muba'thirah [The Scatterer], and Al-Mushardidah [The Expeller]) stands as one of the final major revelations bestowed upon the Prophet Muhammad ﷺ (revealed primarily in 9 AH around the Tabuk expedition and the Grand Hajj). It is the only Surah in the Qur'anic codex that does not open with the Basmalah.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Tawba (The Repentance) is the 9th surah in the canonical muṣḥaf sequence, comprising 129 ayat. Classified as Madani.",
     "central_topics": [],
@@ -221,9 +221,9 @@
     "juz_numbers": [
       11
     ],
-    "personality_title": "Surah Yunus (Jonas)",
-    "personality_summary": "Unique Qur'anic surah of 109 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Yunus",
+    "personality_summary": "Surah Yunus (The 10th Chapter of the Holy Qur'an) inaugurates the illustrious Alif-Lam-Ra cluster of Meccan Surahs (Yunus, Hud, Yusuf, Ibrahim, Al-Hijr). Revealed in the intense Meccan crucible, it anchors the human soul in Cosmic Truth (Al-Haqq), the mathematical order of creation (Kitabin Hakeem), the sovereign administration of the universe (Yudabbirul-Amr), and the psychological dynamics of human ingratitude versus divine mercy.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Yunus (Jonas) is the 10th surah in the canonical muṣḥaf sequence, comprising 109 ayat. Classified as Makki.",
     "central_topics": [],
@@ -244,9 +244,9 @@
       11,
       12
     ],
-    "personality_title": "Surah Hud (Hud)",
-    "personality_summary": "Unique Qur'anic surah of 123 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Hud",
+    "personality_summary": "Surah Hud (The 11th Chapter of the Holy Qur'an) forms the emotional and theological core of the Alif-Lam-Ra Makkan cluster. Celebrated across classical Sunni literature through the authentic declaration of the Prophet Muhammad ﷺ: \"Surah Hud and its sisters have aged me with gray hair\" (Sunan at-Tirmidhi), the surah places an extraordinary burden of moral rectitude, cosmic accountability, and unbending steadfastness (Istiqamah) upon the human soul.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Hud (Hud) is the 11th surah in the canonical muṣḥaf sequence, comprising 123 ayat. Classified as Makki.",
     "central_topics": [],
@@ -267,9 +267,9 @@
       12,
       13
     ],
-    "personality_title": "Surah Yusuf (Joseph)",
-    "personality_summary": "Unique Qur'anic surah of 111 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Yusuf",
+    "personality_summary": "Surah Yusuf (The 12th Chapter of the Holy Qur'an) stands as a unique literary, psychological, and theological masterpiece. Unlike other surahs that distribute prophetic vignettes across varied contexts, Surah Yusuf constitutes an unbroken, continuous narrative designated by the Almighty as Ahsan al-Qasas (The Best of Stories). Revealed during the Meccan Year of Sorrow ('Am al-Huzn) following the demise of Khadijah and Abu Talib, it provided divine solace to the Prophet Muhammad ﷺ, demonstrating that after betrayal, false accusation, and prolonged imprisonment comes absolute divine vindication and cosmic elevation.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Yusuf (Joseph) is the 12th surah in the canonical muṣḥaf sequence, comprising 111 ayat. Classified as Makki.",
     "central_topics": [],
@@ -289,9 +289,9 @@
     "juz_numbers": [
       13
     ],
-    "personality_title": "Surah Ar-Ra'd (The Thunder)",
-    "personality_summary": "Unique Qur'anic surah of 43 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Ar-Ra'd",
+    "personality_summary": "Surah Ar-Ra'd (The 13th Chapter of the Holy Qur'an, comprising 43 verses) occupies a monumental place in Qur'anic epistemology, bridging the Meccan proclamations of cosmic Tawhid with the Medinan realities of communal covenant and ethical accountability. Designated by the title Ar-Ra'd (The Thunder), this chapter demonstrates that the entirety of the natural order—from the celestial vaults held aloft without visible pillars to the thunder reverberating across the skies—is in continuous, sentient, awe-filled submission and hymnody (Tasbeeh) to its Creator.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ar-Ra'd (The Thunder) is the 13th surah in the canonical muṣḥaf sequence, comprising 43 ayat. Classified as Madani.",
     "central_topics": [],
@@ -311,9 +311,9 @@
     "juz_numbers": [
       13
     ],
-    "personality_title": "Surah Ibrahim (Abraham)",
-    "personality_summary": "Unique Qur'anic surah of 52 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Ibrahim",
+    "personality_summary": "Surah Ibrahim (The 14th Chapter of the Holy Qur'an, comprising 52 verses) stands as a profound theological, literary, and contemplative monument revealed during the late Meccan period. Designated by the name of the patriarch of monotheism, Prophet Ibrahim (Abraham) عليه السلام, this chapter establishes the ultimate purpose of divine scripture: emancipating humanity from the manifold layered darknesses of ignorance, superstition, and oppression into the singular, luminous path of truth (Mina az-zulumati ila an-noor).",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ibrahim (Abraham) is the 14th surah in the canonical muṣḥaf sequence, comprising 52 ayat. Classified as Makki.",
     "central_topics": [],
@@ -333,9 +333,9 @@
     "juz_numbers": [
       14
     ],
-    "personality_title": "Surah Al-Hijr (The Rock)",
-    "personality_summary": "Unique Qur'anic surah of 99 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah Al-Hijr",
+    "personality_summary": "Surah Al-Hijr (The 15th Chapter of the Holy Qur'an, comprising 99 verses) is a majestic Meccan revelation named after the ancient stone dwellings of Thamud (Ashab al-Hijr). Revealed during a phase of intense persecution and psychological siege against the early Muslim community, the Surah provides profound metaphysical assurance, cosmic defense mechanisms, the primordial narrative of human fashioning, and an infallible psychological therapy for spiritual distress.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Hijr (The Rock) is the 15th surah in the canonical muṣḥaf sequence, comprising 99 ayat. Classified as Makki.",
     "central_topics": [],
@@ -355,9 +355,9 @@
     "juz_numbers": [
       14
     ],
-    "personality_title": "Surah An-Nahl (The Bee)",
-    "personality_summary": "Unique Qur'anic surah of 128 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Thematic Architecture & Exegetical Foundations of Surah An-Nahl",
+    "personality_summary": "Surah An-Nahl (The 16th Chapter of the Holy Qur'an, comprising 128 verses) is known classically across Sunni scholarship as Surah an-Ni'am (The Chapter of Divine Favors). Revealed largely during the late Meccan period with concluding verses touching upon the crucible of Uhud, the Surah constitutes a monumental theological, cosmic, and moral compendium cataloging the unceasing gifts bestowed upon mankind by the Sovereign of the Cosmos.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Nahl (The Bee) is the 16th surah in the canonical muṣḥaf sequence, comprising 128 ayat. Classified as Makki.",
     "central_topics": [],
@@ -377,9 +377,9 @@
     "juz_numbers": [
       15
     ],
-    "personality_title": "Surah Al-Israa (The Night Journey)",
-    "personality_summary": "Unique Qur'anic surah of 111 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Isra Comprehensive Exegetical Research Dossier",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Israa (The Night Journey) is the 17th surah in the canonical muṣḥaf sequence, comprising 111 ayat. Classified as Makki.",
     "central_topics": [],
@@ -400,9 +400,9 @@
       15,
       16
     ],
-    "personality_title": "Surah Al-Kahf (The Cave)",
-    "personality_summary": "Unique Qur'anic surah of 110 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Kahf Comprehensive Exegetical Research Dossier",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Kahf (The Cave) is the 18th surah in the canonical muṣḥaf sequence, comprising 110 ayat. Classified as Makki.",
     "central_topics": [],
@@ -422,9 +422,9 @@
     "juz_numbers": [
       16
     ],
-    "personality_title": "Surah Maryam (Mary)",
-    "personality_summary": "Unique Qur'anic surah of 98 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Maryam Comprehensive Exegetical Research Dossier",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Maryam (Mary) is the 19th surah in the canonical muṣḥaf sequence, comprising 98 ayat. Classified as Makki.",
     "central_topics": [],
@@ -444,9 +444,9 @@
     "juz_numbers": [
       16
     ],
-    "personality_title": "Surah Taa-Haa (Taa-Haa)",
-    "personality_summary": "Unique Qur'anic surah of 135 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Ta-Ha Comprehensive Exegetical Research Dossier",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Taa-Haa (Taa-Haa) is the 20th surah in the canonical muṣḥaf sequence, comprising 135 ayat. Classified as Makki.",
     "central_topics": [],
@@ -466,9 +466,9 @@
     "juz_numbers": [
       17
     ],
-    "personality_title": "Surah Al-Anbiyaa (The Prophets)",
-    "personality_summary": "Unique Qur'anic surah of 112 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Anbiya Comprehensive Exegetical Research Dossier",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Anbiyaa (The Prophets) is the 21th surah in the canonical muṣḥaf sequence, comprising 112 ayat. Classified as Makki.",
     "central_topics": [],
@@ -488,9 +488,9 @@
     "juz_numbers": [
       17
     ],
-    "personality_title": "Surah Al-Hajj (The Pilgrimage)",
-    "personality_summary": "Unique Qur'anic surah of 78 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Al-Hajj",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Hajj (The Pilgrimage) is the 22th surah in the canonical muṣḥaf sequence, comprising 78 ayat. Classified as Madani.",
     "central_topics": [],
@@ -510,9 +510,9 @@
     "juz_numbers": [
       18
     ],
-    "personality_title": "Surah Al-Muminoon (The Believers)",
-    "personality_summary": "Unique Qur'anic surah of 118 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Al-Mu'minun",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Muminoon (The Believers) is the 23th surah in the canonical muṣḥaf sequence, comprising 118 ayat. Classified as Makki.",
     "central_topics": [],
@@ -532,9 +532,9 @@
     "juz_numbers": [
       18
     ],
-    "personality_title": "Surah An-Noor (The Light)",
-    "personality_summary": "Unique Qur'anic surah of 64 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah An-Nur",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Noor (The Light) is the 24th surah in the canonical muṣḥaf sequence, comprising 64 ayat. Classified as Madani.",
     "central_topics": [],
@@ -555,9 +555,9 @@
       18,
       19
     ],
-    "personality_title": "Surah Al-Furqaan (The Criterion)",
-    "personality_summary": "Unique Qur'anic surah of 77 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Al-Furqan",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Furqaan (The Criterion) is the 25th surah in the canonical muṣḥaf sequence, comprising 77 ayat. Classified as Makki.",
     "central_topics": [],
@@ -577,9 +577,9 @@
     "juz_numbers": [
       19
     ],
-    "personality_title": "Surah Ash-Shu'araa (The Poets)",
-    "personality_summary": "Unique Qur'anic surah of 227 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Ash-Shu'ara",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ash-Shu'araa (The Poets) is the 26th surah in the canonical muṣḥaf sequence, comprising 227 ayat. Classified as Makki.",
     "central_topics": [],
@@ -600,9 +600,9 @@
       19,
       20
     ],
-    "personality_title": "Surah An-Naml (The Ant)",
-    "personality_summary": "Unique Qur'anic surah of 93 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah An-Naml",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Naml (The Ant) is the 27th surah in the canonical muṣḥaf sequence, comprising 93 ayat. Classified as Makki.",
     "central_topics": [],
@@ -622,9 +622,9 @@
     "juz_numbers": [
       20
     ],
-    "personality_title": "Surah Al-Qasas (The Stories)",
-    "personality_summary": "Unique Qur'anic surah of 88 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Al-Qasas",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Qasas (The Stories) is the 28th surah in the canonical muṣḥaf sequence, comprising 88 ayat. Classified as Makki.",
     "central_topics": [],
@@ -645,9 +645,9 @@
       20,
       21
     ],
-    "personality_title": "Surah Al-Ankaboot (The Spider)",
-    "personality_summary": "Unique Qur'anic surah of 69 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Al-Ankabut",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ankaboot (The Spider) is the 29th surah in the canonical muṣḥaf sequence, comprising 69 ayat. Classified as Makki.",
     "central_topics": [],
@@ -667,9 +667,9 @@
     "juz_numbers": [
       21
     ],
-    "personality_title": "Surah Ar-Room (The Romans)",
-    "personality_summary": "Unique Qur'anic surah of 60 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Ar-Rum",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ar-Room (The Romans) is the 30th surah in the canonical muṣḥaf sequence, comprising 60 ayat. Classified as Makki.",
     "central_topics": [],
@@ -689,9 +689,9 @@
     "juz_numbers": [
       21
     ],
-    "personality_title": "Surah Luqman (Luqman)",
-    "personality_summary": "Unique Qur'anic surah of 34 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Primary Exegetical Research Dossier: Surah Luqman",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Luqman (Luqman) is the 31th surah in the canonical muṣḥaf sequence, comprising 34 ayat. Classified as Makki.",
     "central_topics": [],
@@ -711,9 +711,9 @@
     "juz_numbers": [
       21
     ],
-    "personality_title": "Surah As-Sajda (The Prostration)",
-    "personality_summary": "Unique Qur'anic surah of 30 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Foundational Exegetical Research Dossier: Surah As-Sajdah",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah As-Sajda (The Prostration) is the 32th surah in the canonical muṣḥaf sequence, comprising 30 ayat. Classified as Makki.",
     "central_topics": [],
@@ -734,9 +734,9 @@
       21,
       22
     ],
-    "personality_title": "Surah Al-Ahzaab (The Clans)",
-    "personality_summary": "Unique Qur'anic surah of 73 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Foundational Exegetical Research Dossier: Surah Al-Ahzab",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ahzaab (The Clans) is the 33th surah in the canonical muṣḥaf sequence, comprising 73 ayat. Classified as Madani.",
     "central_topics": [],
@@ -756,9 +756,9 @@
     "juz_numbers": [
       22
     ],
-    "personality_title": "Surah Saba (Sheba)",
-    "personality_summary": "Unique Qur'anic surah of 54 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Deep Exegetical & Thematic Research: Surah Saba (The Kingdom of Sheba)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Saba (Sheba) is the 34th surah in the canonical muṣḥaf sequence, comprising 54 ayat. Classified as Makki.",
     "central_topics": [],
@@ -778,9 +778,9 @@
     "juz_numbers": [
       22
     ],
-    "personality_title": "Surah Faatir (The Originator)",
-    "personality_summary": "Unique Qur'anic surah of 45 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Deep Exegetical & Thematic Research: Surah Fatir (The Originator / The Angels)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Faatir (The Originator) is the 35th surah in the canonical muṣḥaf sequence, comprising 45 ayat. Classified as Makki.",
     "central_topics": [],
@@ -801,9 +801,9 @@
       22,
       23
     ],
-    "personality_title": "Surah Yaseen (Yaseen)",
-    "personality_summary": "Unique Qur'anic surah of 83 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Ya-Sin (The Heart of the Qur'an)",
+    "personality_summary": "Surah Ya-Sin (the 36th Surah of the Qur'an, comprising 83 verses) is celebrated across prophetic traditions as \"The Heart of the Qur'an\" (Qalb al-Qur'an). Structurally located in the exact median center of the Meccan surah sequence, it pumps the foundational lifeblood of Islamic creed—Monotheism (Tawhid), Prophetic Integrity (Risalah), and Bodily Resurrection (Ba'th)—into the spiritual consciousness of the believer.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Yaseen (Yaseen) is the 36th surah in the canonical muṣḥaf sequence, comprising 83 ayat. Classified as Makki.",
     "central_topics": [],
@@ -823,9 +823,9 @@
     "juz_numbers": [
       23
     ],
-    "personality_title": "Surah As-Saaffaat (Those drawn up in Ranks)",
-    "personality_summary": "Unique Qur'anic surah of 182 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah As-Saffat (Those Arrayed in Ranks)",
+    "personality_summary": "Surah As-Saffat (Chapter 37 of the Qur'an, 182 verses) is revealed in the mid-to-late Meccan period, positioned directly after Surah Ya-Sin to establish a cosmic continuity: where Ya-Sin sealed the absolute authority of Revelation (Wal-Qur'an al-Hakim) and the instantaneous nature of creation (Kun Fayakun), As-Saffat sweeps the lens upward into the unseen angelic hierarchies guarding cosmic borders, across the subterranean agony of Hell's botanical monstrosity (Shajarat al-Zaqqum), and into the psychological core of prophetic submission (Islam).",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah As-Saaffaat (Those drawn up in Ranks) is the 37th surah in the canonical muṣḥaf sequence, comprising 182 ayat. Classified as Makki.",
     "central_topics": [],
@@ -845,9 +845,9 @@
     "juz_numbers": [
       23
     ],
-    "personality_title": "Surah Saad (The letter Saad)",
-    "personality_summary": "Unique Qur'anic surah of 88 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Sad (The Letter of Sovereign Remembrance)",
+    "personality_summary": "Surah Sad (the 38th chapter of the Qur'an, 88 verses) was revealed in Makkah during an intense period of aristocratic confrontation. Historically occasioned by the high-level delegation of 25 Qurayshi tribal chieftains (including Abu Jahl, 'Utbah ibn Rabi'ah, and Umayyah ibn Khalaf) convening at the deathbed of Abu Talib, the surah confronts the core psychological root of disbelief: pride, entrenched entitlement, and tribal exceptionalism (Fee 'Izzatin wa Shiqāq).",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Saad (The letter Saad) is the 38th surah in the canonical muṣḥaf sequence, comprising 88 ayat. Classified as Makki.",
     "central_topics": [],
@@ -868,9 +868,9 @@
       23,
       24
     ],
-    "personality_title": "Surah Az-Zumar (The Groups)",
-    "personality_summary": "Unique Qur'anic surah of 75 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Az-Zumar (The Throngs of Accountability)",
+    "personality_summary": "Surah Az-Zumar (the 39th chapter of the Qur'an, comprising 75 verses) marks the grand theological culmination of the Meccan corpus on Sincerity in Creed (Al-Ikhlās). While preceding surahs (Ya-Sin, As-Saffat, Sad) established the historical, cosmic, and prophetic evidences of Monotheism (Tawhid), Surah Az-Zumar investigates the internal psychology of the human heart: How does faith translate into unadulterated devotion (Mukhlisan lahud-Deen)? What is the visceral somatic response of a living heart to divine speech?",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Az-Zumar (The Groups) is the 39th surah in the canonical muṣḥaf sequence, comprising 75 ayat. Classified as Makki.",
     "central_topics": [],
@@ -890,9 +890,9 @@
     "juz_numbers": [
       24
     ],
-    "personality_title": "Surah Ghafir (The Forgiver)",
-    "personality_summary": "Unique Qur'anic surah of 85 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Ghafir (The Forgiver / Al-Mu'min)",
+    "personality_summary": "Surah Ghafir (also celebrated historically as Surah Al-Mu'min, Chapter 40 of the Qur'an, comprising 85 verses) serves as the grand portal to the revered Hawameem Family (The Seven Ha-Meem Surahs: Chapters 40–46). Classical Sunni scholarship, including Ibn Mas'ud and Ibn Abbas, identified the Hawameem as the \"crown jewels of the Qur'an\" (Dībāj al-Qur'ān) and the \"gardens of Paradise\" revealed in sequence during the intense persecution following the public declaration of Islam in Makkah.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ghafir (The Forgiver) is the 40th surah in the canonical muṣḥaf sequence, comprising 85 ayat. Classified as Makki.",
     "central_topics": [],
@@ -913,9 +913,9 @@
       24,
       25
     ],
-    "personality_title": "Surah Fussilat (Explained in detail)",
-    "personality_summary": "Unique Qur'anic surah of 54 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Fussilat (Expounded / Ha-Meem As-Sajdah)",
+    "personality_summary": "Surah Fussilat (the 41st chapter of the Qur'anic canon, comprising 54 verses revealed during the middle Meccan crucible) is the second crown jewel in the magnificent Hawameem Family (Surahs 40–46). Known historically also as Ha-Meem As-Sajdah, it acts as an unyielding manifest of divine eloquence (Kitābun fussilat āyātuhū qur'ānan 'arabiyyan), cosmological authority, psychological forensic insight, and ethical chivalry.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Fussilat (Explained in detail) is the 41th surah in the canonical muṣḥaf sequence, comprising 54 ayat. Classified as Makki.",
     "central_topics": [],
@@ -935,9 +935,9 @@
     "juz_numbers": [
       25
     ],
-    "personality_title": "Surah Ash-Shura (Consultation)",
-    "personality_summary": "Unique Qur'anic surah of 53 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Ash-Shura (The Consultation)",
+    "personality_summary": "Surah Ash-Shura (the 42nd chapter of the Qur'an, comprising 53 verses) holds an exceptional position in the Hawameem Family (Surahs 40–46). It is distinguished by its unique two-tier mysterious letter opening (Ḥā-Mīm; 'Ayn-Sīn-Qāf), establishing from its very first breath the unbroken chain of divine inspiration uniting all biblical and prophetic messengers under a single eternal mandate: «Aqīmud-dīna wa lā tatafarraqū fīh» (Establish the Deen and do not fracture into sects).",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ash-Shura (Consultation) is the 42th surah in the canonical muṣḥaf sequence, comprising 53 ayat. Classified as Makki.",
     "central_topics": [],
@@ -957,9 +957,9 @@
     "juz_numbers": [
       25
     ],
-    "personality_title": "Surah Az-Zukhruf (Ornaments of gold)",
-    "personality_summary": "Unique Qur'anic surah of 89 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Az-Zukhruf (The Ornaments of Gold)",
+    "personality_summary": "Surah Az-Zukhruf (the 43rd chapter of the Qur'an, comprising 89 verses) forms the theological heart of the Hawameem Family (Surahs 40–46). Named after the superficial glitter of gold and silver ornamentation (Az-Zukhruf), this surah is an uncompromising deconstruction of materialistic meritocracy, inherited cognitive bias, and spiritual blindness.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Az-Zukhruf (Ornaments of gold) is the 43th surah in the canonical muṣḥaf sequence, comprising 89 ayat. Classified as Makki.",
     "central_topics": [],
@@ -979,9 +979,9 @@
     "juz_numbers": [
       25
     ],
-    "personality_title": "Surah Ad-Dukhaan (The Smoke)",
-    "personality_summary": "Unique Qur'anic surah of 59 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Ad-Dukhan (The Visible Smoke)",
+    "personality_summary": "Surah Ad-Dukhan (the 44th chapter of the Qur'an, comprising 59 verses) is the fifth jewel in the Hawameem Family (Surahs 40–46). Radiating an intense, urgent, and cinematic atmospheric tension, it contrasts the luminous, tranquil blessing of revelation descending in the stillness of the night with the choking, terrifying smoke of divine retribution that suffocates arrogant empires.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ad-Dukhaan (The Smoke) is the 44th surah in the canonical muṣḥaf sequence, comprising 59 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1001,9 +1001,9 @@
     "juz_numbers": [
       25
     ],
-    "personality_title": "Surah Al-Jaathiya (Crouching)",
-    "personality_summary": "Unique Qur'anic surah of 37 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Jathiyah (The Kneeling / The Crouching)",
+    "personality_summary": "Surah Al-Jathiyah (the 45th chapter of the Qur'an, comprising 37 verses) is the dramatic, climactic sixth installment of the Hawameem Family (Surahs 40–46). Named after the terrifying eschatological moment when all human nations, empires, and arrogant philosophers drop to their knees in absolute suspense before the Divine Judge (Kullu ummatin jāthiyah), this surah dismantles philosophical materialism (Ad-Dahriyyah), moral relativism, and the idolatry of personal whim (Hawā).",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Jaathiya (Crouching) is the 45th surah in the canonical muṣḥaf sequence, comprising 37 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1023,9 +1023,9 @@
     "juz_numbers": [
       26
     ],
-    "personality_title": "Surah Al-Ahqaf (The Dunes)",
-    "personality_summary": "Unique Qur'anic surah of 35 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Ahqaf (The Winding Sand Dunes)",
+    "personality_summary": "Surah Al-Ahqaf (the 46th chapter of the Qur'an, comprising 35 verses) marks the grand finale and concluding seal of the revered Hawameem Septet (Surahs 40–46). Set against the rolling desert sand dunes of southern Arabia (Al-Aḥqāf—the historical homeland of the ancient civilization of 'Ad), this surah weaves together the transience of human life, the sanctity of parental sacrifice, the suddenness of catastrophic retribution, and the unseen faith of the jinn.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ahqaf (The Dunes) is the 46th surah in the canonical muṣḥaf sequence, comprising 35 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1045,9 +1045,9 @@
     "juz_numbers": [
       26
     ],
-    "personality_title": "Surah Muhammad (Muhammad)",
-    "personality_summary": "Unique Qur'anic surah of 38 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Muhammad (The Prophet / Al-Qital)",
+    "personality_summary": "Surah Muhammad (the 47th chapter of the Qur'an, comprising 38 verses revealed in Madinah, historically also titled Surah Al-Qitāl) marks the decisive transition from Meccan theological endurance into Madinan communal responsibility, psychological discipline, and decisive courage. Named directly after the Messenger of Allah ﷺ, this surah establishes an uncompromising contrast between those who pursue truth and those who chase transient mirages.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Muhammad (Muhammad) is the 47th surah in the canonical muṣḥaf sequence, comprising 38 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1067,9 +1067,9 @@
     "juz_numbers": [
       26
     ],
-    "personality_title": "Surah Al-Fath (The Victory)",
-    "personality_summary": "Unique Qur'anic surah of 29 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Fath (The Manifest Victory)",
+    "personality_summary": "Surah Al-Fath (the 48th chapter of the Qur'an, comprising 29 verses revealed in Dhu al-Qi'dah 6 AH during the journey back from Hudaybiyyah) is one of the most historically transformative and spiritually profound chapters of the Qur'anic canon. It radically redefines the human definition of victory: declaring that a peaceful diplomatic non-aggression pact—initially perceived by devastated companions as an agonizing humiliation—was in the divine decree the Supreme, Manifest Triumph (Fatḥan Mubīnā).",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Fath (The Victory) is the 48th surah in the canonical muṣḥaf sequence, comprising 29 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1089,9 +1089,9 @@
     "juz_numbers": [
       26
     ],
-    "personality_title": "Surah Al-Hujuraat (The Inner Apartments)",
-    "personality_summary": "Unique Qur'anic surah of 18 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Hujurat (The Private Chambers & The Islamic Social Charter)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Hujuraat (The Inner Apartments) is the 49th surah in the canonical muṣḥaf sequence, comprising 18 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1111,9 +1111,9 @@
     "juz_numbers": [
       26
     ],
-    "personality_title": "Surah Qaaf (The letter Qaaf)",
-    "personality_summary": "Unique Qur'anic surah of 45 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Qaf (The Inescapable Reality & The Awakened Heart)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Qaaf (The letter Qaaf) is the 50th surah in the canonical muṣḥaf sequence, comprising 45 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1134,9 +1134,9 @@
       26,
       27
     ],
-    "personality_title": "Surah Adh-Dhaariyat (The Winnowing Winds)",
-    "personality_summary": "Unique Qur'anic surah of 60 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Adh-Dhariyat (The Scattering Winds & The Purpose of Creation)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Adh-Dhaariyat (The Winnowing Winds) is the 51th surah in the canonical muṣḥaf sequence, comprising 60 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1156,9 +1156,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Surah At-Tur (The Mount)",
-    "personality_summary": "Unique Qur'anic surah of 49 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah At-Tur (The Sacred Mount & The Cosmic Interrogations)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Tur (The Mount) is the 52th surah in the canonical muṣḥaf sequence, comprising 49 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1178,9 +1178,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Surah An-Najm (The Star)",
-    "personality_summary": "Unique Qur'anic surah of 62 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah An-Najm (The Descending Star & The Lote Tree of the Limit)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Najm (The Star) is the 53th surah in the canonical muṣḥaf sequence, comprising 62 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1200,9 +1200,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Al-Qamar — The Rhythmic Thunderclap of Imminent Warning",
-    "personality_summary": "Urgent, staccato, driving, and dramatic. Al-Qamar begins with the cosmic shock of the moon splitting and the Hour drawing near. It moves in rapid, percussive cycles through past civilizations (Nūḥ, 'Ād, Thamūd, Lūṭ, and Fir'awn) that rejected warnings, punctuated by the recurring refrain of divine retribution and ease of the Qur'an for remembrance. Its tone is terrifyingly vivid yet mercifully pedagogical.",
-    "distinctive_voice": "Urgent, warning, historical-retributive, sharply rhythmic.",
+    "personality_title": "Surah Al-Qamar (The Cleaving of the Moon & The Rhythm of Remembrance)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Opens with the splitting of the moon and rejection by transgressors, and concludes with the righteous resting securely in seats of truth in the presence of an Omnipotent Sovereign (54:54-55).",
     "overview": "Surah Al-Qamar (The Moon) is the 54th surah in the canonical muṣḥaf sequence, comprising 55 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1222,9 +1222,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Ar-Raḥmān — The Cosmic Anthem of Divine Benevolence and Accountability",
-    "personality_summary": "Lyrical, dual, expansive, and awe-inspiring. Ar-Raḥmān is unique in the Qur'anic canon as a direct dual address to both humans and jinn (al-Thaqalān), set to a hypnotic 31-fold refrain challenging them on which divine favours they deny. It balances exquisite depictions of cosmic equilibrium, terrestrial bounty, human mortality, eschatological terror, and layered gradations of celestial gardens.",
-    "distinctive_voice": "Lyrical, hypnotic, dual-addressed, bountiful.",
+    "personality_title": "Surah Ar-Rahman (The Universal Symphony of Mercy & The Celestial Balance)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Opens identifying the divine Teacher of the Qur'an by His most merciful Name (Ar-Raḥmān), and closes blessing that very Name: Tabāraka ismu rabbika dhi al-jalāli wa al-ikrām (55:78).",
     "overview": "Surah Ar-Rahmaan (The Beneficent) is the 55th surah in the canonical muṣḥaf sequence, comprising 78 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1244,9 +1244,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Al-Wāqiʿah — The Inescapable Sifting of Human Destiny",
-    "personality_summary": "Sobering, analytical, sensory, and definitive. Al-Wāqiʿah presents the inevitable Event that lowers and exalts, classifying humanity into three eternal cohorts: the Foremost (Al-Sābiqūn), the People of the Right, and the People of the Left. It interrogates human self-sufficiency through basic life supports (semen, agriculture, water, and fire) before swearing by the setting of stars to the transcendent preservation of the Noble Qur'an.",
-    "distinctive_voice": "Eschatological, tripartite, interrogative, decisive.",
+    "personality_title": "Surah Al-Waqi'ah (The Inevitable Cataclysm, The Tripartite Division & The Evidences of First Creation)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Opens with the shaking of the earth and falling of the Event, and concludes commanding glorification of the Supreme Name of the Lord (Fa-sabbiḥ bi-ismi rabbika al-'Aẓīm, 56:96).",
     "overview": "Surah Al-Waaqia (The Inevitable) is the 56th surah in the canonical muṣḥaf sequence, comprising 96 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1266,9 +1266,9 @@
     "juz_numbers": [
       27
     ],
-    "personality_title": "Surah Al-Hadid (The Iron)",
-    "personality_summary": "Unique Qur'anic surah of 29 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Hadid (The Primacy of Divine Names, The Radiant Light, The Wall of Hypocrisy & The Sending Down of Iron)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Hadid (The Iron) is the 57th surah in the canonical muṣḥaf sequence, comprising 29 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1288,9 +1288,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah Al-Mujaadila (The Pleading Woman)",
-    "personality_summary": "Unique Qur'anic surah of 22 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Mujadilah (The Pleading Woman, The Omnipresent Whisper, Assembly Etiquette & The Inviolable Party of Allah)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Mujaadila (The Pleading Woman) is the 58th surah in the canonical muṣḥaf sequence, comprising 22 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1310,9 +1310,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah Al-Hashr (The Exile)",
-    "personality_summary": "Unique Qur'anic surah of 24 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Hashr (The Siege of Banu an-Nadir, The Economic Charter of Fay', The Altruism of Ansar, The Parable of the Crumbled Mountain & The Litany of Divine Names)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Constitutional, legislative, covenantal, community-building.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Hashr (The Exile) is the 59th surah in the canonical muṣḥaf sequence, comprising 24 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1332,9 +1332,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah Al-Mumtahana (She that is to be examined)",
-    "personality_summary": "Unique Qur'anic surah of 13 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Mumtahanah (The Interdiction of Covert Alliances, The Abrahamic Precedent, The Charter of International Justice, The Examination of Immigrant Women & The Women's Covenant)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Mumtahana (She that is to be examined) is the 60th surah in the canonical muṣḥaf sequence, comprising 13 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1354,9 +1354,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah As-Saff (The Ranks)",
-    "personality_summary": "Unique Qur'anic surah of 14 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah As-Saff (The Solid Concrete Ranks, The Incongruence of Speech and Deed, The Prophecy of Ahmad & The Incomparable Trade)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah As-Saff (The Ranks) is the 61th surah in the canonical muṣḥaf sequence, comprising 14 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1376,9 +1376,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah Al-Jumu'a (Friday)",
-    "personality_summary": "Unique Qur'anic surah of 11 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Jumu'ah (The Friday Assembly, The Tripartite Prophetic Mission, The Parable of the Book-Laden Donkey & Sanctifying the Marketplace)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Jumu'a (Friday) is the 62th surah in the canonical muṣḥaf sequence, comprising 11 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1398,9 +1398,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah Al-Munaafiqoon (The Hypocrites)",
-    "personality_summary": "Unique Qur'anic surah of 11 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Munafiqun (The Anatomy of Hypocrisy, The False Oath, Propped Timber & The Agony of the Deathbed Repentance)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Munaafiqoon (The Hypocrites) is the 63th surah in the canonical muṣḥaf sequence, comprising 11 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1420,9 +1420,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah At-Taghaabun (Mutual Disillusion)",
-    "personality_summary": "Unique Qur'anic surah of 18 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah At-Taghabun (The Mutual Disillusion, The Guided Stricken Heart, Domestic Crucibles & The Beautiful Loan)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Cosmic, urgent, warning, foundational monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Taghaabun (Mutual Disillusion) is the 64th surah in the canonical muṣḥaf sequence, comprising 18 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1442,9 +1442,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah At-Talaaq (Divorce)",
-    "personality_summary": "Unique Qur'anic surah of 12 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah At-Talaq (The Sacred Geometry of Marital Dissolution, Deliverance Through Taqwa, Ease After Hardship & The Seven Heavens)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Talaaq (Divorce) is the 65th surah in the canonical muṣḥaf sequence, comprising 12 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1464,9 +1464,9 @@
     "juz_numbers": [
       28
     ],
-    "personality_title": "Surah At-Tahrim (The Prohibition)",
-    "personality_summary": "Unique Qur'anic surah of 12 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah At-Tahrim (The Sanctity of Domestic Confidence, The Four Female Archetypes, Tawbah Nasoohah & Household Deliverance)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Tahrim (The Prohibition) is the 66th surah in the canonical muṣḥaf sequence, comprising 12 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1486,9 +1486,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Mulk (The Sovereignty)",
-    "personality_summary": "Unique Qur'anic surah of 30 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Mulk (Cosmic Sovereignty, The Purpose of Mortality, Flawless Architecture & The Sinking Spring)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Mulk (The Sovereignty) is the 67th surah in the canonical muṣḥaf sequence, comprising 30 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1508,9 +1508,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Qalam (The Pen)",
-    "personality_summary": "Unique Qur'anic surah of 52 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Qalam (The Primordial Pen, Infallible Character, The Blighted Orchard & The Unveiled Shin)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Qalam (The Pen) is the 68th surah in the canonical muṣḥaf sequence, comprising 52 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1530,9 +1530,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Haaqqa (The Reality)",
-    "personality_summary": "Unique Qur'anic surah of 52 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Haqqah (The Indubitable Reality, The Eight Bearers of the Throne & The Severing of the Aorta)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Haaqqa (The Reality) is the 69th surah in the canonical muṣḥaf sequence, comprising 52 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1552,9 +1552,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Ma'aarij (The Ascending Stairways)",
-    "personality_summary": "Unique Qur'anic surah of 44 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Ma'arij (The Ascending Ways, The Ransomed Kin, The Anxious Psyche & The Eight Marks of the Faithful)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ma'aarij (The Ascending Stairways) is the 70th surah in the canonical muṣḥaf sequence, comprising 44 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1574,9 +1574,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Nooh (Noah)",
-    "personality_summary": "Unique Qur'anic surah of 28 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Nuh (The Millennium Dawah, The Charter of Istighfar, The Five Idols & The Extinction of the Defiant)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Nooh (Noah) is the 71th surah in the canonical muṣḥaf sequence, comprising 28 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1596,9 +1596,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Jinn (The Jinn)",
-    "personality_summary": "Unique Qur'anic surah of 28 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Jinn (The Unseen Delegation, Cosmic Airspace Barricades, Pure Sanctuaries & Divine Mathematical Omniscience)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Jinn (The Jinn) is the 72th surah in the canonical muṣḥaf sequence, comprising 28 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1618,9 +1618,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Muzzammil (The Enshrouded One)",
-    "personality_summary": "Unique Qur'anic surah of 20 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Muzzammil (The Nocturnal Crucible, The Weighty Word, Tabattul & The Divine Mitigation)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Muzzammil (The Enshrouded One) is the 73th surah in the canonical muṣḥaf sequence, comprising 20 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1640,9 +1640,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Muddaththir (The Cloaked One)",
-    "personality_summary": "Unique Qur'anic surah of 56 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Muddaththir (The Cloaked Herald, The Seven Mandates, Saqar & The Stampeding Zebras)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Muddaththir (The Cloaked One) is the 74th surah in the canonical muṣḥaf sequence, comprising 56 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1662,9 +1662,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Qiyaama (The Resurrection)",
-    "personality_summary": "Unique Qur'anic surah of 40 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Surah Al-Qiyamah (The Cosmic Resurrection, The Self-Accusing Soul, The Beatific Vision & The Seminal Clot)",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Qiyaama (The Resurrection) is the 75th surah in the canonical muṣḥaf sequence, comprising 40 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1684,9 +1684,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Insaan (Man)",
-    "personality_summary": "Unique Qur'anic surah of 31 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Academic Research Monograph: Surah Al-Insan",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Insaan (Man) is the 76th surah in the canonical muṣḥaf sequence, comprising 31 ayat. Classified as Madani.",
     "central_topics": [],
@@ -1706,9 +1706,9 @@
     "juz_numbers": [
       29
     ],
-    "personality_title": "Surah Al-Mursalaat (The Emissaries)",
-    "personality_summary": "Unique Qur'anic surah of 50 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Academic Research Monograph: Surah Al-Mursalat",
+    "personality_summary": "Autonomous Qur'anic surah possessing a distinctive theological axis, spiritual atmosphere, and structural cadence.",
+    "distinctive_voice": "Authoritative, reflective, sublime.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Mursalaat (The Emissaries) is the 77th surah in the canonical muṣḥaf sequence, comprising 50 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1728,9 +1728,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah An-Naba (The Announcement)",
-    "personality_summary": "Unique Qur'anic surah of 40 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "An-Naba — The Tremendous Announcement & The Horizon of Reckoning",
+    "personality_summary": "Interrogative, majestic, awe-inspiring, cosmic. Opens with the disbelievers' contentious questioning regarding the Great News of resurrection, answers through the vast panoramic signposts of creation (earth as a bed, mountains as pegs, sleep as rest, sun as a blazing lamp), and confronts mankind with the Day of Sorting where transgressors meet Hell and the righteous enter attainment.",
+    "distinctive_voice": "Cosmic, rhetorical, confronting, panoramic.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Naba (The Announcement) is the 78th surah in the canonical muṣḥaf sequence, comprising 40 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1750,9 +1750,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah An-Naazi'aat (Those who drag forth)",
-    "personality_summary": "Unique Qur'anic surah of 46 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "An-Nazi'at — The Violent Strippers & The Climax of Overwhelming Calamity",
+    "personality_summary": "Staccato, oath-bound, dramatic, historical-eschatological. Begins with celestial oaths by the soul-extracting and smoothly gliding angels, recounts Moses's confrontation with Pharaoh's pride ('I am your highest lord'), and climaxes in the Overwhelming Calamity (At-Tammah al-Kubra) when man confronts what he strove for.",
+    "distinctive_voice": "Urgent, oath-driven, dramatic, admonishing.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Naazi'aat (Those who drag forth) is the 79th surah in the canonical muṣḥaf sequence, comprising 46 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1772,9 +1772,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Abasa (He frowned)",
-    "personality_summary": "Unique Qur'anic surah of 42 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "'Abasa — The Divine Rebuke & The Moral Priority of the Seeker",
+    "personality_summary": "Moral, pastoral, introspective, humbling. Opens with a historic divine rebuke of the Prophet prioritizing powerful pagan elites over the blind, sincere seeker Ibn Umm Maktum, establishing that spiritual reception outweighs social pedigree. Transitions to ingratitude for human genesis and concludes with the Deafening Blast where man flees from his brother, mother, and father.",
+    "distinctive_voice": "Moral-corrective, introspective, searing, eschatological.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Abasa (He frowned) is the 80th surah in the canonical muṣḥaf sequence, comprising 42 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1794,9 +1794,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah At-Takwir (The Overthrowing)",
-    "personality_summary": "Unique Qur'anic surah of 29 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "At-Takwir — The Solar Shrouding & The Unveiling of the Cosmic Stage",
+    "personality_summary": "Apocalyptic, vivid, relentless, illuminating. A continuous cascade of twelve conditional 'when' clauses portraying the cosmic dissolution: sun folded up, stars falling, mountains swept away, pregnant camels neglected, and the buried female infant interrogated for what crime she was slain. Closes affirming the dignity of the angelic and prophetic messengers.",
+    "distinctive_voice": "Apocalyptic, percussive, solemn, visual.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Takwir (The Overthrowing) is the 81th surah in the canonical muṣḥaf sequence, comprising 29 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1816,9 +1816,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Infitaar (The Cleaving)",
-    "personality_summary": "Unique Qur'anic surah of 19 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Infitar — The Cleaving Sky & The Reproach of the Deluded Soul",
+    "personality_summary": "Reflective, tenderly rebuking, judicial, sober. Portrays the shattered sky and overturned graves, posing the piercing psychological question: 'O man, what has deceived you concerning your Generous Lord?' Details the noble recording scribes (Kiramun Katiboon) who log every action for the Day of Judgment where no soul possesses power for another.",
+    "distinctive_voice": "Affectionately rebuking, investigative, juridical.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Infitaar (The Cleaving) is the 82th surah in the canonical muṣḥaf sequence, comprising 19 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1838,9 +1838,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Mutaffifin (Defrauding)",
-    "personality_summary": "Unique Qur'anic surah of 36 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Mutaffifin — Woe to the Defrauders & The Dichotomy of Sijjin and 'Illiyyun",
+    "personality_summary": "Socio-economic, moral, contrasting, vindicating. Denounces economic cheating and fraudulent measures in trade, linking micro-level commercial dishonesty to loss of faith in the Day of Great Standing. Systematically contrasts the dark register of the wicked in Sijjin with the aromatic, sealed nectar awaiting the righteous in 'Illiyyun.",
+    "distinctive_voice": "Economic-ethical, severe, contrastive, triumphant.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Mutaffifin (Defrauding) is the 83th surah in the canonical muṣḥaf sequence, comprising 36 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1860,9 +1860,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Inshiqaaq (The Splitting Open)",
-    "personality_summary": "Unique Qur'anic surah of 25 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Inshiqaq — The Submissive Cosmos & The Inevitable Meeting with the Lord",
+    "personality_summary": "Cosmic, dutiful, existential, inevitable. Portrays the heavens splitting open and listening in obedient surrender to their Lord, reminding mankind: 'You are laboring toward your Lord with exertion and you will meet Him.' Delineates the joyful reception of the record in the right hand versus the despair of receiving it behind the back.",
+    "distinctive_voice": "Obedient, existential, transitioning from struggle to reckoning.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Inshiqaaq (The Splitting Open) is the 84th surah in the canonical muṣḥaf sequence, comprising 25 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1882,9 +1882,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Burooj (The Constellations)",
-    "personality_summary": "Unique Qur'anic surah of 22 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Buruj — The Starry Mansions & The Unyielding Witness of Faith",
+    "personality_summary": "Fortified, heroic, consolation through martyrdom, majestic. Oaths by the sky holding constellations and the Promised Day introduce the heroic martyrdom of the Believers of the Ditch (Ashab al-Ukhdood), burned alive for their faith. Assures the persecuted that the grip of their Lord is severe and that the Qur'an is inscribed in the Preserved Tablet (Lawh Mahfuz).",
+    "distinctive_voice": "Heroic, consoling, unshakeable, vindicating.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Burooj (The Constellations) is the 85th surah in the canonical muṣḥaf sequence, comprising 22 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1904,9 +1904,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah At-Taariq (The Morning Star)",
-    "personality_summary": "Unique Qur'anic surah of 17 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "At-Tariq — The Piercing Night-Star & The Testing of Secret Motives",
+    "personality_summary": "Nocturnal, biological, analytical, triumphant. Swears by the nocturnal star of piercing brightness that over every soul is a watchful keeper. Prompts man to observe his origin from an ejaculated fluid from between the spine and ribs, establishing the certainty of resurrection on the Day when all hidden secrets are laid bare.",
+    "distinctive_voice": "Piercing, analytical, biological-eschatological.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Taariq (The Morning Star) is the 86th surah in the canonical muṣḥaf sequence, comprising 17 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1926,9 +1926,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-A'laa (The Most High)",
-    "personality_summary": "Unique Qur'anic surah of 19 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-A'la — The Exaltation of the Most High & The Primordial Balance",
+    "personality_summary": "Liturgical, reassuring, philosophical, eternal. Commands the exaltation of the Name of the Lord Most High who created and proportioned, comforted the Prophet that he will recite and never forget, and exposed the root delusion of humanity: 'Nay, you prefer the worldly life, while the Hereafter is better and more enduring.'",
+    "distinctive_voice": "Liturgical, serene, comforting, transcendent.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-A'laa (The Most High) is the 87th surah in the canonical muṣḥaf sequence, comprising 19 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1948,9 +1948,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Ghaashiya (The Overwhelming)",
-    "personality_summary": "Unique Qur'anic surah of 26 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Ghashiyah — The Overwhelming Enclosure & The Fourfold Call to Nature",
+    "personality_summary": "Sensory, binary, observational, pastoral. Contrasts downcast, scorched faces drinking from boiling springs against joyful, serene souls reclining in gardens where no idle speech is heard. Calls humanity to observe the creation of camels, the elevation of the sky, the anchoring of mountains, and the spreading of the earth, concluding that the Prophet is an admonisher, not a controller.",
+    "distinctive_voice": "Sensory, bifurcated, observational, pastoral.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ghaashiya (The Overwhelming) is the 88th surah in the canonical muṣḥaf sequence, comprising 26 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1970,9 +1970,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Fajr (The Dawn)",
-    "personality_summary": "Unique Qur'anic surah of 30 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Fajr — The Breaking Dawn & The Tranquil Soul's Return",
+    "personality_summary": "Historical, dramatic, socioeconomic, spiritually climactic. Oaths by dawn and ten nights recall the ruin of ancient monolithic civilizations ('Ad, Thamud, Pharaoh), exposes the shallow theology of measuring divine love by wealth, and culminates in the most celebrated spiritual welcome in scripture: 'O reassured soul, return to your Lord, well-pleased and pleasing to Him.'",
+    "distinctive_voice": "Historical-warning, socioeconomic critique, transcendent peace.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Fajr (The Dawn) is the 89th surah in the canonical muṣḥaf sequence, comprising 30 ayat. Classified as Makki.",
     "central_topics": [],
@@ -1992,9 +1992,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Balad (The City)",
-    "personality_summary": "Unique Qur'anic surah of 20 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Balad — The Sacred City & The Steep Ascent of Altruistic Sacrifice",
+    "personality_summary": "Topographical, sacrificial, communal, heroic. Swears by the sacred precinct of Mecca and the human condition created in struggle. Interrogates man's boastful self-sufficiency and challenges him to scale the steep uphill path (Al-'Aqabah): not through ritual ostentation, but through freeing the enslaved and feeding the famished orphan.",
+    "distinctive_voice": "Heroic, demanding, altruistic, ethical.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Balad (The City) is the 90th surah in the canonical muṣḥaf sequence, comprising 20 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2014,9 +2014,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Ash-Shams (The Sun)",
-    "personality_summary": "Unique Qur'anic surah of 15 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Ash-Shams — The Elevenfold Cosmic Oath & The Purification of the Soul",
+    "personality_summary": "Cosmological, rhythmic, psychological, historic-exemplary. Features the longest consecutive oath sequence in the Qur'an (sun, morning radiance, moon, day, night, heaven, earth, and the balanced human soul) leading to a singular psychological verdict: 'He has succeeded who purifies it, and he has failed who corrupts it,' punctuated by the ruin of Thamud.",
+    "distinctive_voice": "Lyrical, cosmic, binary, psychologically definitive.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ash-Shams (The Sun) is the 91th surah in the canonical muṣḥaf sequence, comprising 15 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2036,9 +2036,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Lail (The Night)",
-    "personality_summary": "Unique Qur'anic surah of 21 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Layl — The Polarities of Night and Day & The Divergence of Human Striving",
+    "personality_summary": "Bipolar, ethical, consequential, reassuring. Contrasts the covering night and radiant day with the divergence of human endeavor: the generous soul who gives, fears God, and believes in the ultimate good is eased toward absolute ease, while the miser who hoarding self-sufficiency is eased toward devastation.",
+    "distinctive_voice": "Ethical, comparative, balanced, promise-oriented.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Lail (The Night) is the 92th surah in the canonical muṣḥaf sequence, comprising 21 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2058,9 +2058,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Ad-Dhuhaa (The Morning Hours)",
-    "personality_summary": "Unique Qur'anic surah of 11 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Ad-Duha — The Morning Splendor & Divine Consolation in Apparent Silence",
+    "personality_summary": "Tender, intimate, maternal, intensely consoling. Addressed directly to the Prophet during a painful cessation of revelation: 'Your Lord has neither forsaken you nor hated you.' Reminds him of his orphanhood, wandering, and poverty, commanding tenderness toward orphans and petitioners, and proclamation of divine grace.",
+    "distinctive_voice": "Tender, restorative, intimate, pastoral.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ad-Dhuhaa (The Morning Hours) is the 93th surah in the canonical muṣḥaf sequence, comprising 11 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2080,9 +2080,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Ash-Sharh (The Consolation)",
-    "personality_summary": "Unique Qur'anic surah of 8 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Ash-Sharh — The Relieved Chest & The Inseparability of Ease from Trial",
+    "personality_summary": "Expansive, weightless, uplifting, mobilizing. A direct companion to Ad-Duha, celebrating the expansion of the prophetic heart, the removal of the crushing burden, and the exaltation of his remembrance. Enunciates the cosmic spiritual law that hardship does not merely precede ease, but accompanies it, urging relentless devotion upon completion of tasks.",
+    "distinctive_voice": "Exhilarating, weightless, motivating, victorious.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Ash-Sharh (The Consolation) is the 94th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2102,9 +2102,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah At-Tin (The Fig)",
-    "personality_summary": "Unique Qur'anic surah of 8 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "At-Tin — The Sacred Sanctuaries & The Nobility of the Human Mould",
+    "personality_summary": "Geographical-spiritual, anthropological, judicial. Oaths by the Fig, Olive, Mount Sinai, and the Secure City of Mecca frame the ontological creation of humanity in the best of statures (Fi Ahsani Taqweem), followed by regression to the lowest of the low except for those anchored in faith and righteous works.",
+    "distinctive_voice": "Sanctified, anthropological, moral, dignified.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Tin (The Fig) is the 95th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2124,9 +2124,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Alaq (The Clot)",
-    "personality_summary": "Unique Qur'anic surah of 19 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-'Alaq — The Dawn of Epistemology & The Prostration of Proximity",
+    "personality_summary": "Primordial, epistemological, revolutionary, devotional. The very first revelation of the Qur'an: 'Read in the name of your Lord who created.' Establishes knowledge and the pen as divine gifts, diagnoses human tyranny as rooted in self-sufficiency, and closes defying the persecutor: 'Nay, do not obey him. Prostrate and draw near!'",
+    "distinctive_voice": "Primordial, authoritative, uncompromising, devotional.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Alaq (The Clot) is the 96th surah in the canonical muṣḥaf sequence, comprising 19 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2146,9 +2146,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Qadr (The Power, Fate)",
-    "personality_summary": "Unique Qur'anic surah of 5 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Qadr — The Night of Sovereign Decree & The Descent of Serenity",
+    "personality_summary": "Mystical, nocturnal, peaceful, luminous. Celebrates the descent of the Qur'an on the Night of Destiny (Laylat al-Qadr), declaring it greater in value than a thousand months. Portrays the earth saturated by the descent of angels and the Spirit (Gabriel), cloaking existence in divine peace until the emergence of dawn.",
+    "distinctive_voice": "Luminous, sacred, peaceful, nocturnal.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Qadr (The Power, Fate) is the 97th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2168,9 +2168,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Bayyina (The Evidence)",
-    "personality_summary": "Unique Qur'anic surah of 8 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Bayyinah — The Manifest Proof & The Sincerity of True Religion",
+    "personality_summary": "Polemical, doctrinal, ecclesiastical, definitive. Explains why earlier communities could not be extracted from error without a Clear Proof: an emissary reciting purified scrolls. Delineates the pristine core of all revelation (worshiping Allah in sincerity, establishing prayer, giving charity) and contrasts the worst of creation with the best of creation.",
+    "distinctive_voice": "Doctrinal, defining, clarifying, polarizing.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Bayyina (The Evidence) is the 98th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Madani.",
     "central_topics": [],
@@ -2190,9 +2190,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Az-Zalzala (The Earthquake)",
-    "personality_summary": "Unique Qur'anic surah of 8 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Az-Zalzalah — The Apocalyptic Quake & The Microscopic Scales of Justice",
+    "personality_summary": "Seismic, judicial, revelatory, meticulous. Portrays the earth convulsing in its final earthquake, casting forth its hidden burials and speaking its recorded testimonies. Concludes with the ultimate standard of divine justice: whoever performs an atom's weight of good or evil shall see it.",
+    "distinctive_voice": "Seismic, revealing, meticulous, sobering.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Az-Zalzala (The Earthquake) is the 99th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Madani.",
     "central_topics": [],
@@ -2212,9 +2212,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Aadiyaat (The Chargers)",
-    "personality_summary": "Unique Qur'anic surah of 11 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-'Adiyat — The Panting Cavalry & The Unmasking of Ingratitude",
+    "personality_summary": "Dynamic, kinetic, visceral, psychological. Oaths by snorting war-chargers striking sparks of flint, raiding at dawn, and raising clouds of dust expose the dark underside of human nature: intense ingratitude to the Lord and an all-consuming love for worldly wealth, warning of the day graves are overturned and breast-secrets extracted.",
+    "distinctive_voice": "Kinetic, galloping, piercing, unmasking.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Aadiyaat (The Chargers) is the 100th surah in the canonical muṣḥaf sequence, comprising 11 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2234,9 +2234,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Qaari'a (The Calamity)",
-    "personality_summary": "Unique Qur'anic surah of 11 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Qari'ah — The Striking Calamity & The Abyss of Hawiyah",
+    "personality_summary": "Sudden, crushing, sensory, eschatological. The sudden shock of the Calamity that scatters humanity like dispersed moths and renders mountains like carded wool. Sets the balance of eternal destiny: heavy scales leading to a pleasant life versus light scales plunging into the mothering abyss of the Blazing Fire (Hawiyah).",
+    "distinctive_voice": "Crushing, urgent, pictorial, decisive.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Qaari'a (The Calamity) is the 101th surah in the canonical muṣḥaf sequence, comprising 11 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2256,9 +2256,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah At-Takaathur (Competition)",
-    "personality_summary": "Unique Qur'anic surah of 8 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "At-Takathur — The Mania of Accumulation & The Interrogation of Delights",
+    "personality_summary": "Challenging, diagnostic, grave, forensic. Diagnoses the universal addiction to rivalry in worldly accumulation that blinds humanity until they literally visit the graves. Asserts the reality of the intermediate realm (Barzakh) and concludes with the inescapable final audit: 'Then you will surely be asked that Day about every pleasure.'",
+    "distinctive_voice": "Diagnostic, sobering, grave, interrogative.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah At-Takaathur (Competition) is the 102th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2278,9 +2278,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Asr (The Declining Day, Epoch)",
-    "personality_summary": "Unique Qur'anic surah of 3 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-'Asr — The Witness of Fleeting Time & The Four Pillars of Salvation",
+    "personality_summary": "Compressed, universal, axiomatic, foundational. Celebrated by Imam al-Shafi'i as sufficient guidance had nothing else been revealed. Swears by the relentless march of declining Time that all humanity is in total catastrophic loss, except those who synthesize four indivisible pillars: faith, righteous deeds, mutual counseling in truth, and mutual counseling in patience.",
+    "distinctive_voice": "Axiomatic, urgent, universal, salvific.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Asr (The Declining Day, Epoch) is the 103th surah in the canonical muṣḥaf sequence, comprising 3 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2300,9 +2300,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Humaza (The Traducer)",
-    "personality_summary": "Unique Qur'anic surah of 9 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Humazah — The Slandering Hoarder & The Fire Vault of Hutamah",
+    "personality_summary": "Psychological, retributive, anatomical, terrifying. Denounces the cynical backbiter who amasses wealth and counts it, delusional in thinking his fortune makes him immortal. Delivers the terrifying retribution of Al-Hutamah: the crushing divine fire that penetrates and closes over the very core of the heart in outstretched pillars.",
+    "distinctive_voice": "Severely warning, psychological, retributive.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Humaza (The Traducer) is the 104th surah in the canonical muṣḥaf sequence, comprising 9 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2322,9 +2322,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Fil (The Elephant)",
-    "personality_summary": "Unique Qur'anic surah of 5 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Fil — The Crushed Armies of the Elephant & Divine Sanctuary Defense",
+    "personality_summary": "Historical, narrative-rhetorical, protective, definitive. Recalls the miraculous defense of the Ka'bah against Abraha's invading army of war-elephants in the year of the Prophet's birth, showing how Allah reduced mighty imperial arrogance to chewed straw through flocks of small birds casting stones of baked clay.",
+    "distinctive_voice": "Triumphant, narrative, sheltering, historical.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Fil (The Elephant) is the 105th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2344,9 +2344,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Quraish (Quraysh)",
-    "personality_summary": "Unique Qur'anic surah of 4 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Quraysh — The Sacred Enclave & The Covenant of Gratitude",
+    "personality_summary": "Civic, economic, covenantal, grateful. An immediate thematic twin to Al-Fil, reminding the tribe of Quraysh of their divine gift of secure winter and summer trading voyages, summoning them to worship the Lord of this Sacred Sanctuary who fed them against hunger and safeguarded them from fear.",
+    "distinctive_voice": "Gracious, covenantal, pastoral, reassuring.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Quraish (Quraysh) is the 106th surah in the canonical muṣḥaf sequence, comprising 4 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2366,9 +2366,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Maa'un (Almsgiving)",
-    "personality_summary": "Unique Qur'anic surah of 7 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Ma'un — The Hypocrisy of Ritualism & The Denial of Small Mercies",
+    "personality_summary": "Socially diagnostic, unmasking, severe, prophetic. Unmasks the fatal spiritual hypocrisy of those who perform showy prayers (Mura'oon) while repelling the vulnerable orphan, refusing to feed the impoverished, and withholding the simplest domestic kindnesses (Al-Ma'un).",
+    "distinctive_voice": "Diagnostic, ethical, exposes hypocrisy, social.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Maa'un (Almsgiving) is the 107th surah in the canonical muṣḥaf sequence, comprising 7 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2388,9 +2388,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Kawthar (Abundance)",
-    "personality_summary": "Unique Qur'anic surah of 3 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Kawthar — The Abundant Stream & The Obliteration of the Detractor",
+    "personality_summary": "Bountiful, consoling, defiant, victorious. The shortest surah in the Qur'an, yet overflowing with boundless generosity: gifting the Prophet the celestial pool of Al-Kawthar in response to pagan taunts regarding the death of his sons. Commands prayer and sacrifice, concluding that his hateful mocker is the one cut off from posterity.",
+    "distinctive_voice": "Overflowing, consoling, protective, victorious.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Kawthar (Abundance) is the 108th surah in the canonical muṣḥaf sequence, comprising 3 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2410,9 +2410,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Kaafiroon (The Disbelievers)",
-    "personality_summary": "Unique Qur'anic surah of 6 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Kafirun — The Manifesto of Disavowal & The Inviolability of Creed",
+    "personality_summary": "Defiant, uncompromising, theological boundary-setting. A categorical public repudiation of religious syncretism and theological compromise in response to pagan offers of rotating worship: 'I do not worship what you worship, nor do you worship what I worship... To you your religion, and to me my religion.'",
+    "distinctive_voice": "Uncompromising, definitive, polemical, liberating.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Kaafiroon (The Disbelievers) is the 109th surah in the canonical muṣḥaf sequence, comprising 6 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2432,9 +2432,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah An-Nasr (Divine Support)",
-    "personality_summary": "Unique Qur'anic surah of 3 ayat revealed in Madina, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "An-Nasr — The Culmination of Victory & The Liturgy of Forgiveness",
+    "personality_summary": "Triumphant, eschatological, prophetic farewell, humble. Signals the historic victory and mass entry of humanity into the fold of Islam, yet instructs the Prophet not to celebrate with imperial hubris, but to drown victory in the glorification of Allah and the seeking of divine forgiveness, subtly foreshadowing his imminent departure.",
+    "distinctive_voice": "Victorious, humble, liturgical, poignant.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Nasr (Divine Support) is the 110th surah in the canonical muṣḥaf sequence, comprising 3 ayat. Classified as Madani.",
     "central_topics": [],
@@ -2454,9 +2454,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Masad (The Palm Fibre)",
-    "personality_summary": "Unique Qur'anic surah of 5 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Masad — The Ruin of the Persecutor & The Palm-Fiber Noose",
+    "personality_summary": "Judicial, punitive, historical-prophetic, uncompromising. The definitive condemnation of the Prophet's vicious uncle Abu Lahab and his wife Umm Jamil, declaring the absolute futility of their wealth and status against divine justice, and depicting her eternal carrying of firewood with a twisted rope of palm-fiber around her neck.",
+    "distinctive_voice": "Punitive, prophetic judgment, uncompromising.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Masad (The Palm Fibre) is the 111th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2476,9 +2476,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Ikhlaas (Sincerity)",
-    "personality_summary": "Unique Qur'anic surah of 4 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Ikhlas — The Diamond of Monotheism & The Absolute Refuge",
+    "personality_summary": "Absolute, foundational, ontological, equal to one-third of the Qur'an. The purest distilled definition of monotheism in scripture: Allah is One (Ahad), Allah is As-Samad (the Eternal Refuge needed by all, needing none), He neither begets nor is He begotten, and none can ever be co-equal to Him.",
+    "distinctive_voice": "Sublime, absolute, ontological, uncompromising monotheism.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Ikhlaas (Sincerity) is the 112th surah in the canonical muṣḥaf sequence, comprising 4 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2498,9 +2498,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah Al-Falaq (The Dawn)",
-    "personality_summary": "Unique Qur'anic surah of 5 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "Al-Falaq — The Cleaving Dawn & Sanctuary from External Malice",
+    "personality_summary": "Protective, apotropaic, luminous, shielding. Seeking refuge with the Lord of the Daybreak from the dangers of the external physical and metaphysical world: the evil of created things, the enshrouding darkness of the night, the sorcerers blowing on knots, and the destructive poison of the envious when he envies.",
+    "distinctive_voice": "Protective, luminous, vigilant, sanctuary-seeking.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah Al-Falaq (The Dawn) is the 113th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
     "central_topics": [],
@@ -2520,9 +2520,9 @@
     "juz_numbers": [
       30
     ],
-    "personality_title": "Surah An-Naas (Mankind)",
-    "personality_summary": "Unique Qur'anic surah of 6 ayat revealed in Mecca, possessing its distinct thematic core, atmosphere, and rhetorical progression.",
-    "distinctive_voice": "Qur'anic discourse",
+    "personality_title": "An-Nas — The King of Humanity & The Fortress Against Whispered Doubts",
+    "personality_summary": "Sovereign, intimate, psychological, the grand seal of the Qur'an. Seeking sanctuary with the Lord, King, and God of mankind from the internal, stealthy, retreating whisperer (Al-Waswas Al-Khannas) who casts doubts into the human breast from both jinn and men. The final word of the Qur'an brings the seeker full circle from the cosmos back into the human heart.",
+    "distinctive_voice": "Intimate, protective, sovereign, ultimate sanctuary.",
     "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
     "overview": "Surah An-Naas (Mankind) is the 114th surah in the canonical muṣḥaf sequence, comprising 6 ayat. Classified as Makki.",
     "central_topics": [],
