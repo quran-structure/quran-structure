@@ -1,0 +1,97 @@
+[
+  {
+    "id": "rel_003_004_uhud_orphans",
+    "from_type": "ayah",
+    "from_id": "ayah:3:200",
+    "to_type": "ayah",
+    "to_id": "ayah:4:1-2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Ali 'Imran concludes commanding patience, steadfastness, and Taqwa (3:200). Surah An-Nisa opens with the command to Taqwa of the Lord who created humanity from a single soul (4:1), immediately enacting civil legislation to protect the widows and orphans left behind following the seventy martyrs of the Battle of Uhud detailed in Ali 'Imran.",
+    "evidence_ids": [
+      "ev_003_004_biqai_uhud",
+      "ev_003_004_gharnati_taqwa"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "While An-Nisa addresses universal family and inheritance law, classical scholars emphasize its immediate historical placement following the catastrophic casualties of Uhud.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_004_005_covenant_fulfillment",
+    "from_type": "ayah",
+    "from_id": "ayah:4:176",
+    "to_type": "ayah",
+    "to_id": "ayah:5:1",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah An-Nisa concludes with the detailed legal statutes of secondary inheritance (Kalalah, 4:176), stating that Allah clarifies His laws lest humanity errs. Surah Al-Ma'idah opens immediately with the supreme overarching imperative: 'O you who believe, fulfill all contracts and covenants!' (5:1).",
+    "evidence_ids": [
+      "ev_004_005_suyuti_uqud",
+      "ev_004_005_biqai_perfection"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Contracts in 5:1 encompass theological, social, dietary, and diplomatic pacts, acting as the master envelope for all preceding Madinan legislation.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_005_006_dominion_creation",
+    "from_type": "ayah",
+    "from_id": "ayah:5:120",
+    "to_type": "ayah",
+    "to_id": "ayah:6:1",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-Ma'idah seals the legislative Tiwal by declaring: 'To Allah belongs the dominion of the heavens and earth and whatever is within them' (5:120). Surah Al-An'am opens immediately by praising Him for having created those very heavens and earth and establishing darkness and light (6:1).",
+    "evidence_ids": [
+      "ev_005_006_gharnati_mulk_khalq",
+      "ev_005_006_suyuti_cosmic_shift"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Universally recognized by classical mufassiroon as a premier transition marking the handoff from Madinan legislation to Makkan cosmic theology.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_006_007_swift_penalty",
+    "from_type": "ayah",
+    "from_id": "ayah:6:165",
+    "to_type": "ayah",
+    "to_id": "ayah:7:4",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-An'am concludes declaring that Allah appointed mankind as successors and warning that 'Your Lord is swift in penalty' (6:165). Surah Al-A'raf immediately opens demonstrating that swift penalty in historical reality: 'And how many a city have We destroyed, and Our punishment came upon them by night...' (7:4).",
+    "evidence_ids": [
+      "ev_006_007_biqai_penalty_history",
+      "ev_006_007_gharnati_rational_historical"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "Al-A'raf also pairs with Al-An'am as the historical and narrative demonstration of the abstract cosmic monotheism presented in Al-An'am.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_007_008_trembling_hearts",
+    "from_type": "ayah",
+    "from_id": "ayah:7:205",
+    "to_type": "ayah",
+    "to_id": "ayah:8:2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-A'raf concludes with the spiritual command: 'And remember your Lord within yourself in humility and in fear' (7:205). Surah Al-Anfal immediately opens describing the true believers as those whose hearts naturally tremble with awe when Allah is mentioned (8:2).",
+    "evidence_ids": [
+      "ev_007_008_suyuti_dhikr_wajal"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None; highlighted in Al-Suyuti's Tanāsuq al-durar as an exemplary verbal and spiritual handoff.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_008_009_alliances_disavowal",
+    "from_type": "section",
+    "from_id": "section:008_alliances",
+    "to_type": "ayah",
+    "to_id": "ayah:9:1",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-Anfal concludes with detailed categorizations of political and faith alliances (8:72-75), stating that disbelievers are allies of one another. Surah At-Tawbah opens without a Basmalah, executing the formal constitutional disavowal (Bara'ah) from those polytheistic tribes that violated those covenants.",
+    "evidence_ids": [
+      "ev_008_009_hadith_tirmidhi",
+      "ev_008_009_biqai_baraah"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Early companions noted that Al-Anfal and At-Tawbah were considered as a contiguous composition due to the direct continuity of the Badr-Tabuk historical continuum.",
+    "review_status": "reviewed_internal"
+  }
+]

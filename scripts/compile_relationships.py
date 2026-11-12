@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Aggregate relationships and evidence from research/pilots/ into data/relationships/
+Aggregate relationships and evidence from research/pilots/ and research/relationships/ into data/relationships/
 """
 
 import os
@@ -13,23 +13,34 @@ DATA_REL_DIR = os.path.join(BASE_DIR, 'data', 'relationships')
 os.makedirs(DATA_REL_DIR, exist_ok=True)
 
 def main():
-    print("Aggregating relationships and evidence...")
-    rel_files = glob.glob(os.path.join(BASE_DIR, 'research', 'pilots', '*', 'relationships.json'))
-    ev_files = glob.glob(os.path.join(BASE_DIR, 'research', 'pilots', '*', 'evidence.json'))
+    print("Aggregating all relationships and evidence...")
+    rel_files = glob.glob(os.path.join(BASE_DIR, 'research', 'pilots', '*', 'relationships.json')) + \
+                glob.glob(os.path.join(BASE_DIR, 'research', 'relationships', '*relationships*.json'))
+                
+    ev_files = glob.glob(os.path.join(BASE_DIR, 'research', 'pilots', '*', 'evidence.json')) + \
+               glob.glob(os.path.join(BASE_DIR, 'research', 'relationships', '*evidence*.json'))
     
     all_relationships = []
     all_evidence = []
     
+    seen_rel = set()
     for rf in rel_files:
         with open(rf, encoding='utf-8') as f:
-            all_relationships.extend(json.load(f))
+            for item in json.load(f):
+                if item['id'] not in seen_rel:
+                    all_relationships.append(item)
+                    seen_rel.add(item['id'])
             
+    seen_ev = set()
     for ef in ev_files:
         with open(ef, encoding='utf-8') as f:
-            all_evidence.extend(json.load(f))
+            for item in json.load(f):
+                if item['id'] not in seen_ev:
+                    all_evidence.append(item)
+                    seen_ev.add(item['id'])
             
-    print(f"Total relationships: {len(all_relationships)}")
-    print(f"Total evidence items: {len(all_evidence)}")
+    print(f"Total deduplicated relationships: {len(all_relationships)}")
+    print(f"Total deduplicated evidence items: {len(all_evidence)}")
     
     with open(os.path.join(DATA_REL_DIR, 'relationships.json'), 'w', encoding='utf-8') as f:
         json.dump(all_relationships, f, ensure_ascii=False, indent=2)

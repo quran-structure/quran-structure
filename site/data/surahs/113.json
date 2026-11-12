@@ -1,0 +1,91 @@
+{
+  "surah": {
+    "id": 113,
+    "name_ar": "سُوْرَةُ الْفَلَقِ",
+    "name_en": "Al-Falaq",
+    "name_meaning": "The Dawn",
+    "name_transliteration": "Al-Falaq",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 5,
+    "page_start": 604,
+    "page_end": 604,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Falaq — The Cleaving Dawn & Sanctuary from External Malice",
+    "personality_summary": "Protective, apotropaic, luminous, shielding. Seeking refuge with the Lord of the Daybreak from the dangers of the external physical and metaphysical world: the evil of created things, the enshrouding darkness of the night, the sorcerers blowing on knots, and the destructive poison of the envious when he envies.",
+    "distinctive_voice": "Protective, luminous, vigilant, sanctuary-seeking.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Falaq (The Dawn) is the 113th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 113,
+      "ayah_number": 1,
+      "arabic_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم قل اعوذ برب الفلق",
+      "translation_saheeh": "Say, \"I seek refuge in the Lord of daybreak",
+      "translation_abdelhaleem": "Say [Prophet], ‘I seek refuge with the Lord of daybreak",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 555,
+      "sajda": false
+    },
+    {
+      "surah_id": 113,
+      "ayah_number": 2,
+      "arabic_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "arabic_simple": "مِنْ شَرِّ مَا خَلَقَ",
+      "arabic_clean": "من شر ما خلق",
+      "translation_saheeh": "From the evil of that which He created",
+      "translation_abdelhaleem": "against the harm in what He has created",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 555,
+      "sajda": false
+    },
+    {
+      "surah_id": 113,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "arabic_simple": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "arabic_clean": "ومن شر غاسق اذا وقب",
+      "translation_saheeh": "And from the evil of darkness when it settles",
+      "translation_abdelhaleem": "the harm in the night when darkness gathers",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 555,
+      "sajda": false
+    },
+    {
+      "surah_id": 113,
+      "ayah_number": 4,
+      "arabic_uthmani": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+      "arabic_simple": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "arabic_clean": "ومن شر النفاثات في العقد",
+      "translation_saheeh": "And from the evil of the blowers in knots",
+      "translation_abdelhaleem": "the harm in witches when they blow on knots",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 555,
+      "sajda": false
+    },
+    {
+      "surah_id": 113,
+      "ayah_number": 5,
+      "arabic_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "arabic_simple": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "arabic_clean": "ومن شر حاسد اذا حسد",
+      "translation_saheeh": "And from the evil of an envier when he envies",
+      "translation_abdelhaleem": "the harm in the envier when he envies.’",
+      "juz_number": 30,
+      "page_number": 604,
+      "ruku_number": 555,
+      "sajda": false
+    }
+  ]
+}

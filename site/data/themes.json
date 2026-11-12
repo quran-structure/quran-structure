@@ -1,0 +1,42 @@
+[
+  {
+    "id": "theme_covenant",
+    "name": "The Primordial & Historical Covenant (Al-Mīthāq)",
+    "description": "The transcendent commitment between the Creator and the human soul, spanning the pre-temporal testimony of Alastu bi-Rabbikum (7:172), the vicegerency covenant of Adam (2:30-38), the covenant of Sinai with Bani Isra'il (2:63, 2:83, 4:154), the Abrahamic covenant of spiritual leadership (2:124), the covenant with all Prophets regarding the final Messenger (3:81), and the final universal command to fulfill all contracts (5:1).",
+    "related_terms_ar": ["ميثاق", "عهد", "عقود", "ألست بربكم"],
+    "related_terms_en": ["Covenant", "Treaty", "Solemn Pledge", "Primordial Testimony"],
+    "anchor_passages": ["ayah:7:172", "ayah:2:30-38", "ayah:2:124", "ayah:3:81", "ayah:5:1"]
+  },
+  {
+    "id": "theme_prophetic_duas",
+    "name": "Prophetic Invocations & The Stations of Supplication (Al-Adʿiyah al-Anbiyā'iyyah)",
+    "description": "The intimate, humble dialogues of the Messengers in moments of acute trial, vulnerability, and spiritual ascent: Adam's repentance (7:23: Rabbana zalamna anfusana), Nuh's desperate cry (54:10: Anni maghloobun fa-ntasir), Ibrahim's sanctuarial supplications (2:126-129, 14:35-41), Ayyub's dignified call in affliction (21:83), Yunus's prayer in the whale's belly (21:87: La ilaha illa anta subhanak), Zakariyya's plea in old age (19:4, 21:89), and the collective invocations sealing Al-Baqarah (2:285-286).",
+    "related_terms_ar": ["دعاء", "تضرع", "مناجاة", "استغفار"],
+    "related_terms_en": ["Supplication", "Intimate Petition", "Repentance", "Prophetic Du'a"],
+    "anchor_passages": ["ayah:7:23", "ayah:54:10", "ayah:21:87", "ayah:21:89", "ayah:2:286"]
+  },
+  {
+    "id": "theme_cosmic_signs",
+    "name": "Cosmic Signs & The Open Book of Creation (Āyāt al-Āfāq)",
+    "description": "The continuous Qur'anic summoning of the human mind to read the physical universe as a living scripture of divine power, wisdom, and resurrection: the cleaving of darkness and dawn (6:1, 6:96), celestial orbits and solar timekeeping (10:5, 36:38-40), the water cycle and revival of dead soil (22:5, 30:24), biological diversity in flora and livestock (16:65-69, 55:10-13), and the cosmic dissolution at the Hour (81:1-14, 82:1-5).",
+    "related_terms_ar": ["آيات الآفاق", "فالق الإصباح", "سخر الشمس والقمر", "إحياء الأرض"],
+    "related_terms_en": ["Cosmic Signs", "Teleological Proofs", "Water Cycle", "Astronomical Orbits"],
+    "anchor_passages": ["ayah:6:1", "ayah:6:95-99", "ayah:10:5-6", "ayah:30:20-25", "ayah:55:1-13"]
+  },
+  {
+    "id": "theme_patience_resilience",
+    "name": "Steadfastness, Vigilance & Divine Reliance (Al-Ṣabr wa al-Thabāt)",
+    "description": "The psychological and spiritual armor required to withstand adversity, persecution, intellectual skepticism, and battlefield grief: patience upon obedience (Sabr 'ala al-Ta'ah), restraint against disobedience, perseverance through painful decrees (Uhud in 3:139-175, Ya'qub's Sabrun Jameel in 12:18, 12:83), the four pillars of salvation in Al-'Asr (103:1-3), and the culminating command of Ali 'Imran (3:200: Isbiroo wa-sabiroo wa-rabitoo).",
+    "related_terms_ar": ["صبر جميل", "ثبات", "مرابطة", "توكل"],
+    "related_terms_en": ["Patience", "Steadfastness", "Resilience", "Tawakkul"],
+    "anchor_passages": ["ayah:2:155-157", "ayah:3:200", "ayah:12:18", "ayah:12:83", "ayah:103:1-3"]
+  },
+  {
+    "id": "theme_architecture_heart",
+    "name": "The Architecture of the Human Heart (Qalb Salīm vs. Qulūb Marīḍah)",
+    "description": "The central battleground of human moral destiny: the sound, receptive heart (Qalb Saleem, 26:89, 37:84) that humbles itself before truth, versus the diseased heart (Marad, 2:10), the hardened heart like stone (Qasawat al-Qulub, 2:74), the sealed heart (Khatm, 2:7), the heart with rust (Ran, 83:14), and the comforted, peaceful soul (Nafs al-Mutma'innah, 89:27-30).",
+    "related_terms_ar": ["قلب سليم", "قسوة القلوب", "مرض في قلوبهم", "ران على قلوبهم"],
+    "related_terms_en": ["Sound Heart", "Spiritual Pathology", "Hardened Hearts", "Peaceful Soul"],
+    "anchor_passages": ["ayah:2:10", "ayah:2:74", "ayah:26:88-89", "ayah:83:14", "ayah:89:27-30"]
+  }
+]

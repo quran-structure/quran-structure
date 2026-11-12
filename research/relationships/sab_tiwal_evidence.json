@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ev_003_004_biqai_uhud",
+    "relationship_id": "rel_003_004_uhud_orphans",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Vol. 5, p. 5",
+    "original_quote": "لَمَّا خَتَمَ آلَ عِمْرَانَ بِالْأَمْرِ بِالتَّقْوَى فَقَالَ: {وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ}، افْتَتَحَ النِّسَاءَ بِالْأَمْرِ بِالتَّقْوَى أَيْضاً... لِأَنَّ مَا فِي النِّسَاءِ مِنْ أَحْكَامِ الْيَتَامَى وَالنِّسَاءِ جَاءَ مُعَالِجاً لِآثَارِ وَقْعَةِ أُحُدٍ الْمَذْكُورَةِ فِي آلِ عِمْرَانَ.",
+    "translation_or_paraphrase": "When He concluded Al 'Imran with the command to Taqwa: 'And fear Allah that you may succeed' [3:200], He opened An-Nisa likewise with the command to Taqwa... because the rulings regarding orphans and women in An-Nisa came as a direct remedy for the consequences of the Battle of Uhud mentioned in Al 'Imran.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_003_004_gharnati_taqwa",
+    "relationship_id": "rel_003_004_uhud_orphans",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Ed. Shaʿbānī, pp. 193-198",
+    "original_quote": "التحمت خاتمة آل عمران بفاتحة النساء في لزوم التقوى ورعاية حرمات المجتمع الإسلامي.",
+    "translation_or_paraphrase": "The conclusion of Al 'Imran was firmly welded to the opening of An-Nisa in maintaining Taqwa and safeguarding the sanctities of the Islamic community.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_004_005_suyuti_uqud",
+    "relationship_id": "rel_004_005_covenant_fulfillment",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Ed. ʿAṭā, p. 78",
+    "original_quote": "لما ذكر في النساء عقوداً شتى من النكاح والمهور والمواريث، ناسب افتتاح المائدة بالأمر العام بوفاء العقود كلها.",
+    "translation_or_paraphrase": "When He mentioned in An-Nisa diverse covenants of marriage, dowries, and inheritances, it was fitting that Al-Ma'idah opened with the comprehensive command to fulfill all covenants.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_004_005_biqai_perfection",
+    "relationship_id": "rel_004_005_covenant_fulfillment",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 6, pp. 3-8",
+    "original_quote": "سورة المائدة سورة العهود والمواثيق وتكميل الحلال والحرام.",
+    "translation_or_paraphrase": "Surah Al-Ma'idah is the surah of treaties, solemn covenants, and the perfection of the licit and illicit.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_005_006_gharnati_mulk_khalq",
+    "relationship_id": "rel_005_006_dominion_creation",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, p. 204",
+    "original_quote": "لما قرر في آخر المائدة: {لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ}، افتتح الأنعام بحمده على خلق تلك السماوات والأرض.",
+    "translation_or_paraphrase": "When He established at the end of Al-Ma'idah that 'To Allah belongs the dominion of the heavens and earth', He opened Al-An'am with praise for having created those heavens and earth.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_005_006_suyuti_cosmic_shift",
+    "relationship_id": "rel_005_006_dominion_creation",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 81",
+    "original_quote": "انتقال بديع من الأحكام والتشريعات في المائدة إلى أصول التوحيد ودلائل القدرة في الأنعام.",
+    "translation_or_paraphrase": "An exquisite transition from rulings and legislation in Al-Ma'idah to the fundamentals of monotheism and cosmological proofs of power in Al-An'am.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_006_007_biqai_penalty_history",
+    "relationship_id": "rel_006_007_swift_penalty",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 7, pp. 280-285",
+    "original_quote": "ختمت الأنعام بالتحذير من سرعة عقابه، وبدأت الأعراف ببيان إيقاع ذلك العقاب في الأمم السالفة.",
+    "translation_or_paraphrase": "Al-An'am concluded with a warning of the swiftness of His retribution, and Al-A'raf began with the demonstration of the execution of that retribution upon past nations.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_006_007_gharnati_rational_historical",
+    "relationship_id": "rel_006_007_swift_penalty",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, pp. 210-215",
+    "original_quote": "الأنعام حجة عقلية، والأعراف برهان تاريخي عياني.",
+    "translation_or_paraphrase": "Al-An'am is a rational proof of monotheism, while Al-A'raf is an empirical, historical demonstration.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_007_008_suyuti_dhikr_wajal",
+    "relationship_id": "rel_007_008_trembling_hearts",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 86",
+    "original_quote": "أمر في آخر الأعراف بذكر الله تضرعاً وخيفة، وبيّن في أول الأنفال أن صفة المؤمنين وجل القلوب عند ذلك الذكر.",
+    "translation_or_paraphrase": "He commanded at the end of Al-A'raf to remember Allah in humility and fear, and clarified at the start of Al-Anfal that the hallmark of believers is that their hearts tremble in awe upon that very remembrance.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_008_009_hadith_tirmidhi",
+    "relationship_id": "rel_008_009_alliances_disavowal",
+    "source_id": "src_tabari",
+    "exact_reference": "Jāmiʿ al-Bayān (Commentary on 9:1), citing Sunan al-Tirmidhī #3086",
+    "original_quote": "قال عثمان بن عفان رضي الله عنه: كانت الأنفال وبراءة متقاربتين في القصص وكانت الأنفال من أوائل ما نزل بالمدينة وبراءة من أواخر ما نزل، وشبهت قصتها بقصتها فقرنت بينهما.",
+    "translation_or_paraphrase": "'Uthman ibn 'Affan stated: 'Al-Anfal and Bara'ah were closely related in historical context... and the subject matter of one was so similar to the other that they were conjoined.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_008_009_biqai_baraah",
+    "relationship_id": "rel_008_009_alliances_disavowal",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 8, pp. 410-415",
+    "original_quote": "سورة التوبة ختام لمعاهدات الأنفال وبيان الحكم النهائي في المشركين والمنافقين.",
+    "translation_or_paraphrase": "Surah At-Tawbah is the concluding realization of the treaties of Al-Anfal and the final legal judgment regarding the polytheists and hypocrites.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

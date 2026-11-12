@@ -35,18 +35,23 @@ def main():
     dst_ev = os.path.join(SITE_DATA_DIR, 'evidence.json')
     shutil.copyfile(src_ev, dst_ev)
     
-    # 4. Copy individual surahs needed for pilots (1, 2, 3, 18, 23, 28, 54, 55, 56, 57)
+    # 4. Copy themes
+    src_th = os.path.join(BASE_DIR, 'data', 'themes', 'thematic_networks.json')
+    dst_th = os.path.join(SITE_DATA_DIR, 'themes.json')
+    shutil.copyfile(src_th, dst_th)
+    
+    # 5. Copy individual surahs needed for web views (all pilot & tiwal surahs: 1 to 9, 18, 23, 28, 54, 55, 56, 57, 103, 112, 113, 114)
     site_surahs_dir = os.path.join(SITE_DATA_DIR, 'surahs')
     os.makedirs(site_surahs_dir, exist_ok=True)
     
-    pilot_surahs = [1, 2, 3, 18, 23, 28, 54, 55, 56, 57]
-    for s_id in pilot_surahs:
+    featured_surahs = [1, 2, 3, 4, 5, 6, 7, 8, 9, 18, 23, 28, 54, 55, 56, 57, 103, 112, 113, 114]
+    for s_id in featured_surahs:
         src_s = os.path.join(BASE_DIR, 'data', 'surahs', f"{s_id:03d}.json")
         dst_s = os.path.join(site_surahs_dir, f"{s_id:03d}.json")
         if os.path.exists(src_s):
             shutil.copyfile(src_s, dst_s)
             
-    print(f"✓ Copied data bundles and pilot surahs into site/data/")
+    print(f"✓ Copied data bundles and featured surahs into site/data/")
     return 0
 
 if __name__ == '__main__':

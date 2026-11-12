@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   let relationshipsData = [];
   let evidenceData = [];
   let sourcesData = [];
+  let themesData = [];
 
   // DOM Elements
   const tabs = document.querySelectorAll('nav.main-nav button');
@@ -13,6 +14,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const surahFilter = document.getElementById('surahFilter');
   const transitionsList = document.getElementById('transitionsList');
   const envelopeList = document.getElementById('envelopeList');
+  const themesList = document.getElementById('themesList');
   const personalitiesList = document.getElementById('personalitiesList');
   const libraryGrid = document.getElementById('libraryGrid');
   const modalOverlay = document.getElementById('surahModal');
@@ -21,11 +23,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Load Data
   try {
-    const [surahsRes, relsRes, evRes, sourcesRes] = await Promise.all([
+    const [surahsRes, relsRes, evRes, sourcesRes, themesRes] = await Promise.all([
       fetch('data/surahs.json'),
       fetch('data/relationships.json'),
       fetch('data/evidence.json'),
-      fetch('data/sources.json')
+      fetch('data/sources.json'),
+      fetch('data/themes.json')
     ]);
 
     surahsData = await surahsRes.json();
@@ -33,10 +36,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     evidenceData = await evRes.json();
     const sData = await sourcesRes.json();
     sourcesData = sData.sources || [];
+    themesData = await themesRes.json();
 
     renderSurahs(surahsData);
     renderTransitions();
     renderEnvelopes();
+    renderThemes();
     renderPersonalities();
     renderLibrary();
   } catch (err) {
@@ -214,6 +219,36 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
+  // Render Thematic Networks
+  function renderThemes() {
+    if (!themesList) return;
+    themesList.innerHTML = '';
+
+    themesData.forEach(th => {
+      const card = document.createElement('div');
+      card.className = 'relationship-card';
+      card.innerHTML = `
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem;">
+          <h3 style="font-size: 1.35rem; color: var(--accent-emerald);">${th.name}</h3>
+          <span style="font-family: var(--font-arabic); font-size: 1.3rem; color: var(--accent-gold); direction: rtl;">
+            ${(th.related_terms_ar || []).join(' • ')}
+          </span>
+        </div>
+        <p style="font-size: 1rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1rem;">
+          ${th.description}
+        </p>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+          <strong style="font-family: var(--font-sans); font-size: 0.8rem; color: var(--text-muted); align-self: center;">Anchor Passages:</strong>
+          ${(th.anchor_passages || []).map(p => `<span class="badge badge-reltype">${p}</span>`).join('')}
+        </div>
+        <div style="font-family: var(--font-sans); font-size: 0.8rem; color: var(--text-muted);">
+          <strong>Key Concepts:</strong> ${(th.related_terms_en || []).join(', ')}
+        </div>
+      `;
+      themesList.appendChild(card);
+    });
+  }
+
   // Create Generic Relationship Card
   function createRelationshipCard(rel) {
     const card = document.createElement('div');
@@ -262,7 +297,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (!personalitiesList) return;
     personalitiesList.innerHTML = '';
 
-    // Show surahs that have elaborated personalities
+    // Show surahs with personalities
     const detailedSurahs = surahsData.filter(s => s.personality_title);
 
     detailedSurahs.forEach(s => {
@@ -270,7 +305,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       card.className = 'relationship-card';
       card.innerHTML = `
         <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem;">
-          <h3 style="font-size: 1.3rem; color: var(--accent-emerald);">${s.name_en} — ${s.personality_title}</h3>
+          <h3 style="font-size: 1.3rem; color: var(--accent-emerald);">#${s.id}. ${s.name_en} — ${s.personality_title}</h3>
           <span style="font-family: var(--font-arabic); font-size: 1.6rem; color: var(--text-primary);">${s.name_ar}</span>
         </div>
         <div style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 0.75rem; line-height: 1.6;">
