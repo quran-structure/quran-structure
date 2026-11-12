@@ -1,0 +1,91 @@
+{
+  "surah": {
+    "id": 97,
+    "name_ar": "سُوْرَةُ الْقَدْرِ",
+    "name_en": "Al-Qadr",
+    "name_meaning": "The Power, Fate",
+    "name_transliteration": "Al-Qadr",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 5,
+    "page_start": 598,
+    "page_end": 598,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Qadr — The Night of Sovereign Decree & The Descent of Serenity",
+    "personality_summary": "Mystical, nocturnal, peaceful, luminous. Celebrates the descent of the Qur'an on the Night of Destiny (Laylat al-Qadr), declaring it greater in value than a thousand months. Portrays the earth saturated by the descent of angels and the Spirit (Gabriel), cloaking existence in divine peace until the emergence of dawn.",
+    "distinctive_voice": "Luminous, sacred, peaceful, nocturnal.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Qadr (The Power, Fate) is the 97th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 97,
+      "ayah_number": 1,
+      "arabic_uthmani": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم انا انزلناه في ليلة القدر",
+      "translation_saheeh": "Indeed, We sent the Qur'an down during the Night of Decree",
+      "translation_abdelhaleem": "We sent it down on the Night of Glory",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 539,
+      "sajda": false
+    },
+    {
+      "surah_id": 97,
+      "ayah_number": 2,
+      "arabic_uthmani": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+      "arabic_simple": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+      "arabic_clean": "وما ادراك ما ليلة القدر",
+      "translation_saheeh": "And what can make you know what is the Night of Decree",
+      "translation_abdelhaleem": "What will explain to you what that Night of Glory is",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 539,
+      "sajda": false
+    },
+    {
+      "surah_id": 97,
+      "ayah_number": 3,
+      "arabic_uthmani": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ‏",
+      "arabic_simple": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+      "arabic_clean": "ليلة القدر خير من الف شهر",
+      "translation_saheeh": "The Night of Decree is better than a thousand months",
+      "translation_abdelhaleem": "The Night of Glory is better than a thousand months",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 539,
+      "sajda": false
+    },
+    {
+      "surah_id": 97,
+      "ayah_number": 4,
+      "arabic_uthmani": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ‏",
+      "arabic_simple": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+      "arabic_clean": "تنزل الملائكة والروح فيها باذن ربهم من كل امر",
+      "translation_saheeh": "The angels and the Spirit descend therein by permission of their Lord for every matter",
+      "translation_abdelhaleem": "on that night the angels and the Spirit descend again and again with their Lord’s permission on every task",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 539,
+      "sajda": false
+    },
+    {
+      "surah_id": 97,
+      "ayah_number": 5,
+      "arabic_uthmani": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+      "arabic_simple": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "arabic_clean": "سلام هي حتى مطلع الفجر",
+      "translation_saheeh": "Peace it is until the emergence of dawn",
+      "translation_abdelhaleem": "[there is] peace that night until the break of dawn",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 539,
+      "sajda": false
+    }
+  ]
+}

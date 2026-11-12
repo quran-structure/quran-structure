@@ -1,0 +1,130 @@
+{
+  "surah": {
+    "id": 98,
+    "name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+    "name_en": "Al-Bayyina",
+    "name_meaning": "The Evidence",
+    "name_transliteration": "Al-Bayyina",
+    "alternative_names": [],
+    "revelation_classification": "madani",
+    "ayah_count": 8,
+    "page_start": 598,
+    "page_end": 599,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Bayyinah — The Manifest Proof & The Sincerity of True Religion",
+    "personality_summary": "Polemical, doctrinal, ecclesiastical, definitive. Explains why earlier communities could not be extracted from error without a Clear Proof: an emissary reciting purified scrolls. Delineates the pristine core of all revelation (worshiping Allah in sincerity, establishing prayer, giving charity) and contrasts the worst of creation with the best of creation.",
+    "distinctive_voice": "Doctrinal, defining, clarifying, polarizing.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Bayyina (The Evidence) is the 98th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Madani.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 98,
+      "ayah_number": 1,
+      "arabic_uthmani": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+      "arabic_clean": "بسم الله الرحمن الرحيم لم يكن الذين كفروا من اهل الكتاب والمشركين منفكين حتى تاتيهم البينة",
+      "translation_saheeh": "Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] until there came to them clear evidence",
+      "translation_abdelhaleem": "Those who disbelieve among the People of the Book and the idolaters were not about to change their ways until they were sent clear evidence",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 2,
+      "arabic_uthmani": "رَسُولࣱ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفࣰ ا مُّطَهَّرَةࣰ‏",
+      "arabic_simple": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+      "arabic_clean": "رسول من الله يتلو صحفا مطهرة",
+      "translation_saheeh": "A Messenger from Allah, reciting purified scriptures",
+      "translation_abdelhaleem": "a messenger from God, reading out pages [blessed with] purity",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 3,
+      "arabic_uthmani": "فِيهَا كُتُبࣱ قَيِّمَةࣱ‏",
+      "arabic_simple": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+      "arabic_clean": "فيها كتب قيمة",
+      "translation_saheeh": "Within which are correct writings",
+      "translation_abdelhaleem": "containing true scriptures",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 4,
+      "arabic_uthmani": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+      "arabic_simple": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+      "arabic_clean": "وما تفرق الذين اوتوا الكتاب الا من بعد ما جاءتهم البينة",
+      "translation_saheeh": "Nor did those who were given the Scripture become divided until after there had come to them clear evidence",
+      "translation_abdelhaleem": "[Yet] those who were given the Scripture became divided only after they were sent [such] clear evi-dence",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 5,
+      "arabic_uthmani": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+      "arabic_simple": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "arabic_clean": "وما امروا الا ليعبدوا الله مخلصين له الدين حنفاء ويقيموا الصلاة ويؤتوا الزكاة ۚ وذلك دين القيمة",
+      "translation_saheeh": "And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion",
+      "translation_abdelhaleem": "though all they are ordered to do is worship God alone, sincerely devoting their religion to Him as people of true faith, keep up the prayer, and pay the prescribed alms, for that is the true religion",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 6,
+      "arabic_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+      "arabic_simple": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+      "arabic_clean": "ان الذين كفروا من اهل الكتاب والمشركين في نار جهنم خالدين فيها ۚ اولئك هم شر البرية",
+      "translation_saheeh": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures",
+      "translation_abdelhaleem": "Those who disbelieve among the People of the Book and the idolaters will have the Fire of Hell, there to remain. They are the worst of creation",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 7,
+      "arabic_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+      "arabic_simple": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+      "arabic_clean": "ان الذين امنوا وعملوا الصالحات اولئك هم خير البرية",
+      "translation_saheeh": "Indeed, they who have believed and done righteous deeds - those are the best of creatures",
+      "translation_abdelhaleem": "Those who believe and do good deeds are the best of creation",
+      "juz_number": 30,
+      "page_number": 598,
+      "ruku_number": 540,
+      "sajda": false
+    },
+    {
+      "surah_id": 98,
+      "ayah_number": 8,
+      "arabic_uthmani": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدࣰ اۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+      "arabic_simple": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+      "arabic_clean": "جزاؤهم عند ربهم جنات عدن تجري من تحتها الانهار خالدين فيها ابدا ۖ رضي الله عنهم ورضوا عنه ۚ ذلك لمن خشي ربه",
+      "translation_saheeh": "Their reward with Allah will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever, Allah being pleased with them and they with Him. That is for whoever has feared his Lord",
+      "translation_abdelhaleem": "Their reward with their Lord is everlasting Gardens graced with flowing streams, where they will stay forever. God is well pleased with them and they with Him. All this is for those who stand in awe of their Lord",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 540,
+      "sajda": false
+    }
+  ]
+}

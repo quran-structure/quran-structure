@@ -1,0 +1,130 @@
+{
+  "surah": {
+    "id": 94,
+    "name_ar": "سُوْرَةُ الشَّرْحِ",
+    "name_en": "Ash-Sharh",
+    "name_meaning": "The Consolation",
+    "name_transliteration": "Ash-Sharh",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 8,
+    "page_start": 596,
+    "page_end": 596,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Ash-Sharh — The Relieved Chest & The Inseparability of Ease from Trial",
+    "personality_summary": "Expansive, weightless, uplifting, mobilizing. A direct companion to Ad-Duha, celebrating the expansion of the prophetic heart, the removal of the crushing burden, and the exaltation of his remembrance. Enunciates the cosmic spiritual law that hardship does not merely precede ease, but accompanies it, urging relentless devotion upon completion of tasks.",
+    "distinctive_voice": "Exhilarating, weightless, motivating, victorious.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Ash-Sharh (The Consolation) is the 94th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 94,
+      "ayah_number": 1,
+      "arabic_uthmani": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "arabic_clean": "بسم الله الرحمن الرحيم الم نشرح لك صدرك",
+      "translation_saheeh": "Did We not expand for you, [O Muhammad], your breast",
+      "translation_abdelhaleem": "Did We not relieve your heart for you [Prophet]",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 2,
+      "arabic_uthmani": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+      "arabic_simple": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+      "arabic_clean": "ووضعنا عنك وزرك",
+      "translation_saheeh": "And We removed from you your burden",
+      "translation_abdelhaleem": "and remove the burden",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 3,
+      "arabic_uthmani": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+      "arabic_simple": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+      "arabic_clean": "الذي انقض ظهرك",
+      "translation_saheeh": "Which had weighed upon your back",
+      "translation_abdelhaleem": "that weighed so heavily on your back",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 4,
+      "arabic_uthmani": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+      "arabic_simple": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "arabic_clean": "ورفعنا لك ذكرك",
+      "translation_saheeh": "And raised high for you your repute",
+      "translation_abdelhaleem": "and raise your reputation high",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 5,
+      "arabic_uthmani": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+      "arabic_simple": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "arabic_clean": "فان مع العسر يسرا",
+      "translation_saheeh": "For indeed, with hardship [will be] ease",
+      "translation_abdelhaleem": "So truly where there is hardship there is also ease",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 6,
+      "arabic_uthmani": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرࣰ ا",
+      "arabic_simple": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "arabic_clean": "ان مع العسر يسرا",
+      "translation_saheeh": "Indeed, with hardship [will be] ease",
+      "translation_abdelhaleem": "truly where there is hardship there is also ease",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 7,
+      "arabic_uthmani": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "arabic_simple": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+      "arabic_clean": "فاذا فرغت فانصب",
+      "translation_saheeh": "So when you have finished [your duties], then stand up [for worship]",
+      "translation_abdelhaleem": "The moment you are freed [of one task] work on",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    },
+    {
+      "surah_id": 94,
+      "ayah_number": 8,
+      "arabic_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+      "arabic_simple": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+      "arabic_clean": "والى ربك فارغب",
+      "translation_saheeh": "And to your Lord direct [your] longing",
+      "translation_abdelhaleem": "and turn to your Lord for everything",
+      "juz_number": 30,
+      "page_number": 596,
+      "ruku_number": 536,
+      "sajda": false
+    }
+  ]
+}

@@ -428,5 +428,150 @@
     "confidence": "supported_by_multiple_tafsir_sources",
     "alternative_views": "Early companions noted that Al-Anfal and At-Tawbah were considered as a contiguous composition due to the direct continuity of the Badr-Tabuk historical continuum.",
     "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_009_010_messenger_astonishment",
+    "from_type": "ayah",
+    "from_id": "ayah:9:128-129",
+    "to_type": "ayah",
+    "to_id": "ayah:10:1-2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah At-Tawbah concludes stating that a Messenger has come from among yourselves (rasulun min anfusikum, 9:128). Surah Yunus immediately opens confronting the polytheists' skeptical astonishment: 'Is it a wonder to the people that We revealed to a man from among them, to warn mankind and give glad tidings?' (10:2).",
+    "evidence_ids": [
+      "ev_009_010_suyuti_anfusikum",
+      "ev_009_010_gharnati_wonder"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Yunus marks the beginning of the Alif-Lam-Ra surah cluster, serving as the theological gateway to the Makkan prophetic sequence.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_010_011_judges_detailed",
+    "from_type": "ayah",
+    "from_id": "ayah:10:109",
+    "to_type": "ayah",
+    "to_id": "ayah:11:1",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Yunus concludes commanding patience until Allah judges, declaring: 'He is the best of judges' (wa huwa khayru al-hakimeen, 10:109). Surah Hud opens immediately announcing: 'A Book whose verses are perfected and then detailed from One who is Wise and Acquainted' (min ladun Hakeemin Khabeer, 11:1), expanding the brief prophetic accounts of Yunus into exhaustive forensic dramas.",
+    "evidence_ids": [
+      "ev_010_011_biqai_hakim",
+      "ev_010_011_suyuti_expansion"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "The stories in Hud emphasize divine retribution against persistent deniers, illustrating the execution of the judgment anticipated at the close of Yunus.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_011_012_stories_best",
+    "from_type": "ayah",
+    "from_id": "ayah:11:120",
+    "to_type": "ayah",
+    "to_id": "ayah:12:1-3",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Hud concludes declaring the divine purpose of relating prophetic accounts: 'And all that We relate to you of the news of the messengers is in order to make firm your heart' (11:120). Surah Yusuf opens immediately fulfilling this purpose with the crowning biographical narrative of scripture: 'We relate to you the best of stories' (Nahnu naqussu 'alayka ahsana al-qasas, 12:3).",
+    "evidence_ids": [
+      "ev_011_012_biqai_ahsan_qasas",
+      "ev_011_012_gharnati_consolation"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Revealed during the Year of Sorrow following the deaths of Khadijah and Abu Talib, Yusuf provided personal solace to the Prophet's grieving heart.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_012_013_signs_thunder",
+    "from_type": "ayah",
+    "from_id": "ayah:12:103-105",
+    "to_type": "ayah",
+    "to_id": "ayah:13:1-4",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Yusuf concludes warning that most of mankind will not believe and that they pass by signs in the heavens and earth turning away (12:103-105). Surah Ar-Ra'd opens with the identical diagnosis: 'But most of the people do not believe' (13:1), and immediately parades those very cosmic signs: raised heavens, the course of the sun and moon, and the thunder praising Him.",
+    "evidence_ids": [
+      "ev_012_013_suyuti_ayat_signs",
+      "ev_012_013_razi_nature_signs"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Ar-Ra'd is regarded by some as Madani or containing Madani passages, contrasting abstract skepticism with empirical cosmic manifestations.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_013_014_messenger_denial_light",
+    "from_type": "ayah",
+    "from_id": "ayah:13:43",
+    "to_type": "ayah",
+    "to_id": "ayah:14:1",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Ar-Ra'd closes with the polytheists' denial: 'You are not a messenger' (13:43). Surah Ibrahim opens directly affirming the purpose of that messengership: 'A Book which We have revealed to you that you might bring mankind out of darknesses into the light by permission of their Lord' (14:1).",
+    "evidence_ids": [
+      "ev_013_014_biqai_mission",
+      "ev_013_014_gharnati_response"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "The handoff moves from divine witness in Ar-Ra'd to the historical manifestation of divine light across generations in Ibrahim.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_014_015_notification_regret",
+    "from_type": "ayah",
+    "from_id": "ayah:14:52",
+    "to_type": "ayah",
+    "to_id": "ayah:15:1-2",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Ibrahim concludes stating that the Qur'an is a universal notification for mankind that they may be warned by it (14:52). Surah Al-Hijr opens depicting the eschatological horror of those who ignored that notification: 'Perhaps those who disbelieve will wish that they had been Muslims' (15:2), followed by the divine pledge of Quranic preservation (15:9).",
+    "evidence_ids": [
+      "ev_014_015_suyuti_balagh_regret",
+      "ev_014_015_biqai_warning"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "The opening of Al-Hijr contrasts the present arrogant mockery of polytheists with their eternal, desperate longing for Islamic submission on the Day of Judgment.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_015_016_worship_arrival",
+    "from_type": "ayah",
+    "from_id": "ayah:15:99",
+    "to_type": "ayah",
+    "to_id": "ayah:16:1",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Surah Al-Hijr concludes with the terminal command: 'And worship your Lord until there comes to you the Certainty' (15:99). Surah An-Nahl opens in the very next breath: 'The command of Allah has arrived, so do not be impatient for it!' (Ata amru Allahi fa-la tasta'jilooh, 16:1).",
+    "evidence_ids": [
+      "ev_015_016_suyuti_yaqeen_ata",
+      "ev_015_016_biqai_command_arrival"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None in classical munāsabah literature; celebrated as one of the most stunning temporal transitions in the canonical text.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_016_017_patience_isra",
+    "from_type": "ayah",
+    "from_id": "ayah:16:127-128",
+    "to_type": "ayah",
+    "to_id": "ayah:17:1",
+    "relationship_type": "cause_and_response",
+    "description": "Surah An-Nahl concludes commanding the persecuted Prophet to endure with patience solely for the sake of Allah (16:127-128). Surah Al-Isra opens immediately celebrating the supreme transcendent honor bestowed upon him for that patient endurance: the miraculous Night Journey from Mecca to Jerusalem (17:1).",
+    "evidence_ids": [
+      "ev_016_017_biqai_honor_patience",
+      "ev_016_017_gharnati_isra"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "The Night Journey represents the physical and metaphysical vindication of the Prophet after enduring the boycotts and grief of late Makkan persecution.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_017_018_say_praise_response",
+    "from_type": "ayah",
+    "from_id": "ayah:17:111",
+    "to_type": "ayah",
+    "to_id": "ayah:18:1-4",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Al-Isra concludes with the imperative command: 'And say: Praise be to Allah who has not taken a son and has no partner in dominion' (17:111). Surah Al-Kahf opens in the very next verse answering that command: 'Praise be to Allah who revealed upon His Servant the Book and made therein no crookedness' (18:1), explicitly clarifying in 18:4 that its warning is directed against those who claim Allah has taken a son.",
+    "evidence_ids": [
+      "ev_017_018_suyuti_hamd_envelope",
+      "ev_017_018_biqai_son_warning",
+      "ev_017_018_zarkashi_praise"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Universally recognized across classical Sunni tafsir as an unmatched pairing of direct divine command and immediate revelation.",
+    "review_status": "reviewed_internal"
   }
 ]

@@ -1,0 +1,130 @@
+{
+  "surah": {
+    "id": 99,
+    "name_ar": "سُوْرَةُ الزِّلْزَالِ",
+    "name_en": "Az-Zalzala",
+    "name_meaning": "The Earthquake",
+    "name_transliteration": "Az-Zalzala",
+    "alternative_names": [],
+    "revelation_classification": "madani",
+    "ayah_count": 8,
+    "page_start": 599,
+    "page_end": 599,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Az-Zalzalah — The Apocalyptic Quake & The Microscopic Scales of Justice",
+    "personality_summary": "Seismic, judicial, revelatory, meticulous. Portrays the earth convulsing in its final earthquake, casting forth its hidden burials and speaking its recorded testimonies. Concludes with the ultimate standard of divine justice: whoever performs an atom's weight of good or evil shall see it.",
+    "distinctive_voice": "Seismic, revealing, meticulous, sobering.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Az-Zalzala (The Earthquake) is the 99th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Madani.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 99,
+      "ayah_number": 1,
+      "arabic_uthmani": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "arabic_clean": "بسم الله الرحمن الرحيم اذا زلزلت الارض زلزالها",
+      "translation_saheeh": "When the earth is shaken with its [final] earthquake",
+      "translation_abdelhaleem": "When the earth is shaken violently in its [last] quaking",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 2,
+      "arabic_uthmani": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "arabic_simple": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "arabic_clean": "واخرجت الارض اثقالها",
+      "translation_saheeh": "And the earth discharges its burdens",
+      "translation_abdelhaleem": "when the earth throws out its burdens",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "arabic_simple": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+      "arabic_clean": "وقال الانسان ما لها",
+      "translation_saheeh": "And man says, \"What is [wrong] with it",
+      "translation_abdelhaleem": "when man cries, ‘What is happening to it?’",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 4,
+      "arabic_uthmani": "يَوۡمَئِذࣲ تُحَدِّثُ أَخۡبَارَهَا",
+      "arabic_simple": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "arabic_clean": "يومئذ تحدث اخبارها",
+      "translation_saheeh": "That Day, it will report its news",
+      "translation_abdelhaleem": "on that Day, it will tell all",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 5,
+      "arabic_uthmani": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "arabic_simple": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "arabic_clean": "بان ربك اوحى لها",
+      "translation_saheeh": "Because your Lord has commanded it",
+      "translation_abdelhaleem": "because your Lord will inspire it [to do so]",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 6,
+      "arabic_uthmani": "يَوۡمَئِذࣲ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتࣰ ا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "arabic_simple": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+      "arabic_clean": "يومئذ يصدر الناس اشتاتا ليروا اعمالهم",
+      "translation_saheeh": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds",
+      "translation_abdelhaleem": "On that Day, people will come forward in separate groups to be shown their deeds",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 7,
+      "arabic_uthmani": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرࣰ ا يَرَهُۥ",
+      "arabic_simple": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "arabic_clean": "فمن يعمل مثقال ذرة خيرا يره",
+      "translation_saheeh": "So whoever does an atom's weight of good will see it",
+      "translation_abdelhaleem": "whoever has done an atom’s-weight of good will see it",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    },
+    {
+      "surah_id": 99,
+      "ayah_number": 8,
+      "arabic_uthmani": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةࣲ شَرࣰّ ا يَرَهُۥ",
+      "arabic_simple": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "arabic_clean": "ومن يعمل مثقال ذرة شرا يره",
+      "translation_saheeh": "And whoever does an atom's weight of evil will see it",
+      "translation_abdelhaleem": "but whoever has done an atom’s-weight of evil will see that",
+      "juz_number": 30,
+      "page_number": 599,
+      "ruku_number": 541,
+      "sajda": false
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "surah": {
+    "id": 95,
+    "name_ar": "سُوْرَةُ التِّيْنِ",
+    "name_en": "At-Tin",
+    "name_meaning": "The Fig",
+    "name_transliteration": "At-Tin",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 8,
+    "page_start": 597,
+    "page_end": 597,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "At-Tin — The Sacred Sanctuaries & The Nobility of the Human Mould",
+    "personality_summary": "Geographical-spiritual, anthropological, judicial. Oaths by the Fig, Olive, Mount Sinai, and the Secure City of Mecca frame the ontological creation of humanity in the best of statures (Fi Ahsani Taqweem), followed by regression to the lowest of the low except for those anchored in faith and righteous works.",
+    "distinctive_voice": "Sanctified, anthropological, moral, dignified.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah At-Tin (The Fig) is the 95th surah in the canonical muṣḥaf sequence, comprising 8 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 95,
+      "ayah_number": 1,
+      "arabic_uthmani": "وَٱلتِّينِ وَٱلزَّيۡتُونِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالتِّينِ وَالزَّيْتُونِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم والتين والزيتون",
+      "translation_saheeh": "By the fig and the olive",
+      "translation_abdelhaleem": "By the fig, by the olive",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 2,
+      "arabic_uthmani": "وَطُورِ سِينِينَ",
+      "arabic_simple": "وَطُورِ سِينِينَ",
+      "arabic_clean": "وطور سينين",
+      "translation_saheeh": "And [by] Mount Sinai",
+      "translation_abdelhaleem": "by Mount Sinai",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
+      "arabic_simple": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+      "arabic_clean": "وهذا البلد الامين",
+      "translation_saheeh": "And [by] this secure city [Makkah]",
+      "translation_abdelhaleem": "by this safe town",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 4,
+      "arabic_uthmani": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمࣲ‏",
+      "arabic_simple": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+      "arabic_clean": "لقد خلقنا الانسان في احسن تقويم",
+      "translation_saheeh": "We have certainly created man in the best of stature",
+      "translation_abdelhaleem": "We create man in the finest state",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 5,
+      "arabic_uthmani": "ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ",
+      "arabic_simple": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+      "arabic_clean": "ثم رددناه اسفل سافلين",
+      "translation_saheeh": "Then We return him to the lowest of the low",
+      "translation_abdelhaleem": "then reduce him to the lowest of the low",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 6,
+      "arabic_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونࣲ‏",
+      "arabic_simple": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "arabic_clean": "الا الذين امنوا وعملوا الصالحات فلهم اجر غير ممنون",
+      "translation_saheeh": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted",
+      "translation_abdelhaleem": "except those who believe and do good deeds––",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 7,
+      "arabic_uthmani": "فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ",
+      "arabic_simple": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "arabic_clean": "فما يكذبك بعد بالدين",
+      "translation_saheeh": "So what yet causes you to deny the Recompense",
+      "translation_abdelhaleem": "they will have an unfailing reward. After this, what makes you [man] deny the Judgement",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    },
+    {
+      "surah_id": 95,
+      "ayah_number": 8,
+      "arabic_uthmani": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
+      "arabic_simple": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+      "arabic_clean": "اليس الله باحكم الحاكمين",
+      "translation_saheeh": "Is not Allah the most just of judges",
+      "translation_abdelhaleem": "Is God not the most decisive of judges",
+      "juz_number": 30,
+      "page_number": 597,
+      "ruku_number": 537,
+      "sajda": false
+    }
+  ]
+}

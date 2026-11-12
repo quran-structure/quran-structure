@@ -200,6 +200,177 @@
     "reviewer_status": "verified"
   },
   {
+    "id": "ev_009_010_suyuti_anfusikum",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Ed. ʿAṭā, p. 88",
+    "original_quote": "خاتمة براءة: {لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ}، وفاتحة يونس: {أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَىٰ رَجُلٍ مِنْهُمْ}، تلاقيا في بيان بشرية الرسول واستبعاد الكفار لذلك.",
+    "translation_or_paraphrase": "The conclusion of Bara'ah: 'There has come to you a Messenger from among yourselves', and the opening of Yunus: 'Is it a wonder to the people that We revealed to a man from among them?', meet in clarifying the human reality of the Messenger and the disbelievers' astonishment at that.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_009_010_gharnati_wonder",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, p. 222",
+    "original_quote": "ناسب ختام براءة بذكر صفة الرسول وحرصه ورأفته افتتاح يونس بالإنكار على من تعجب من إرسال بشر مثله.",
+    "translation_or_paraphrase": "It was fitting that the conclusion of Bara'ah in mentioning the attributes of the Messenger and his care and tenderness matched the opening of Yunus in rebuking those who were astonished by sending a mortal like him.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_010_011_biqai_hakim",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Vol. 9, pp. 210-215",
+    "original_quote": "لما قال في آخر يونس: {وَهُوَ خَيْرُ الْحَاكِمِينَ}، افتتح هوداً بقوله: {كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ}، فالحكم من الحكيم الخبير.",
+    "translation_or_paraphrase": "When He said at the end of Yunus: 'And He is the best of judges', He opened Hud with His saying: 'A Book whose verses are perfected and then detailed from One who is Wise and Acquainted', for judgment proceeds from the Wise and Acquainted.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_010_011_suyuti_expansion",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 90",
+    "original_quote": "فُصلت في هود قصص الأنبياء التي أُجملت في يونس كقصة نوح وموسى وهود وصالح.",
+    "translation_or_paraphrase": "The stories of the prophets that were summarized in Yunus—such as the stories of Nuh, Musa, Hud, and Salih—were detailed in full in Surah Hud.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_011_012_biqai_ahsan_qasas",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 10, p. 5",
+    "original_quote": "لما أخبر في آخر هود أن قصص الأنبياء لتثبيت فؤاد النبي، جاءت سورة يوسف بالقصة الكاملة التامة التي جمعت العبر والبشارات وحسن العاقبة بالصبر.",
+    "translation_or_paraphrase": "When He informed at the end of Hud that the stories of the prophets are to strengthen the heart of the Prophet, Surah Yusuf arrived with the complete, perfect story gathering lessons, glad tidings, and the triumphant outcome of patience.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_011_012_gharnati_consolation",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, p. 235",
+    "original_quote": "يوسف تسلية لرسول الله صلى الله عليه وسلم في عام الحزن وبيان أن الشدة تعقبها العزة والتمكين.",
+    "translation_or_paraphrase": "Surah Yusuf was a consolation to the Messenger of Allah in the Year of Sorrow and a demonstration that hardship is followed by honor and establishment.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_012_013_suyuti_ayat_signs",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 92",
+    "original_quote": "ذم في آخر يوسف المعرضين عن آيات السماوات والأرض، وبيّن في أول الرعد عظمة تلك الآيات الكونية وتسبيح الرعد بحمده.",
+    "translation_or_paraphrase": "He condemned at the end of Yusuf those who turn away from the signs in the heavens and earth, and clarified at the opening of Ar-Ra'd the majesty of those cosmic signs and the thunder praising Him.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_012_013_razi_nature_signs",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 18, p. 230",
+    "original_quote": "تطابقت خاتمة يوسف مع فاتحة الرعد في قوله: {وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ}.",
+    "translation_or_paraphrase": "The conclusion of Yusuf matched the opening of Ar-Ra'd in His saying: 'But most of the people do not believe.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_013_014_biqai_mission",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 10, pp. 290-295",
+    "original_quote": "أنكر الكفار رسالته في آخر الرعد، فبدأ إبراهيم ببيان وظيفة هذه الرسالة والكتاب المنزَل لإخراج الناس من الظلمات إلى النور.",
+    "translation_or_paraphrase": "The disbelievers denied his messengership at the end of Ar-Ra'd, so Ibrahim began by clarifying the mission of this messengership and the revealed Book to bring mankind out of darknesses into light.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_013_014_gharnati_response",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, p. 240",
+    "original_quote": "تتابع بديع بين رد دعوى المكذبين بالرسالة وبيان الحكمة الإلهية من إنزال الكتاب.",
+    "translation_or_paraphrase": "An exquisite succession between refuting the claim of those who deny messengership and clarifying the divine wisdom of revealing the Book.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_014_015_suyuti_balagh_regret",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 94",
+    "original_quote": "ختمت إبراهيم بأن القرآن بلاغ للناس لينذروا به، وبدأت الحجر بتمني الكفار لو كانوا مسلمين لما يرون من عاقبة ذلك البلاغ.",
+    "translation_or_paraphrase": "Ibrahim concluded with the Qur'an being a notification for mankind to be warned by it, and Al-Hijr began with the disbelievers wishing they had been Muslims upon seeing the outcome of that notification.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_014_015_biqai_warning",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 11, p. 5",
+    "original_quote": "تندم الكفار في الحجر نتيجة إعراضهم عن البلاغ المبين المذكور في خاتمة إبراهيم.",
+    "translation_or_paraphrase": "The regret of the disbelievers in Al-Hijr is the consequence of their turning away from the clear notification mentioned at the conclusion of Ibrahim.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_015_016_suyuti_yaqeen_ata",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 96",
+    "original_quote": "قال في آخر الحجر: {وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ}، وقال في أول النحل: {أَتَىٰ أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ}، فعبر بالماضي لتحقق الوقوع بعد ترقبه.",
+    "translation_or_paraphrase": "He said at the end of Al-Hijr: 'And worship your Lord until there comes to you the Certainty', and said at the start of An-Nahl: 'The command of Allah has arrived, so do not hasten it', expressing it in the past tense to signify absolute certainty of realization after awaiting it.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_015_016_biqai_command_arrival",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 11, pp. 150-155",
+    "original_quote": "أكد مجيء الأمر الإلهي المقابل لانتظار اليقين في ختام الحجر.",
+    "translation_or_paraphrase": "He affirmed the arrival of the divine command corresponding to awaiting the Certainty at the conclusion of Al-Hijr.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_016_017_biqai_honor_patience",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 11, pp. 380-385",
+    "original_quote": "أمر النبي بالصبر في آخر النحل، فأكرمه الله بالإسراء والمعراج في أول سورة الإسراء جزاءً لصبره وإحسانه.",
+    "translation_or_paraphrase": "He commanded the Prophet to have patience at the end of An-Nahl, so Allah honored him with the Night Journey and Heavenly Ascent at the start of Surah Al-Isra as a reward for his patience and excellence.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_016_017_gharnati_isra",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, p. 250",
+    "original_quote": "الإسراء أعظم تشريف للعبد الصابر المتبع لملة إبراهيم المذكورة في ختام النحل.",
+    "translation_or_paraphrase": "The Night Journey was the supreme honoring of the patient servant who adhered to the Abrahamic tradition cited at the conclusion of An-Nahl.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_017_018_suyuti_hamd_envelope",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 98",
+    "original_quote": "أمر في آخر الإسراء بالحمد فقال: {وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا}، وافتتح الكهف بقوله: {الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ}، ونزه الله في الموضعين عن اتخاذ الولد.",
+    "translation_or_paraphrase": "He commanded praise at the end of Al-Isra, saying: 'And say: Praise be to Allah who has not taken a son', and opened Al-Kahf with His saying: 'Praise be to Allah who revealed upon His Servant the Book', declaring Allah transcendent in both instances above taking a son.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_017_018_biqai_son_warning",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 12, pp. 5-10",
+    "original_quote": "طابقت فاتحة الكهف خاتمة الإسراء لفظاً ومعنى وعقيدة.",
+    "translation_or_paraphrase": "The opening of Al-Kahf matched the conclusion of Al-Isra in wording, meaning, and creed.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_017_018_zarkashi_praise",
+    "source_id": "src_zarkashi_burhan",
+    "exact_reference": "Al-Burhān fī ʿulūm al-Qur'ān, Type 35, Vol. 1, p. 40",
+    "original_quote": "ومن عجيب التناسب أن سورة بني إسرائيل خُتمت بالأمر بالحمد، وسورة الكهف بدئت بلفظ الحمد تحصيلاً لذلك المأمور به.",
+    "translation_or_paraphrase": "And of extraordinary harmony is that Surah Bani Isra'il [Al-Isra] was concluded with the command to praise, and Surah Al-Kahf was begun with the expression of praise in direct fulfillment of that which was commanded.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
     "id": "ev_003_004_biqai_uhud",
     "relationship_id": "rel_003_004_uhud_orphans",
     "source_id": "src_biqai",

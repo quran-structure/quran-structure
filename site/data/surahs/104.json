@@ -1,0 +1,143 @@
+{
+  "surah": {
+    "id": 104,
+    "name_ar": "سُوْرَةُ الْهُمَزَةِ",
+    "name_en": "Al-Humaza",
+    "name_meaning": "The Traducer",
+    "name_transliteration": "Al-Humaza",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 9,
+    "page_start": 601,
+    "page_end": 601,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Humazah — The Slandering Hoarder & The Fire Vault of Hutamah",
+    "personality_summary": "Psychological, retributive, anatomical, terrifying. Denounces the cynical backbiter who amasses wealth and counts it, delusional in thinking his fortune makes him immortal. Delivers the terrifying retribution of Al-Hutamah: the crushing divine fire that penetrates and closes over the very core of the heart in outstretched pillars.",
+    "distinctive_voice": "Severely warning, psychological, retributive.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Humaza (The Traducer) is the 104th surah in the canonical muṣḥaf sequence, comprising 9 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 104,
+      "ayah_number": 1,
+      "arabic_uthmani": "وَيۡلࣱ لِّكُلِّ هُمَزَةࣲ لُّمَزَةٍ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "arabic_clean": "بسم الله الرحمن الرحيم ويل لكل همزة لمزة",
+      "translation_saheeh": "Woe to every scorner and mocker",
+      "translation_abdelhaleem": "Woe to every fault-finding backbiter",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 2,
+      "arabic_uthmani": "ٱلَّذِي جَمَعَ مَالࣰ ا وَعَدَّدَهُۥ",
+      "arabic_simple": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+      "arabic_clean": "الذي جمع مالا وعدده",
+      "translation_saheeh": "Who collects wealth and [continuously] counts it",
+      "translation_abdelhaleem": "who amasses riches, counting them over",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 3,
+      "arabic_uthmani": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+      "arabic_simple": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+      "arabic_clean": "يحسب ان ماله اخلده",
+      "translation_saheeh": "He thinks that his wealth will make him immortal",
+      "translation_abdelhaleem": "thinking they will make him live for ever",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 4,
+      "arabic_uthmani": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+      "arabic_simple": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+      "arabic_clean": "كلا ۖ لينبذن في الحطمة",
+      "translation_saheeh": "No! He will surely be thrown into the Crusher",
+      "translation_abdelhaleem": "No indeed! He will be thrust into the Crusher",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 5,
+      "arabic_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+      "arabic_simple": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "arabic_clean": "وما ادراك ما الحطمة",
+      "translation_saheeh": "And what can make you know what is the Crusher",
+      "translation_abdelhaleem": "What will explain to you what the Crusher is",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 6,
+      "arabic_uthmani": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+      "arabic_simple": "نَارُ اللَّهِ الْمُوقَدَةُ",
+      "arabic_clean": "نار الله الموقدة",
+      "translation_saheeh": "It is the fire of Allah, [eternally] fueled",
+      "translation_abdelhaleem": "It is God’s Fire, made to blaze",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 7,
+      "arabic_uthmani": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "arabic_simple": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+      "arabic_clean": "التي تطلع على الافئدة",
+      "translation_saheeh": "Which mounts directed at the hearts",
+      "translation_abdelhaleem": "which rises over people’s hearts",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 8,
+      "arabic_uthmani": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةࣱ‏",
+      "arabic_simple": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+      "arabic_clean": "انها عليهم مؤصدة",
+      "translation_saheeh": "Indeed, Hellfire will be closed down upon them",
+      "translation_abdelhaleem": "It closes in on them",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    },
+    {
+      "surah_id": 104,
+      "ayah_number": 9,
+      "arabic_uthmani": "فِي عَمَدࣲ مُّمَدَّدَةِۭ",
+      "arabic_simple": "فِي عَمَدٍ مُمَدَّدَةٍ",
+      "arabic_clean": "في عمد ممددة",
+      "translation_saheeh": "In extended columns",
+      "translation_abdelhaleem": "in towering columns",
+      "juz_number": 30,
+      "page_number": 601,
+      "ruku_number": 546,
+      "sajda": false
+    }
+  ]
+}
