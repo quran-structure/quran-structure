@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ev_018_019_suyuti",
+    "relationship_id": "rel_018_019_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Surah Al-Kahf to Surah Maryam",
+    "original_quote": "ختم الكهف ببيان بشرية النبي صلى الله عليه وسلم وأنه يوحى إليه بالتوحيد، وافتتح مريم بذكر رحمته بعبده زكريا ثم يحيى وعيسى، رداً على من أخرجهم عن حد البشرية فادعى فيهم الولد، وتأكيداً لشرف العبودية.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that Al-Kahf concluded by establishing the Prophet's human mortality receiving revelation of Tawhid, and Maryam opened by recounting Allah's mercy to His human servants Zechariah, Yahya, and Isa, refuting those who claimed divine sonship for them and affirming the supreme honor of servanthood.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_018_019_biqai",
+    "relationship_id": "rel_018_019_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Maryam 19:1-5",
+    "original_quote": "لما سأل المشركون وأهل الكتاب في الكهف عن خوارق العادات في أصحاب الكهف وذي القرنين والخضر، أعقبها في مريم بما هو أعظم خرقاً للعادة في ولادة يحيى من عاقر وشيخ فان، وولادة عيسى من غير أب.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that when opponents questioned the Prophet about anomalies in Al-Kahf, Maryam followed by presenting even greater biological miracles: the birth of Yahya to an aged, barren couple and the birth of Isa without a human father.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_019_020_suyuti",
+    "relationship_id": "rel_019_020_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Maryam to Surah Taha",
+    "original_quote": "ختمت مريم بهلاك القرون الماضية وانقطاع أصواتهم: 'هل تحس منهم من أحد أو تسمع لهم ركزا'، فابتدئت طه بتسلية النبي صلى الله عليه وسلم ورفع الحرج عنه: 'ما أنزلنا عليك القرآن لتشقى'، فلا تهلك نفسك حزناً على تكذيبهم.",
+    "translation_or_paraphrase": "Al-Suyūṭī remarks that Maryam ended with the extinction of ancient generations into absolute silence, and Ṭā Hā immediately opened by comforting the Prophet and relieving his grief: 'We have not sent down to you the Qur'an that you should be distressed', telling him not to destroy himself over their denial.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_019_020_biqai",
+    "relationship_id": "rel_019_020_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Taha 20:1-6",
+    "original_quote": "فصلت طه قصة موسى التي أجملت في مريم، لبيان كيف لطف الله به في الشدائد منذ كان في اليم إلى أن أرسله لفرعون، تثبيتاً لفؤاد النبي صلى الله عليه وسلم.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that Ṭā Hā detailed the story of Musa which was mentioned briefly in Maryam, demonstrating Allah's subtle care for him through every trial from the river to confronting Pharaoh, firmly steadying the Prophet's heart.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_020_021_gharnati",
+    "relationship_id": "rel_020_021_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Taha wa Al-Anbiya",
+    "original_quote": "ختم طه بالتربص: 'قل كل متربص فتربصوا'، ثم فاجأهم في مطلع الأنبياء باقتراب الحساب: 'اقترب للناس حسابهم وهم في غفلة معرضون'، فقطع عليهم طول الأمل في الانتظار.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī writes that Ṭā Hā ended on the stance of mutual waiting ('Say: Each is waiting, so wait'), and Al-Anbiyā' immediately startled them with the nearing of the account: 'Approached for people is their reckoning while they are in heedlessness turning away', shattering complacency.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_020_021_suyuti",
+    "relationship_id": "rel_020_021_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Taha to Surah Al-Anbiya",
+    "original_quote": "قوله في آخر طه: 'فستعلمون من أصحاب الصراط السوي ومن اهتدى'، أوضح في الأنبياء سرعة مجيئه باقتراب الحساب، ثم ساق قصص الأنبياء الداعين إلى ذلك الصراط المستقيم.",
+    "translation_or_paraphrase": "Al-Suyūṭī points out that the promise ending Ṭā Hā ('You will know who are the companions of the sound path') is followed in Al-Anbiyā' by the swift approach of the reckoning, followed by the stories of the prophets who called humanity to that path.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_021_022_biqai",
+    "relationship_id": "rel_021_022_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Hajj 22:1-4",
+    "original_quote": "دعاء النبي في ختام الأنبياء: 'رب احكم بالحق'، أجيب في مطلع الحج ببيان حكم الحق الفاصل وهو زلزلة الساعة: 'يا أيها الناس اتقوا ربكم إن زلزلة الساعة شيء عظيم'.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that the Prophet's supplication concluding Al-Anbiyā' ('My Lord, judge in truth!') is answered at the beginning of Al-Ḥajj by revealing the decisive judgment: 'O mankind, fear your Lord; indeed the earthquake of the Hour is a tremendous thing.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_021_022_suyuti",
+    "relationship_id": "rel_021_022_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Anbiya to Surah Al-Hajj",
+    "original_quote": "افتتحت الأنبياء باقتراب الحساب وختمت بالدعاء بحكم الحق، فجاء افتتاح الحج ببيان أهوال ذلك الحساب عند قيام الساعة وتذهل كل مرضعة عما أرضعت.",
+    "translation_or_paraphrase": "Al-Suyūṭī notes that Al-Anbiyā' began with the near reckoning and ended with a plea for righteous judgment; Al-Ḥajj opens by describing the terrifying physical reality of that reckoning where every nursing mother forgets her infant.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_022_023_suyuti",
+    "relationship_id": "rel_022_023_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Hajj to Surah Al-Mu'minun",
+    "original_quote": "من أبدع التناسب في القرآن؛ ختم الحج بالأمر: 'فأقيموا الصلاة وآتوا الزكاة'، وافتتح المؤمنون بجزاء الممتثلين: 'قد أفلح المؤمنون الذين هم في صلاتهم خاشعون والذين هم للزكاة فاعلون'.",
+    "translation_or_paraphrase": "Al-Suyūṭī highlights this as one of the most exquisite transitions in the Qur'an: Al-Ḥajj closed with the command to establish prayer and give zakah, and Al-Mu'minūn opened by announcing the eternal success of those who live it: 'Certainly have the believers succeeded: those who are humble in their prayer and observant of zakah.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_022_023_gharnati",
+    "relationship_id": "rel_022_023_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Al-Hajj wa Al-Mu'minun",
+    "original_quote": "أمر في آخر الحج بالركوع والسجود وفعل الخير لعلكم تفلحون، وافتتح المؤمنين بتحقق ذلك الفلاح للمتقين: 'قد أفلح المؤمنون'.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī observes that Al-Ḥajj commanded bowing, prostrating, and doing good that you may succeed, and Al-Mu'minūn opened by confirming the realization of that success: 'Certainly will the believers have succeeded.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_023_024_suyuti",
+    "relationship_id": "rel_023_024_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Mu'minun to Surah An-Nur",
+    "original_quote": "ختمت المؤمنون بطلب المغفرة والرحمة، وجاءت النور بالحدود والآداب التي تصون المجتمع من الفواحش وقذف المحصنات، فكانت النور وسيلة لتحقيق الرحمة وصيانة الفروج المذكورة في صدر المؤمنين.",
+    "translation_or_paraphrase": "Al-Suyūṭī explains that Al-Mu'minūn ended with a plea for forgiveness and mercy, and An-Nūr arrived with the penal limits and etiquettes that preserve society from immorality and slander, embodying divine mercy and protecting the chastity emphasized in the opening of Al-Mu'minūn.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_023_024_biqai",
+    "relationship_id": "rel_023_024_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah An-Nur 24:1-5",
+    "original_quote": "وصف المؤمنين في السورة السابقة بأنهم لفروجهم حافظون، ثم افتتح النور بفرض السورة وتشريع حد الزنا والقذف ولعان الزوجين وحرمة البيوت، بياناً لكيفية حفظ الفروج عملياً.",
+    "translation_or_paraphrase": "Al-Biqāʿī shows that having described believers in the previous surah as guardians of their chastity, An-Nūr opened by making its laws obligatory—legislating punishments for adultery, false accusation, and privacy of homes—to provide practical protection for chastity.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_024_025_suyuti",
+    "relationship_id": "rel_024_025_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah An-Nur to Surah Al-Furqan",
+    "original_quote": "قوله في آخر النور: 'ألا إن لله ما في السموات والأرض'، قرن في مطلع الفرقان بقوله: 'تبارك الذي نزل الفرقان على عبده... الذي له ملك السموات والأرض'، فاتصل الملكان بالحمد والبركة.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that 'Unquestionably, to Allah belongs whatever is in the heavens and earth' at the end of An-Nūr is matched at the start of Al-Furqān with 'Blessed is He who sent down the Criterion... He to whom belongs dominion of the heavens and earth', uniting cosmic sovereignty with praise.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_024_025_biqai",
+    "relationship_id": "rel_024_025_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Furqan 25:1-5",
+    "original_quote": "النور نور الشريعة والآداب، والفرقان هو الحجة القاطعة الفاصلة بين الحق والباطل وكشف شبهات المشركين في شأن الرسول والقرآن.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that An-Nūr is the light of sacred law and social etiquette, while Al-Furqān is the decisive criterion discriminating truth from falsehood and exposing the doubts of polytheists regarding the Messenger and the Qur'an.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_025_026_suyuti",
+    "relationship_id": "rel_025_026_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Furqan to Surah Ash-Shu'ara",
+    "original_quote": "ختمت الفرقان بقوله: 'فقد كذبتم فسوف يكون لزاما'، وافتتحت الشعراء بتسلية النبي عن حزنه لتكذيبهم: 'لعلك باخع نفسك ألا يكونوا مؤمنين'، ثم بسط قصص تكذيب الأمم السابقة لرسلها.",
+    "translation_or_paraphrase": "Al-Suyūṭī remarks that Al-Furqān ended with 'You have denied, so [the punishment] will be unavoidable', and Ash-Shu'arā' opened by consoling the Prophet's sorrow over their denial: 'Perhaps you would kill yourself with grief because they will not believe', proceeding into the histories of ancient denied messengers.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_025_026_biqai",
+    "relationship_id": "rel_025_026_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Ash-Shu'ara 26:1-6",
+    "original_quote": "ذكر في ختام الفرقان دعاء عباد الرحمن، ثم جاءت الشعراء لتبين دعاء الأنبياء لأقوامهم وصبرهم على لجاجتهم، كنوح وهود وصالح ولوط وشعيب وموسى وإبراهيم.",
+    "translation_or_paraphrase": "Al-Biqāʿī points out that Al-Furqān concluded with the prayers of the Servants of the Merciful, and Ash-Shu'arā' followed by recounting the prayers, endurance, and patient perseverance of seven ancient messengers.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_026_027_gharnati",
+    "relationship_id": "rel_026_027_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Ash-Shu'ara wa An-Naml",
+    "original_quote": "استثنى في آخر الشعراء: 'إلا الذين آمنوا وعملوا الصالحات وذكروا الله كثيرا'، وافتتح النمل بأن هذا القرآن: 'هدى وبشرى للمؤمنين الذين يقيمون الصلاة ويؤتون الزكاة'.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī writes that Ash-Shu'arā' exempted those who believe, do righteous deeds, and remember Allah much, and An-Naml opened by declaring that this Qur'an is guidance and glad tidings specifically for those believers who pray and give zakah.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_026_027_suyuti",
+    "relationship_id": "rel_026_027_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Ash-Shu'ara to Surah An-Naml",
+    "original_quote": "السورتان من طواسين القرآن، قصت الأولى شطر قصة موسى وفرعون بإيجاز، واستأنفت النمل قصة داود وسليمان وما أوتيا من الملك والفضل.",
+    "translation_or_paraphrase": "Al-Suyūṭī explains that both belong to the Ṭawāsīn family; the former narrated the initial confrontation of Musa and Pharaoh, while An-Naml resumed with the unique royal bounty given to Dāwūd and Sulaymān.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_027_028_suyuti",
+    "relationship_id": "rel_027_028_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah An-Naml to Surah Al-Qasas",
+    "original_quote": "قوله في ختام النمل: 'وقل الحمد لله سيريكم آياته فتعرفونها'، فسرت في مطلع القصص بإظهار أعظم الآيات في نبأ موسى وفرعون، كيف نجاه رضيعاً في التابوت وأهلك فرعون وجنوده.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that 'And say: All praise is to Allah; He will show you His signs and you will recognize them' at the end of An-Naml is fulfilled at the start of Al-Qaṣaṣ by presenting the grandest historical sign: the story of Musa and Pharaoh, saving the infant in the basket and drowning Pharaoh and his armies.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_027_028_biqai",
+    "relationship_id": "rel_027_028_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Qasas 28:1-6",
+    "original_quote": "أظهرت النمل ملك سليمان ونفوذ سلطانه، وجاءت القصص لتبين نصرة المستضعفين وقهر الجبابرة، وأن الملك الحقيقي لله يؤتيه من يشاء وينجي به الضعفاء.",
+    "translation_or_paraphrase": "Al-Biqāʿī shows that while An-Naml displayed the righteous kingdom of Sulaymān, Al-Qaṣaṣ demonstrated the triumph of the oppressed over tyrants who abuse authority, proving that sovereign dominion belongs to Allah who rescues the weak.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_tawasin_suyuti",
+    "relationship_id": "rel_tawasin_trio_unity",
+    "source_id": "src_suyuti_itqan",
+    "exact_reference": "Al-Itqān fī ʿulūm al-Qur'ān, Al-Naw' 62",
+    "original_quote": "الطواسين الثلاث (الشعراء، النمل، القصص) تآخت في الافتتاح بالحروف المقطعة وتكاملت في بسط النبوات، ولا سيما قصة موسى التي اكتملت أطوارها الثلاثة بينها.",
+    "translation_or_paraphrase": "Al-Suyūṭī details that the three Ṭawāsīn (Ash-Shu'arā', An-Naml, Al-Qaṣaṣ) are unified by their opening letters and complement each other in narrating prophetic struggles, particularly the life of Musa whose three major phases are distributed across them.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_tawasin_biqai",
+    "relationship_id": "rel_tawasin_trio_unity",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Introduction to the Tawaaseen cluster",
+    "original_quote": "ترتيب الطواسين الثلاث معجزة في التدرج؛ فالأولى في إثبات الرسالة ودفع التكذيب، والثانية في إظهار الملك الصالح والشكر، والثالثة في هلاك المستكبرين وانتصار المستضعفين.",
+    "translation_or_paraphrase": "Al-Biqāʿī characterizes the sequence of the three Ṭawāsīn as an architectural masterpiece: the first establishes prophecy and refutes denial, the second exhibits righteous kingship and gratitude, and the third reveals the ruin of tyrants and victory of the oppressed.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

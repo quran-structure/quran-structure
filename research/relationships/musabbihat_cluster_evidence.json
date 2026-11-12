@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ev_056_057_suyuti",
+    "relationship_id": "rel_056_057_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar fī tanāsub al-suwar, Surah Al-Waqi'ah to Surah Al-Hadid",
+    "original_quote": "ختم الواقعة بالأمر بالتسبيح: 'فسبح باسم ربك العظيم'، وافتتح الحديد بالإخبار بوقوع التسبيح من أهل السموات والأرض: 'سبح لله ما في السموات والأرض'، فكان افتتاح الثانية دليلاً على امتثال ما أمر به في خاتمة الأولى.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that Al-Wāqi'ah closes with the command to glorify: 'So exalt the name of your Lord, the Most Great', and Al-Ḥadīd immediately opens by reporting the fulfillment of that glorification across heavens and earth: 'Whatever is in the heavens and earth exalts Allah', linking command directly to cosmic realization.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_056_057_biqai",
+    "relationship_id": "rel_056_057_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Hadid 57:1-6",
+    "original_quote": "لما انتهت الواقعة ببيان أحوال الفرق الثلاث ومآلهم، ناسب أن تفتتح الحديد ببيان عظمة الرب الذي إليه مصيرهم، وأنه الأول والآخر والظاهر والباطن، وأن الكائنات كلها خاضعة لجلاله مسبحة بحمده.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that when Al-Wāqi'ah concluded with the destiny of the three cohorts, Al-Ḥadīd naturally opened by detailing the majesty of the Lord to whom they return—The First, The Last, The Ascendant, The Intimate—and that all creation is humbled in praise of His majesty.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_057_058_suyuti",
+    "relationship_id": "rel_057_058_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Hadid to Surah Al-Mujadilah",
+    "original_quote": "ختم الحديد بذكر فضل الله وسعة علمه: 'وأن الفضل بيد الله يؤتيه من يشاء والله ذو الفضل العظيم'، وافتتح المجادلة بإظهار هذا الفضل والسمع الإلهي لامرأة ضعيفة تشتكي من فوق سبع سموات: 'قد سمع الله قول التي تجادلك في زوجها'.",
+    "translation_or_paraphrase": "Al-Suyūṭī demonstrates that Al-Ḥadīd concluded by asserting Allah's boundless bounty and encompassing knowledge, and Al-Mujādilah opened by proving that divine hearing and grace in the complaint of a vulnerable woman heard from above the seven heavens.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_057_058_ibn_ashur",
+    "relationship_id": "rel_057_058_transition",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Surah Al-Mujadilah 58:1",
+    "original_quote": "ذكر في ختام الحديد الرهبانية التي ابتدعها السابقون، فافتتح المجادلة ببيان إبطال تحريم ما أحل الله من أحكام الظهار الجاهلية التي هي من جنس التضييق والرهبانية، وتشريع الكفارة حفظاً للأسرة.",
+    "translation_or_paraphrase": "Ibn ʿĀshūr explains that after Al-Ḥadīd warned against the monastic asceticism innovated by previous nations, Al-Mujādilah opened by abolishing the pre-Islamic pagan estrangement (Zihār), establishing just expiation to preserve marital unity.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_058_059_biqai",
+    "relationship_id": "rel_058_059_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Hashr 59:1-5",
+    "original_quote": "ختمت المجادلة بأن حزب الله هم المفلحون وحزب الشيطان هم الخاسرون، وافتتحت الحشر ببيان نصرة حزب الله وإجلاء بني النضير من ديارهم لكونهم شاقوا الله ورسوله.",
+    "translation_or_paraphrase": "Al-Biqāʿī shows that Al-Mujādilah closed by declaring that the Party of Allah are the successful while the party of Satan are losers, and Al-Ḥashr opened by proving that victory through the historical eviction of Banū al-Naḍīr from their fortresses because they opposed Allah and His Messenger.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_058_059_gharnati",
+    "relationship_id": "rel_058_059_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, Surah Al-Mujadilah wa Al-Hashr",
+    "original_quote": "الصلة بين السورتين جلية؛ فخاتمة المجادلة بينت عدم موالاة من حاد الله ورسوله، وأول الحشر أوقع العقوبة بمن حاد الله ورسوله من أهل الكتاب، وسماها ابن عباس سورة بني النضير.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī writes that the link is evident: the end of Al-Mujādilah forbade showing affection to those who oppose Allah and His Messenger, and the start of Al-Ḥashr executes retribution upon those who opposed Allah and His Messenger among the People of the Scripture.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_059_060_gharnati",
+    "relationship_id": "rel_059_060_transition",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, Surah Al-Hashr wa Al-Mumtahanah",
+    "original_quote": "لما انتهت الحشر بتعظيم الملك القدوس العزيز الحكيم المسبح له ما في السموات والأرض، افتتحت الممتحنة بالنهي عن موالاة أعدائه: 'لا تتخذوا عدوي وعدوكم أولياء تلقون إليهم بالمودة'.",
+    "translation_or_paraphrase": "Ibn al-Zubayr al-Gharnāṭī observes that when Al-Ḥashr concluded with the glorification of the Sovereign, the Pure, the Mighty, the Wise, Al-Mumtaḥanah opened by prohibiting allegiance to His enemies: 'Do not take My enemies and your enemies as allies, extending to them affection'.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_059_060_suyuti",
+    "relationship_id": "rel_059_060_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Hashr to Surah Al-Mumtahanah",
+    "original_quote": "ذكر في الحشر موالاة المنافقين لليهود وقولهم: 'لئن أخرجتم لنخرجن معكم'، فحذر في الممتحنة المؤمنين من إلقاء المودة للمشركين كما فعل حاطب بن أبي بلتعة.",
+    "translation_or_paraphrase": "Al-Suyūṭī points out that Al-Ḥashr detailed the hypocrites' secret alliance with the disbelievers, and Al-Mumtaḥanah immediately cautioned the believers against extending secret intelligence and affection to the pagans.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_060_061_suyuti",
+    "relationship_id": "rel_060_061_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Mumtahanah to Surah As-Saff",
+    "original_quote": "ختمت الممتحنة بالنهي عن تولي من غضب الله عليهم، وافتتحت الصف بالتسبيح والأمر بالثبات في القتال كالبنيان المرصوص والنهي عن مخالفة القول للفعل.",
+    "translation_or_paraphrase": "Al-Suyūṭī remarks that Al-Mumtaḥanah ended by forbidding loyalty to those under divine wrath, and Aṣ-Ṣaff opened with Tasbīḥ, demanding firmness in battle as a solid lead-cemented structure and condemning the disconnect between speech and action.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_060_061_biqai",
+    "relationship_id": "rel_060_061_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah As-Saff 61:1-4",
+    "original_quote": "بينت الممتحنة أحكام العلاقات الخارجية مع العدو، وجاءت الصف لترتيب الصف الداخلي للمؤمنين وتحذيرهم من التخاذل، وفرض الانضباط القتالي الصادق.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that while Al-Mumtaḥanah settled the external treaties and relations with adversaries, Aṣ-Ṣaff arrived to organize the internal ranks of the believers, warning against hollow claims and imposing sincere discipline.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_061_062_biqai",
+    "relationship_id": "rel_061_062_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah Al-Jumu'ah 62:1-4",
+    "original_quote": "ختمت الصف بذكر الحواريين أنصار عيسى، وافتتحت الجمعة ببعثة النبي الخاتم في الأميين يتلو عليهم آياته ويزكيهم، وتحول صيغة التسبيح إلى المضارع 'يسبح' دلالة على استمرار هذا الفضل والتزكية في أمة الجمعة.",
+    "translation_or_paraphrase": "Al-Biqāʿī notes that Aṣ-Ṣaff ended with the disciples supporting Jesus, and Al-Jumu'ah opened by announcing the mission of the Seal of Prophets sent to the unlettered, shifting the Tasbīḥ to the present continuous tense (Yusabbiḥu) to signify ongoing praise and purification through the Friday congregation.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_061_062_ibn_ashur",
+    "relationship_id": "rel_061_062_transition",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Surah Al-Jumu'ah 62:1-2",
+    "original_quote": "بشر عيسى في سورة الصف برسول يأتي من بعده اسمه أحمد، فجاءت الجمعة لتعلن تحقق تلك البشارة: 'هو الذي بعث في الأميين رسولا منهم'، وتوبخ بني إسرائيل الذين كذبوا به كمثل الحمار يحمل أسفارا.",
+    "translation_or_paraphrase": "Ibn ʿĀshūr explains that Jesus in Aṣ-Ṣaff gave tidings of a Messenger to come named Ahmad, and Al-Jumu'ah opened by announcing the realization of that tiding: 'It is He who sent among the unlettered a Messenger from themselves', rebuking the deniers among the Israelites as donkeys laden with books.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_062_063_suyuti",
+    "relationship_id": "rel_062_063_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Jumu'ah to Surah Al-Munafiqun",
+    "original_quote": "عاتب الله في آخر الجمعة من انفض إلى التجارة وترك النبي قائما، ثم أعقبها بسورة المنافقين الذين لا يرجون الله ولا الدار الآخرة وإنما اتخذوا أيمانهم جنة وستروا نفاقهم في المسجد.",
+    "translation_or_paraphrase": "Al-Suyūṭī shows that after Allah admonished those who rushed to commerce leaving the Prophet standing during the sermon, He immediately followed it with Al-Munāfiqūn to reveal the true conspirators whose entire participation in worship was a facade of perjury.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_062_063_razi",
+    "relationship_id": "rel_062_063_transition",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Surah Al-Munafiqun 63:1-3",
+    "original_quote": "الانفضاض إلى التجارة في الجمعة معصية وغفلة، لكن النفاق كفر وخديعة، فقرن بين التنبيه على خطورة حب الدنيا وبين كشف أهل النفاق الذين قادهم حب الدنيا والرياسة إلى إبطان الكفر.",
+    "translation_or_paraphrase": "Fakhr al-Dīn al-Rāzī observes that turning away to commerce during the sermon was a lapse of heedlessness, but hypocrisy is treacherous disbelief; the Qur'an paired the warning against excessive worldly absorption with unmasking the hypocrites whose love of power led them to conceal disbelief.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_063_064_suyuti",
+    "relationship_id": "rel_063_064_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah Al-Munafiqun to Surah At-Taghabun",
+    "original_quote": "ختم المنافقين بذكر الحسرة عند الموت وطلب التأخير للصدقة، وافتتح التغابن بالتسبيح وبيان يوم التغابن الأكبر حيث يغبن أهل الباطل في تجارتهم الدنيوية ويربح أهل الصدقة والإيمان.",
+    "translation_or_paraphrase": "Al-Suyūṭī demonstrates that Al-Munāfiqūn ended with the deathbed agony of the hoarder begging for delay to give charity, and At-Taghābun opened by declaring the Day of Mutual Loss and Gain where worldly hoarders discover their infinite bankruptcy while charitable believers inherit boundless profit.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_063_064_biqai",
+    "relationship_id": "rel_063_064_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah At-Taghabun 64:1-9",
+    "original_quote": "حذر في المنافقين من فتنة الأموال والأولاد، وجاءت التغابن لتبين حقيقة العداوة في بعض الأزواج والأولاد إذا صدوا عن طاعة الله، وترغب في القرض الحسن الذي يضاعفه الله ويغفر به.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that Al-Munāfiqūn warned against distraction by wealth and children, and At-Taghābun reveals how spouses and children can become a trial of enmity if they avert one from Allah, directing humanity toward the beautiful loan that Allah multiplies.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_064_065_biqai",
+    "relationship_id": "rel_064_065_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah At-Talaq 65:1-5",
+    "original_quote": "لما ذكر في التغابن عداوة بعض الأزواج ودعا إلى العفو والتقوى، شرع في الطلاق أحكام الفراق بالمعروف إذا تعذرت العشرة، وضمن للمتقين المخرج والرزق من حيث لا يحتسبون.",
+    "translation_or_paraphrase": "Al-Biqāʿī notes that when At-Taghābun identified domestic friction with spouses and urged forgiveness and Taqwā, Aṭ-Ṭalāq legislated dignified divorce when reconciliation fails, guaranteeing those with Taqwā divine deliverance and uncalculated provision.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_064_065_suyuti",
+    "relationship_id": "rel_064_065_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah At-Taghabun to Surah At-Talaq",
+    "original_quote": "تكرر الأمر بالتقوى في ختام التغابن: 'فاتقوا الله ما استطعتم'، وتكرر في الطلاق جزاء المتقين في أربع آيات، فكانت الطلاق تفصيلاً تطبيقياً لتقوى الله في أصعب المواقف الأسرية.",
+    "translation_or_paraphrase": "Al-Suyūṭī highlights that the command to have Taqwā at the end of At-Taghābun is answered in Aṭ-Ṭalāq across four distinct verses promising ease, forgiveness, and deliverance, making Aṭ-Ṭalāq a concrete application of Taqwā during domestic crises.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_065_066_suyuti",
+    "relationship_id": "rel_065_066_transition",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Surah At-Talaq to Surah At-Tahrim",
+    "original_quote": "ختم الطلاق بإحاطة علم الله بكل شيء في السموات السبع والأرض، وافتتح التحريم بإظهار هذا العلم الإلهي المحيط لسر أسره النبي لبعض أزواجه، فقالت من أنبأك هذا قال نبأني العليم الخبير.",
+    "translation_or_paraphrase": "Al-Suyūṭī demonstrates that Aṭ-Ṭalāq closed with Allah's knowledge encompassing all things in seven heavens and earth, and At-Taḥrīm opened by illustrating that very omniscience uncovering a private secret confided by the Prophet to his wife: 'Who told you this? He said, I was informed by the All-Knowing, the All-Acquainted.'",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_065_066_biqai",
+    "relationship_id": "rel_065_066_transition",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Surah At-Tahrim 66:1-6",
+    "original_quote": "الطلاق خاصة بالأمة، والتحريم في بيت النبوة، فجمعت السورتان تشريع الأسرة في العموم والخصوص، وتوجتا بضرب الأمثال بالنساء الصالحات مريم وامرأة فرعون.",
+    "translation_or_paraphrase": "Al-Biqāʿī explains that Aṭ-Ṭalāq addressed marital laws across the general Muslim community, while At-Taḥrīm addressed the prophetic household itself, synthesizing general and specific domestic balance and culminating in the archetypal role models of Asiyah and Maryam.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_musabbihat_irbad",
+    "relationship_id": "rel_musabbihat_macro_unity",
+    "source_id": "src_tabari",
+    "exact_reference": "Faḍā'il al-Musabbiḥāt; Sunan Abī Dāwūd [5057], Jāmi' al-Tirmidhī [2921]",
+    "original_quote": "عن العرباض بن سارية رضي الله عنه أن النبي صلى الله عليه وسلم كان لا ينام حتى يقرأ المسبحات، ويقول: فيهن آية خير من ألف آية.",
+    "translation_or_paraphrase": "Authentic Hadith of 'Irbāḍ ibn Sāriyah that the Prophet (ﷺ) would not sleep until he recited the Musabbiḥāt, stating that in them is a verse better than a thousand verses.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_musabbihat_zarkashi",
+    "relationship_id": "rel_musabbihat_macro_unity",
+    "source_id": "src_zarkashi_burhan",
+    "exact_reference": "Al-Burhān fī ʿulūm al-Qur'ān, Al-Naw' 35: Fī Ma'rifat Munāsabāt al-Āyāt wa al-Suwar",
+    "original_quote": "بدئت المسبحات بالماضي (سبح) في الحديد والحشر والصف، ثم انتقلت إلى المضارع (يسبح) في الجمعة والتغابن، للدلالة على أن التسبيح واقع في الماضي باستقرار، ومستمر في الحاضر والمستقبل بلا انقطاع.",
+    "translation_or_paraphrase": "Al-Zarkashī analyzes the grammatical movement in the Musabbiḥāt: beginning with the past tense (Sabbaḥa in 57, 59, 61) to signify established pre-eternal praise, then shifting to the present continuous (Yusabbiḥu in 62, 64) to indicate ceaseless, perpetual glorification across present and future time.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

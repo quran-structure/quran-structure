@@ -1,0 +1,167 @@
+[
+  {
+    "id": "rel_018_019_transition",
+    "from_type": "surah",
+    "from_id": "surah:18",
+    "to_type": "surah",
+    "to_id": "surah:19",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Al-Kahf ending with the human reality of the Messenger receiving Tawhid to Maryam opening with the miraculous mercy bestowed upon His mortal servant Zechariah, followed by the birth of Yahya and Isa.",
+    "evidence_ids": [
+      "ev_018_019_suyuti",
+      "ev_018_019_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_019_020_transition",
+    "from_type": "surah",
+    "from_id": "surah:19",
+    "to_type": "surah",
+    "to_id": "surah:20",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Maryam closing with the haunting silence of destroyed ancient nations to Ṭā Hā comforting the Prophet that the Qur'an was not sent down for him to suffer distress, followed by the consoling trials of Musa.",
+    "evidence_ids": [
+      "ev_019_020_suyuti",
+      "ev_019_020_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_020_021_transition",
+    "from_type": "surah",
+    "from_id": "surah:20",
+    "to_type": "surah",
+    "to_id": "surah:21",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Ṭā Hā ending on mutual waiting ('Each of us is waiting, so wait') to Al-Anbiyā' opening with the shocking declaration that the reckoning has drawn near while people turn away in heedlessness.",
+    "evidence_ids": [
+      "ev_020_021_gharnati",
+      "ev_020_021_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_021_022_transition",
+    "from_type": "surah",
+    "from_id": "surah:21",
+    "to_type": "surah",
+    "to_id": "surah:22",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the Prophet's concluding prayer in Al-Anbiyā' ('My Lord, judge in truth!') to Al-Ḥajj opening with the catastrophic onset of that truth: the earthquake of the Final Hour that will judge all disputes.",
+    "evidence_ids": [
+      "ev_021_022_biqai",
+      "ev_021_022_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_022_023_transition",
+    "from_type": "surah",
+    "from_id": "surah:22",
+    "to_type": "surah",
+    "to_id": "surah:23",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from the closing command of Al-Ḥajj ('Establish prayer, give zakah, and hold fast to Allah') to Al-Mu'minūn opening by declaring the ultimate triumph of those who fulfill that command ('Certainly will the believers succeed').",
+    "evidence_ids": [
+      "ev_022_023_suyuti",
+      "ev_022_023_gharnati"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_023_024_transition",
+    "from_type": "surah",
+    "from_id": "surah:23",
+    "to_type": "surah",
+    "to_id": "surah:24",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Al-Mu'minūn concluding with the prayer for divine mercy and highlighting chastity to An-Nūr establishing the concrete judicial and ethical charter protecting modesty, domestic privacy, and marital chastity.",
+    "evidence_ids": [
+      "ev_023_024_suyuti",
+      "ev_023_024_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_024_025_transition",
+    "from_type": "surah",
+    "from_id": "surah:24",
+    "to_type": "surah",
+    "to_id": "surah:25",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from An-Nūr closing with Allah's dominion and knowledge of all that is in heavens and earth to Al-Furqān opening with Tabāraka celebrating the descent of the Criterion upon His servant to warn all worlds.",
+    "evidence_ids": [
+      "ev_024_025_suyuti",
+      "ev_024_025_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_025_026_transition",
+    "from_type": "surah",
+    "from_id": "surah:25",
+    "to_type": "surah",
+    "to_id": "surah:26",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Al-Furqān warning that rejection brings inevitable retribution to Ash-Shu'arā' comforting the Prophet's distress over their obstinacy and recounting seven historical prophetic vindications.",
+    "evidence_ids": [
+      "ev_025_026_suyuti",
+      "ev_025_026_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_026_027_transition",
+    "from_type": "surah",
+    "from_id": "surah:26",
+    "to_type": "surah",
+    "to_id": "surah:27",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from Ash-Shu'arā' exempting and praising believers who remember Allah much to An-Naml declaring the Qur'an as guidance and glad tidings specifically for those believers who pray and give zakah.",
+    "evidence_ids": [
+      "ev_026_027_gharnati",
+      "ev_026_027_suyuti"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_027_028_transition",
+    "from_type": "surah",
+    "from_id": "surah:27",
+    "to_type": "surah",
+    "to_id": "surah:28",
+    "relationship_type": "adjacent_surah_transition",
+    "description": "Transition from An-Naml closing with the promise that Allah will show His signs to Al-Qaṣaṣ opening with the supreme historical sign: the providential victory of the infant Musa over Pharaoh's empire.",
+    "evidence_ids": [
+      "ev_027_028_suyuti",
+      "ev_027_028_biqai"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "review_status": "verified"
+  },
+  {
+    "id": "rel_tawasin_trio_unity",
+    "from_type": "surah",
+    "from_id": "surah:26",
+    "to_type": "surah",
+    "to_id": "surah:28",
+    "relationship_type": "structural_parallel",
+    "description": "The macro-architectural unity of the Ṭawāsīn trio (Ash-Shu'arā', An-Naml, Al-Qaṣaṣ): all opening with disjointed letters Ṭā-Sīn-Mīm / Ṭā-Sīn, expounding prophetic vindication and divine signs across complementary lenses of struggle, sovereign majesty, and oppressed triumph.",
+    "evidence_ids": [
+      "ev_tawasin_suyuti",
+      "ev_tawasin_biqai"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "review_status": "verified"
+  }
+]

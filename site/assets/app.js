@@ -90,10 +90,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     if (allIn(nums, 1, 9)) return 'tiwal';
     if (allIn(nums, 9, 18)) return 'prophetic';
+    if (allIn(nums, 18, 28)) return 'narrative';
     if (allIn(nums, 39, 47)) return 'hawamim';
-    if (allIn(nums, 54, 57)) return 'eschatological';
+    if (allIn(nums, 57, 66) || (nums.includes(56) && nums.includes(57))) return 'musabbihat';
+    if (allIn(nums, 54, 56)) return 'eschatological';
     if (nums.every(n => n >= 105) || (nums.includes(114) && nums.includes(1))) return 'final';
-    if (nums.some(n => n === 23 || n === 28)) return 'matali';
     return 'other';
   }
 
@@ -263,35 +264,38 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Define Cluster Subsets
     const clusterDefinitions = {
       tiwal: {
-        title: 'The Seven Long Surahs (Al-Sabʿ al-Ṭiwāl)',
-        surahIds: [1, 2, 3, 4, 5, 6, 7, 8, 9],
-        yOffset: 80
+        title: 'The Seven Long Surahs (Al-Sabʿ al-Ṭiwāl: 1–9)',
+        surahIds: [1, 2, 3, 4, 5, 6, 7, 8, 9]
       },
       prophetic: {
-        title: 'The Prophetic & Wisdom Cluster',
-        surahIds: [10, 11, 12, 13, 14, 15, 16, 17, 18],
-        yOffset: 80
+        title: 'The Prophetic & Wisdom Cluster (10–18)',
+        surahIds: [10, 11, 12, 13, 14, 15, 16, 17, 18]
+      },
+      narrative: {
+        title: 'Deliverance & Prophetic Narrative Continuum (19–28)',
+        surahIds: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
       },
       hawamim: {
-        title: 'The Ḥawāmīm Silk Brocades (Dībāj al-Qur\'ān)',
-        surahIds: [39, 40, 41, 42, 43, 44, 45, 46, 47],
-        yOffset: 80
+        title: 'The Ḥawāmīm Silk Brocades (Dībāj al-Qur\'ān: 39–47)',
+        surahIds: [39, 40, 41, 42, 43, 44, 45, 46, 47]
       },
       eschatological: {
-        title: 'Cosmic Signs & Eschatological Realities',
-        surahIds: [54, 55, 56, 57],
-        yOffset: 80
+        title: 'Cosmic Signs & Eschatological Realities (54–57)',
+        surahIds: [54, 55, 56, 57]
+      },
+      musabbihat: {
+        title: 'The Musabbiḥāt & Medinan Order Cluster (57–66)',
+        surahIds: [57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
       },
       final: {
-        title: 'The Final Surahs Cluster & Grand Cosmic Seal',
-        surahIds: [105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
-        yOffset: 80
+        title: 'The Final Surahs Cluster & Grand Cosmic Seal (105–114 & 114➔1)',
+        surahIds: [105, 106, 107, 108, 109, 110, 111, 112, 113, 114]
       }
     };
 
     let activeClusters = [];
     if (cluster === 'all') {
-      activeClusters = ['tiwal', 'prophetic', 'hawamim', 'eschatological', 'final'];
+      activeClusters = ['tiwal', 'prophetic', 'narrative', 'hawamim', 'musabbihat', 'final'];
     } else if (clusterDefinitions[cluster]) {
       activeClusters = [cluster];
     }
