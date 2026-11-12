@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ev_105_106_biqai_protection",
+    "relationship_id": "rel_105_106_sanctuary_security",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar fī tanāsub al-āyāt wa al-suwar, Vol. 22, pp. 310-315",
+    "original_quote": "إهلاك أصحاب الفيل في السورة السابقة كان علة لما امتن به على قريش في هذه السورة من الإيلاف والأمن وإطعامهم من جوع.",
+    "translation_or_paraphrase": "The destruction of the Companions of the Elephant in the preceding surah was the direct cause for the bounty bestowed upon Quraysh in this surah: familiarity, security, and feeding them against hunger.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_105_106_suyuti_ilaf",
+    "relationship_id": "rel_105_106_sanctuary_security",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, Ed. ʿAṭā, p. 154",
+    "original_quote": "سورة قريش متصلة بالفيل في المعنى اتصالاً وثيقاً كأنها علة لها، ولذلك لم يفصل بينهما بعض الصحابة في مصحفه.",
+    "translation_or_paraphrase": "Surah Quraysh is connected to Al-Fil in meaning with an intimate link as though it is its rationale, which is why some Companions did not separate them in their private codices.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_106_107_razi_antithesis",
+    "relationship_id": "rel_106_107_gratitude_hypocrisy",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 32, p. 108",
+    "original_quote": "أمر في قريش بعبادة رب هذا البيت وشكر نعمة الإطعام والأمن، فجاءت الماعون تذم من كفر بهذه النعمة فدفع اليتيم ولم يحض على طعام المسكين وسها عن الصلاة.",
+    "translation_or_paraphrase": "He commanded in Quraysh the worship of the Lord of this House and gratitude for food and security; then Al-Ma'un arrived condemning whoever was ungrateful for this bounty, driving away the orphan, failing to encourage feeding the poor, and neglecting prayer.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_106_107_biqai_contrast",
+    "relationship_id": "rel_106_107_gratitude_hypocrisy",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, p. 320",
+    "original_quote": "المكذب بالدين في الماعون هو المقابل التام لمن حقق عبادة رب هذا البيت في سورة قريش.",
+    "translation_or_paraphrase": "The denier of recompense in Al-Ma'un is the exact opposite of the one who realizes the worship of the Lord of this House in Surah Quraysh.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_107_108_razi_four_mirrors",
+    "relationship_id": "rel_107_108_withholding_abundance",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 32, p. 118",
+    "original_quote": "تقابلت سورة الماعون وسورة الكوثر في أربعة أمور: البخل في الماعون قابله الإعطاء الجزيل في الكوثر، والرياء في الصلاة قابله الإخلاص {فَصَلِّ لِرَبِّكَ}، ومنع الماعون قابله بذل أفضل النحر {وَانْحَرْ}، وذم العاصي قابله بتر شانئه ومبغضه.",
+    "translation_or_paraphrase": "Surah Al-Ma'un and Surah Al-Kawthar correspond in four exact matters: miserliness in Al-Ma'un is mirrored by immense divine giving in Al-Kawthar; ostentation in prayer is mirrored by sincere prayer {Pray to your Lord}; withholding small charity is mirrored by offering the supreme animal sacrifice {and sacrifice}; and the condemnation of the sinner is mirrored by the severing of the Prophet's enemy.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_107_108_suyuti_counterweight",
+    "relationship_id": "rel_107_108_withholding_abundance",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 156",
+    "original_quote": "جاءت سورة الكوثر موازنة تامة لما تقدم في الماعون من خصال الذم.",
+    "translation_or_paraphrase": "Surah Al-Kawthar came as a complete, perfect counter-balance to the blameworthy traits presented in Al-Ma'un.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_108_109_gharnati_iklas_amal",
+    "relationship_id": "rel_108_109_devotion_disavowal",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān fī tartīb suwar al-Qur'ān, p. 348",
+    "original_quote": "لما أمره في الكوثر بإخلاص الصلاة والنسك لربه وحده، أمره في الكافرين بالبراءة الصريحة من عبادة غير الله.",
+    "translation_or_paraphrase": "When He commanded him in Al-Kawthar to dedicate prayer and sacrifice purely to his Lord alone, He commanded him in Al-Kafirun to make explicit disavowal from the worship of anything besides Allah.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_108_109_biqai_disavowal",
+    "relationship_id": "rel_108_109_devotion_disavowal",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, p. 330",
+    "original_quote": "سورة الكافرون تحقيق لمقتضى قوله: {فَصَلِّ لِرَبِّكَ} بقطع كل شركة في الدين.",
+    "translation_or_paraphrase": "Surah Al-Kafirun is the fulfillment of what is demanded by His saying: {So pray to your Lord} by severing all partnership in religion.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_109_110_suyuti_triumph",
+    "relationship_id": "rel_109_110_creed_victory",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 158",
+    "original_quote": "سورة الكافرون فيها إعلان التوحيد عند الضعف، وسورة النصر فيها جزاء ذلك الإعلان بالفتح ودخول الناس في دين الله أفواجاً.",
+    "translation_or_paraphrase": "Surah Al-Kafirun contains the public proclamation of monotheism during weakness, and Surah An-Nasr contains the divine reward for that proclamation with victory and people entering Allah's religion in multitudes.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_109_110_biqai_conquest",
+    "relationship_id": "rel_109_110_creed_victory",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, p. 340",
+    "original_quote": "النصر ثمرة الثبات على المبدأ المذكور في الكافرون.",
+    "translation_or_paraphrase": "Divine victory is the fruit of steadfastness upon the monotheistic principle articulated in Al-Kafirun.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_110_111_gharnati_ruin",
+    "relationship_id": "rel_110_111_conquest_persecutor",
+    "source_id": "src_gharnati",
+    "exact_reference": "Al-Burhān, p. 352",
+    "original_quote": "بشر في النصر بظهور الدين ودخول الناس فيه، وأتبع ذلك ببيان خيبة رأس المعاندين أبي لهب وتبابه.",
+    "translation_or_paraphrase": "He gave glad tidings in An-Nasr of the triumph of the religion and crowds entering it, and followed that with the clarification of the ruin and damnation of the chief opponent, Abu Lahab.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_110_111_biqai_justice",
+    "relationship_id": "rel_110_111_conquest_persecutor",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, p. 350",
+    "original_quote": "سورة المسد بيان أن قرابة النسب لا تنفع مع كفر، كما أن النصر بين أن العزة لله ولدينه.",
+    "translation_or_paraphrase": "Surah Al-Masad clarifies that biological kinship offers no benefit when combined with disbelief, just as An-Nasr showed that all honor belongs to Allah and His religion.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_111_112_suyuti_transcendence",
+    "relationship_id": "rel_111_112_perished_eternal",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 160",
+    "original_quote": "لما ذكر في المسد هلاك أبي لهب وولده وماله، ذكر في الإخلاص صفة الإله الحق الصمد المنزه عن الوالد والولد.",
+    "translation_or_paraphrase": "When He mentioned in Al-Masad the destruction of Abu Lahab, his children, and his wealth, He mentioned in Al-Ikhlas the attributes of the true God, As-Samad, who is transcendent above having parent or offspring.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_111_112_razi_nasab",
+    "relationship_id": "rel_111_112_perished_eternal",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 32, p. 175",
+    "original_quote": "سأل المشركون عن نسب الله تعالى، فأنزل الله سورة الإخلاص تنزيهاً له عن النسب والمثْل.",
+    "translation_or_paraphrase": "The polytheists asked about the lineage of Allah, so Allah revealed Surah Al-Ikhlas to declare His absolute transcendence above lineage and peers.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_112_113_biqai_refuge",
+    "relationship_id": "rel_112_113_creator_external_refuge",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, p. 360",
+    "original_quote": "سورة الإخلاص معرفة المعبود بالكمال، والمعوذتان التماس حمايته من كل شر.",
+    "translation_or_paraphrase": "Surah Al-Ikhlas is knowing the divine Object of worship in His perfection, and the Mu'awwidhatayn are seeking His protection from all evil.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_112_113_suyuti_falaq",
+    "relationship_id": "rel_112_113_creator_external_refuge",
+    "source_id": "src_suyuti_tanasuq",
+    "exact_reference": "Tanāsuq al-durar, p. 162",
+    "original_quote": "تدرج التنزيل من تقرير التوحيد النظري في الإخلاص إلى الالتجاء العملي إلى الرب الحامي في الفلق والناس.",
+    "translation_or_paraphrase": "The revelation progressed from establishing theoretical monotheism in Al-Ikhlas to seeking practical sanctuary with the protecting Lord in Al-Falaq and An-Nas.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_113_114_razi_body_soul",
+    "relationship_id": "rel_113_114_external_internal_refuge",
+    "source_id": "src_razi",
+    "exact_reference": "Mafātīḥ al-ghayb, Vol. 32, p. 195",
+    "original_quote": "في سورة الفلق استعاذ بصفة واحدة من أربعة شرور لأنها شرور الأبدان والدنيا، وفي سورة الناس استعاذ بثلاث صفات (الرب، الملك، الإله) من شر واحد وهو الوسواس الخناس، لأن ضرر الدين وإفساد الإيمان في القلب أعظم من كل ضرر يصيب البدن.",
+    "translation_or_paraphrase": "In Surah Al-Falaq, refuge is sought by a single attribute against four evils because they are physical and worldly evils. In Surah An-Nas, refuge is sought by three divine attributes (the Lord, the King, the God) against a single evil: the retreating whisperer. This is because harm to religion and corruption of faith in the heart is infinitely more perilous than any harm afflicting the physical body.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_113_114_ibn_ashur_teleology",
+    "relationship_id": "rel_113_114_external_internal_refuge",
+    "source_id": "src_ibn_ashur",
+    "exact_reference": "Al-Taḥrīr wa al-tanwīr, Vol. 30, pp. 631-635",
+    "original_quote": "تكاملت المعوذتان: فالفلق للشرور الظاهرة والمادية، والناس للشرور الباطنة النفسانية والوساوس الشيطانية.",
+    "translation_or_paraphrase": "The Mu'awwidhatayn form a complete synthesis: Al-Falaq is for manifest and physical evils, while An-Nas is for hidden, psychological evils and satanic whisperings.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_114_001_zarkashi_burhan_envelope",
+    "relationship_id": "rel_114_001_grand_cosmic_seal",
+    "source_id": "src_zarkashi_burhan",
+    "exact_reference": "Al-Burhān fī ʿulūm al-Qur'ān, Type 35, Vol. 1, p. 42",
+    "original_quote": "انظر كيف التقت خاتمة القرآن بفاتحته: بدأ بالحمد لله رب العالمين، وختم بالاستعاذة برب الناس، وبدأ بذكر ملك يوم الدين وختم بملك الناس، وبدأ بإياك نعبد وختم بإله الناس، فكان أوله وآخره محيطاً بكمال التوحيد.",
+    "translation_or_paraphrase": "Behold how the conclusion of the Qur'an meets its opening: it began with 'Praise be to Allah, Lord of the worlds' and concluded with seeking refuge in the 'Lord of mankind'; it began with mentioning the 'King of the Day of Recompense' and concluded with the 'King of mankind'; it began with 'You alone we worship' and concluded with the 'God of mankind'; thus its beginning and its end encircle the absolute perfection of monotheism.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_114_001_suyuti_marasid_quran_seal",
+    "relationship_id": "rel_114_001_grand_cosmic_seal",
+    "source_id": "src_suyuti_marasid",
+    "exact_reference": "Marāṣid al-maṭāliʿ fī tanāsub al-maqāṭiʿ wa al-maṭāliʿ, p. 88",
+    "original_quote": "فاتحة الكتاب سأل فيها الهداية إلى الصراط المستقيم وتجنب الضلال، وخاتمة الكتاب استعاذ فيها من الوسواس الذي يوقع في ذلك الضلال، فتلاقى الطرفان في حفظ الدين.",
+    "translation_or_paraphrase": "In the Opening of the Book, the seeker asked for guidance to the straight path and avoidance of going astray; in the Conclusion of the Book, refuge was sought from the whisperer who causes that very deviation; thus the two extremities meet in the preservation of the faith.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  },
+  {
+    "id": "ev_114_001_biqai_cyclical_harmony",
+    "relationship_id": "rel_114_001_grand_cosmic_seal",
+    "source_id": "src_biqai",
+    "exact_reference": "Naẓm al-durar, Vol. 22, pp. 415-420",
+    "original_quote": "عاد آخر المصحف إلى أوله عوداً متصلاً كأنه دائرة مصمتة لا انفصام فيها.",
+    "translation_or_paraphrase": "The end of the Mushaf returned to its beginning in an unbroken continuum, as though it is a solid, perfect circle without any fissure.",
+    "supports_or_qualifies": "supports",
+    "reviewer_status": "verified"
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "surah": {
+    "id": 111,
+    "name_ar": "سُوْرَةُ المَسَدِ",
+    "name_en": "Al-Masad",
+    "name_meaning": "The Palm Fibre",
+    "name_transliteration": "Al-Masad",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 5,
+    "page_start": 603,
+    "page_end": 603,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Masad — The Ruin of the Persecutor & The Palm-Fiber Noose",
+    "personality_summary": "Judicial, punitive, historical-prophetic, uncompromising. The definitive condemnation of the Prophet's vicious uncle Abu Lahab and his wife Umm Jamil, declaring the absolute futility of their wealth and status against divine justice, and depicting her eternal carrying of firewood with a twisted rope of palm-fiber around her neck.",
+    "distinctive_voice": "Punitive, prophetic judgment, uncompromising.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Masad (The Palm Fibre) is the 111th surah in the canonical muṣḥaf sequence, comprising 5 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 111,
+      "ayah_number": 1,
+      "arabic_uthmani": "تَبَّتۡ يَدَآ أَبِي لَهَبࣲ وَتَبَّ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "arabic_clean": "بسم الله الرحمن الرحيم تبت يدا ابي لهب وتب",
+      "translation_saheeh": "May the hands of Abu Lahab be ruined, and ruined is he",
+      "translation_abdelhaleem": "May the hands of Abu Lahab be ruined! May he be ruined too",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 553,
+      "sajda": false
+    },
+    {
+      "surah_id": 111,
+      "ayah_number": 2,
+      "arabic_uthmani": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+      "arabic_simple": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "arabic_clean": "ما اغنى عنه ماله وما كسب",
+      "translation_saheeh": "His wealth will not avail him or that which he gained",
+      "translation_abdelhaleem": "Neither his wealth nor his gains will help him",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 553,
+      "sajda": false
+    },
+    {
+      "surah_id": 111,
+      "ayah_number": 3,
+      "arabic_uthmani": "سَيَصۡلَىٰ نَارࣰ ا ذَاتَ لَهَبࣲ‏",
+      "arabic_simple": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "arabic_clean": "سيصلى نارا ذات لهب",
+      "translation_saheeh": "He will [enter to] burn in a Fire of [blazing] flame",
+      "translation_abdelhaleem": "he will burn in the Flaming Fire––",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 553,
+      "sajda": false
+    },
+    {
+      "surah_id": 111,
+      "ayah_number": 4,
+      "arabic_uthmani": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+      "arabic_simple": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "arabic_clean": "وامراته حمالة الحطب",
+      "translation_saheeh": "And his wife [as well] - the carrier of firewood",
+      "translation_abdelhaleem": "and so will his wife, the firewood-carrier",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 553,
+      "sajda": false
+    },
+    {
+      "surah_id": 111,
+      "ayah_number": 5,
+      "arabic_uthmani": "فِي جِيدِهَا حَبۡلࣱ مِّن مَّسَدِۭ",
+      "arabic_simple": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "arabic_clean": "في جيدها حبل من مسد",
+      "translation_saheeh": "Around her neck is a rope of [twisted] fiber",
+      "translation_abdelhaleem": "with a palm-fibre rope around her neck",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 553,
+      "sajda": false
+    }
+  ]
+}

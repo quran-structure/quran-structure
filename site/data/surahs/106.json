@@ -1,0 +1,78 @@
+{
+  "surah": {
+    "id": 106,
+    "name_ar": "سُوْرَةُ قُرَيْشٍ",
+    "name_en": "Quraish",
+    "name_meaning": "Quraysh",
+    "name_transliteration": "Quraish",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 4,
+    "page_start": 602,
+    "page_end": 602,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Quraysh — The Sacred Enclave & The Covenant of Gratitude",
+    "personality_summary": "Civic, economic, covenantal, grateful. An immediate thematic twin to Al-Fil, reminding the tribe of Quraysh of their divine gift of secure winter and summer trading voyages, summoning them to worship the Lord of this Sacred Sanctuary who fed them against hunger and safeguarded them from fear.",
+    "distinctive_voice": "Gracious, covenantal, pastoral, reassuring.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Quraish (Quraysh) is the 106th surah in the canonical muṣḥaf sequence, comprising 4 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 106,
+      "ayah_number": 1,
+      "arabic_uthmani": "لِإِيلَٰفِ قُرَيۡشٍ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لِإِيلَافِ قُرَيْشٍ",
+      "arabic_clean": "بسم الله الرحمن الرحيم لايلاف قريش",
+      "translation_saheeh": "For the accustomed security of the Quraysh",
+      "translation_abdelhaleem": "[He did this] to make the Quraysh feel secure",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 548,
+      "sajda": false
+    },
+    {
+      "surah_id": 106,
+      "ayah_number": 2,
+      "arabic_uthmani": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "arabic_simple": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "arabic_clean": "ايلافهم رحلة الشتاء والصيف",
+      "translation_saheeh": "Their accustomed security [in] the caravan of winter and summer",
+      "translation_abdelhaleem": "secure in their winter and summer journeys",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 548,
+      "sajda": false
+    },
+    {
+      "surah_id": 106,
+      "ayah_number": 3,
+      "arabic_uthmani": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+      "arabic_simple": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "arabic_clean": "فليعبدوا رب هذا البيت",
+      "translation_saheeh": "Let them worship the Lord of this House",
+      "translation_abdelhaleem": "So let them worship the Lord of this House",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 548,
+      "sajda": false
+    },
+    {
+      "surah_id": 106,
+      "ayah_number": 4,
+      "arabic_uthmani": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+      "arabic_simple": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+      "arabic_clean": "الذي اطعمهم من جوع وامنهم من خوف",
+      "translation_saheeh": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear",
+      "translation_abdelhaleem": "who provides them with food to ward off hunger, safety to ward off fear",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 548,
+      "sajda": false
+    }
+  ]
+}

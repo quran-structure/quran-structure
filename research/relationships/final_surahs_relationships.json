@@ -1,0 +1,163 @@
+[
+  {
+    "id": "rel_105_106_sanctuary_security",
+    "from_type": "surah",
+    "from_id": "surah:105",
+    "to_type": "surah",
+    "to_id": "surah:106",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Al-Fil details the supernatural defeat of the army of the Elephant that attempted to destroy the Ka'bah. Surah Quraysh opens immediately stating the divine rationale for that miraculous protection: for the accustomed security of Quraysh in their summer and winter trading caravans, commanding them to worship the Lord of this protected House.",
+    "evidence_ids": [
+      "ev_105_106_biqai_protection",
+      "ev_105_106_suyuti_ilaf"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "In early non-canonical companion codices (such as that of Ubayy ibn Ka'b), they were conjoined without a Basmalah due to their intimate thematic unity, though the canonical 'Uthmanic codex established their autonomous surah boundaries.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_106_107_gratitude_hypocrisy",
+    "from_type": "ayah",
+    "from_id": "ayah:106:3-4",
+    "to_type": "ayah",
+    "to_id": "ayah:107:1-7",
+    "relationship_type": "thematic_contrast",
+    "description": "Surah Quraysh commands gratitude and worship toward the Lord who fed them from hunger and secured them from fear. Surah Al-Ma'un immediately portrays the exact antithesis: the stingy hypocrite who repels the orphan, refuses to feed the hungry, is unmindful of prayer, and withholds simple acts of neighborly kindness.",
+    "evidence_ids": [
+      "ev_106_107_razi_antithesis",
+      "ev_106_107_biqai_contrast"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "None; universally recognized as the moral and behavioral antithesis of the covenant demanded in Surah Quraysh.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_107_108_withholding_abundance",
+    "from_type": "surah",
+    "from_id": "surah:107",
+    "to_type": "surah",
+    "to_id": "surah:108",
+    "relationship_type": "thematic_contrast",
+    "description": "A perfect four-point symmetrical counter-balance: In Al-Ma'un, the denier is miserly, prays for show (yura'oon), withholds charity (yamna'oon al-ma'un), and exults in malice. In Al-Kawthar, Allah grants the Prophet infinite abundance, commands sincere prayer (fa-salli li-rabbika), commands major sacrifice (wanhar), and declares his mocking enemy to be the one truly cut off.",
+    "evidence_ids": [
+      "ev_107_108_razi_four_mirrors",
+      "ev_107_108_suyuti_counterweight"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Al-Kawthar was revealed in response to al-'As ibn Wa'il taunting the Prophet upon the death of his sons, making it both an immediate historical comfort and a theological counter-balance to Al-Ma'un.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_108_109_devotion_disavowal",
+    "from_type": "ayah",
+    "from_id": "ayah:108:2",
+    "to_type": "ayah",
+    "to_id": "ayah:109:1-6",
+    "relationship_type": "argument_progression",
+    "description": "Surah Al-Kawthar commands the Prophet to dedicate prayer and sacrifice purely to his Lord (Fa-salli li-rabbika wanhar). Surah Al-Kafirun immediately establishes the public, uncompromising boundary of that monotheistic devotion, rejecting pagan offers of syncretic worship and declaring: 'For you is your religion, and for me is my religion.'",
+    "evidence_ids": [
+      "ev_108_109_gharnati_iklas_amal",
+      "ev_108_109_biqai_disavowal"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Al-Kafirun represents the ultimate practical implementation of the pure worship ordained in Al-Kawthar.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_109_110_creed_victory",
+    "from_type": "surah",
+    "from_id": "surah:109",
+    "to_type": "surah",
+    "to_id": "surah:110",
+    "relationship_type": "cause_and_response",
+    "description": "Surah Al-Kafirun depicts the uncompromising refusal to bend to polytheism during the years of vulnerability. Surah An-Nasr arrives as the direct divine reward for that steadfastness: the conquest of Mecca and the entry of mankind into Islam in multitudes, instructing that triumph be celebrated through glorification and seeking forgiveness.",
+    "evidence_ids": [
+      "ev_109_110_suyuti_triumph",
+      "ev_109_110_biqai_conquest"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "An-Nasr also served as the prophetic sign of the imminent passing of the Prophet, as understood by Ibn Abbas and 'Umar.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_110_111_conquest_persecutor",
+    "from_type": "surah",
+    "from_id": "surah:110",
+    "to_type": "surah",
+    "to_id": "surah:111",
+    "relationship_type": "thematic_contrast",
+    "description": "While An-Nasr celebrates the universal triumph of Islam and crowds entering the faith, Al-Masad immediately clarifies the eternal ruin of the chief architect of persecution (Abu Lahab) and his wife, proving that worldly wealth and close tribal kinship to the Prophet offer zero defense against divine justice.",
+    "evidence_ids": [
+      "ev_110_111_gharnati_ruin",
+      "ev_110_111_biqai_justice"
+    ],
+    "confidence": "classical_scholarly_observation",
+    "alternative_views": "Al-Masad is early Makkan while An-Nasr is late Madinan; their placement in the canonical codex pairs triumph with the final defeat of hostility.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_111_112_perished_eternal",
+    "from_type": "ayah",
+    "from_id": "ayah:111:1-2",
+    "to_type": "ayah",
+    "to_id": "ayah:112:1-4",
+    "relationship_type": "thematic_contrast",
+    "description": "Surah Al-Masad exposes the destruction of Abu Lahab and the futility of human pedigree and wealth (Ma aghna 'anhu maluhu wa-ma kasab). Surah Al-Ikhlas immediately follows revealing the Eternal Sovereign (As-Samad) who transcends biological generation, partners, and lineage: 'He neither begets nor is He begotten.'",
+    "evidence_ids": [
+      "ev_111_112_suyuti_transcendence",
+      "ev_111_112_razi_nasab"
+    ],
+    "confidence": "supported_by_multiple_tafsir_sources",
+    "alternative_views": "Pagan Arabs asked the Prophet to declare the lineage (nasab) of his Lord; Al-Ikhlas was revealed to declare that the Creator has no lineage.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_112_113_creator_external_refuge",
+    "from_type": "surah",
+    "from_id": "surah:112",
+    "to_type": "surah",
+    "to_id": "surah:113",
+    "relationship_type": "argument_progression",
+    "description": "Surah Al-Ikhlas defines the Creator in absolute perfection and uncompromised monotheism. The Mu'awwidhatayn immediately instruct the creation on how to seek refuge with that Supreme Creator: Surah Al-Falaq seeks sanctuary from external, environmental, and physical perils (darkness, witchcraft, and the poison of envy).",
+    "evidence_ids": [
+      "ev_112_113_biqai_refuge",
+      "ev_112_113_suyuti_falaq"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "None; universally paired as the doctrinal foundation (Ikhlas) followed by practical invocation of sanctuary (Mu'awwidhatayn).",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_113_114_external_internal_refuge",
+    "from_type": "surah",
+    "from_id": "surah:113",
+    "to_type": "surah",
+    "to_id": "surah:114",
+    "relationship_type": "thematic_continuity",
+    "description": "The Mu'awwidhatayn pair external sanctuary with internal soul protection: Al-Falaq invokes one divine attribute (Rabb al-Falaq) against four physical/occult evils, whereas An-Nas invokes three divine attributes (Rabb, Malik, Ilah) against a single spiritual evil (the whisperer in human chests). Because corruption of faith in the heart jeopardizes eternal salvation, it demands triple protection with the Lord, King, and God of mankind.",
+    "evidence_ids": [
+      "ev_113_114_razi_body_soul",
+      "ev_113_114_ibn_ashur_teleology"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "The two surahs were revealed together regarding the incident of sorcery against the Prophet, functioning as an indivisible dual armor.",
+    "review_status": "reviewed_internal"
+  },
+  {
+    "id": "rel_114_001_grand_cosmic_seal",
+    "from_type": "surah",
+    "from_id": "surah:114",
+    "to_type": "surah",
+    "to_id": "surah:1",
+    "relationship_type": "opening_ending_correspondence",
+    "description": "The Grand Cosmic Envelope of the Holy Qur'an: The three divine attributes in Al-Fatihah (Rabbi al-'Alamin 1:2, Maliki Yawm al-Din 1:4, Iyyaka na'budu 1:5) are mirrored symmetrically in the final verses of the Qur'an in An-Nas (Rabbi al-Nas 114:1, Maliki al-Nas 114:2, Ilahi al-Nas 114:3). The Qur'an opens with a petition for guidance on the Straight Path (1:6) and concludes seeking sanctuary against the prime whisperer who leads souls astray from that path (114:4-6).",
+    "evidence_ids": [
+      "ev_114_001_zarkashi_burhan_envelope",
+      "ev_114_001_suyuti_marasid_quran_seal",
+      "ev_114_001_biqai_cyclical_harmony"
+    ],
+    "confidence": "explicitly_stated_by_classical_mufassir",
+    "alternative_views": "Celebrated across classical Sunni Ulum al-Qur'an as definitive proof that the canonical order of the Mushaf represents an inspired, closed structural sanctuary.",
+    "review_status": "reviewed_internal"
+  }
+]

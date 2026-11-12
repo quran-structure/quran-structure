@@ -1,0 +1,65 @@
+{
+  "surah": {
+    "id": 108,
+    "name_ar": "سُوْرَةُ الْكَوْثَرِ",
+    "name_en": "Al-Kawthar",
+    "name_meaning": "Abundance",
+    "name_transliteration": "Al-Kawthar",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 3,
+    "page_start": 602,
+    "page_end": 602,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Kawthar — The Abundant Stream & The Obliteration of the Detractor",
+    "personality_summary": "Bountiful, consoling, defiant, victorious. The shortest surah in the Qur'an, yet overflowing with boundless generosity: gifting the Prophet the celestial pool of Al-Kawthar in response to pagan taunts regarding the death of his sons. Commands prayer and sacrifice, concluding that his hateful mocker is the one cut off from posterity.",
+    "distinctive_voice": "Overflowing, consoling, protective, victorious.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Kawthar (Abundance) is the 108th surah in the canonical muṣḥaf sequence, comprising 3 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 108,
+      "ayah_number": 1,
+      "arabic_uthmani": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "arabic_clean": "بسم الله الرحمن الرحيم انا اعطيناك الكوثر",
+      "translation_saheeh": "Indeed, We have granted you, [O Muhammad], al-Kawthar",
+      "translation_abdelhaleem": "We have truly given abundance to you [Prophet]––",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 550,
+      "sajda": false
+    },
+    {
+      "surah_id": 108,
+      "ayah_number": 2,
+      "arabic_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "arabic_simple": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "arabic_clean": "فصل لربك وانحر",
+      "translation_saheeh": "So pray to your Lord and sacrifice [to Him alone]",
+      "translation_abdelhaleem": "so pray to your Lord and make your sacrifice to Him alone––",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 550,
+      "sajda": false
+    },
+    {
+      "surah_id": 108,
+      "ayah_number": 3,
+      "arabic_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "arabic_simple": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "arabic_clean": "ان شانئك هو الابتر",
+      "translation_saheeh": "Indeed, your enemy is the one cut off",
+      "translation_abdelhaleem": "it is the one who hates you who has been cut off",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 550,
+      "sajda": false
+    }
+  ]
+}

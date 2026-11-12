@@ -1,0 +1,117 @@
+{
+  "surah": {
+    "id": 107,
+    "name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+    "name_en": "Al-Maa'un",
+    "name_meaning": "Almsgiving",
+    "name_transliteration": "Al-Maa'un",
+    "alternative_names": [],
+    "revelation_classification": "makki",
+    "ayah_count": 7,
+    "page_start": 602,
+    "page_end": 602,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "Al-Ma'un — The Hypocrisy of Ritualism & The Denial of Small Mercies",
+    "personality_summary": "Socially diagnostic, unmasking, severe, prophetic. Unmasks the fatal spiritual hypocrisy of those who perform showy prayers (Mura'oon) while repelling the vulnerable orphan, refusing to feed the impoverished, and withholding the simplest domestic kindnesses (Al-Ma'un).",
+    "distinctive_voice": "Diagnostic, ethical, exposes hypocrisy, social.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah Al-Maa'un (Almsgiving) is the 107th surah in the canonical muṣḥaf sequence, comprising 7 ayat. Classified as Makki.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 107,
+      "ayah_number": 1,
+      "arabic_uthmani": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "arabic_clean": "بسم الله الرحمن الرحيم ارايت الذي يكذب بالدين",
+      "translation_saheeh": "Have you seen the one who denies the Recompense",
+      "translation_abdelhaleem": "[Prophet], have you considered the person who denies the Judgement",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 2,
+      "arabic_uthmani": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ",
+      "arabic_simple": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "arabic_clean": "فذلك الذي يدع اليتيم",
+      "translation_saheeh": "For that is the one who drives away the orphan",
+      "translation_abdelhaleem": "It is he who pushes aside the orphan",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 3,
+      "arabic_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "arabic_simple": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "arabic_clean": "ولا يحض على طعام المسكين",
+      "translation_saheeh": "And does not encourage the feeding of the poor",
+      "translation_abdelhaleem": "and does not urge others to feed the needy",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 4,
+      "arabic_uthmani": "فَوَيۡلࣱ لِّلۡمُصَلِّينَ",
+      "arabic_simple": "فَوَيْلٌ لِلْمُصَلِّينَ",
+      "arabic_clean": "فويل للمصلين",
+      "translation_saheeh": "So woe to those who pray",
+      "translation_abdelhaleem": "So woe to those who pray",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 5,
+      "arabic_uthmani": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+      "arabic_simple": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+      "arabic_clean": "الذين هم عن صلاتهم ساهون",
+      "translation_saheeh": "[But] who are heedless of their prayer",
+      "translation_abdelhaleem": "but are heedless of their prayer",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 6,
+      "arabic_uthmani": "ٱلَّذِينَ هُمۡ يُرَآءُونَ",
+      "arabic_simple": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "arabic_clean": "الذين هم يراءون",
+      "translation_saheeh": "Those who make show [of their deeds]",
+      "translation_abdelhaleem": "those who are all show",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    },
+    {
+      "surah_id": 107,
+      "ayah_number": 7,
+      "arabic_uthmani": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ",
+      "arabic_simple": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "arabic_clean": "ويمنعون الماعون",
+      "translation_saheeh": "And withhold [simple] assistance",
+      "translation_abdelhaleem": "and forbid common kindnesses",
+      "juz_number": 30,
+      "page_number": 602,
+      "ruku_number": 549,
+      "sajda": false
+    }
+  ]
+}

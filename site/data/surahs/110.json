@@ -1,0 +1,65 @@
+{
+  "surah": {
+    "id": 110,
+    "name_ar": "سُوْرَةُ النَّصْرِ",
+    "name_en": "An-Nasr",
+    "name_meaning": "Divine Support",
+    "name_transliteration": "An-Nasr",
+    "alternative_names": [],
+    "revelation_classification": "madani",
+    "ayah_count": 3,
+    "page_start": 603,
+    "page_end": 603,
+    "juz_numbers": [
+      30
+    ],
+    "personality_title": "An-Nasr — The Culmination of Victory & The Liturgy of Forgiveness",
+    "personality_summary": "Triumphant, eschatological, prophetic farewell, humble. Signals the historic victory and mass entry of humanity into the fold of Islam, yet instructs the Prophet not to celebrate with imperial hubris, but to drown victory in the glorification of Allah and the seeking of divine forgiveness, subtly foreshadowing his imminent departure.",
+    "distinctive_voice": "Victorious, humble, liturgical, poignant.",
+    "opening_ending_dynamic": "Connects opening theme to terminal resolution.",
+    "overview": "Surah An-Nasr (Divine Support) is the 110th surah in the canonical muṣḥaf sequence, comprising 3 ayat. Classified as Madani.",
+    "central_topics": [],
+    "research_status": "draft"
+  },
+  "ayahs": [
+    {
+      "surah_id": 110,
+      "ayah_number": 1,
+      "arabic_uthmani": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "arabic_simple": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "arabic_clean": "بسم الله الرحمن الرحيم اذا جاء نصر الله والفتح",
+      "translation_saheeh": "When the victory of Allah has come and the conquest",
+      "translation_abdelhaleem": "When God’s help comes and He opens up your way [Prophet]",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 552,
+      "sajda": false
+    },
+    {
+      "surah_id": 110,
+      "ayah_number": 2,
+      "arabic_uthmani": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجࣰ ا",
+      "arabic_simple": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "arabic_clean": "ورايت الناس يدخلون في دين الله افواجا",
+      "translation_saheeh": "And you see the people entering into the religion of Allah in multitudes",
+      "translation_abdelhaleem": "when you see people embracing God’s faith in crowds",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 552,
+      "sajda": false
+    },
+    {
+      "surah_id": 110,
+      "ayah_number": 3,
+      "arabic_uthmani": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "arabic_simple": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "arabic_clean": "فسبح بحمد ربك واستغفره ۚ انه كان توابا",
+      "translation_saheeh": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance",
+      "translation_abdelhaleem": "celebrate the praise of your Lord and ask His forgiveness: He is always ready to accept repentance",
+      "juz_number": 30,
+      "page_number": 603,
+      "ruku_number": 552,
+      "sajda": false
+    }
+  ]
+}
